@@ -1,4 +1,4 @@
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { createHashRouter, RouterProvider } from "react-router-dom";
 import DiscordIcon from "../assets/discord.svg?react";
 import ScreenAbilities from "../screens/ScreenAbilities";
 import ScreenAbility from "../screens/ScreenAbility";
@@ -10,48 +10,43 @@ import ScreenType from "../screens/ScreenType";
 import ScreenTypes from "../screens/ScreenTypes";
 import styles from "./App.module.css";
 
-const router = createBrowserRouter(
-  [
-    {
-      path: "/",
-      element: <ScreenRoot />,
-      errorElement: <ScreenError />,
-    },
-    {
-      path: "/pokemon",
-      element: <ScreenPokedex />,
-      errorElement: <ScreenError />,
-    },
-    {
-      path: "/pokemon/:id",
-      element: <ScreenPokemon />,
-      errorElement: <ScreenError />,
-    },
-    {
-      path: "/abilities/",
-      element: <ScreenAbilities />,
-      errorElement: <ScreenError />,
-    },
-    {
-      path: "/abilities/:id",
-      element: <ScreenAbility />,
-      errorElement: <ScreenError />,
-    },
-    {
-      path: "/types/",
-      element: <ScreenTypes />,
-      errorElement: <ScreenError />,
-    },
-    {
-      path: "/types/:id",
-      element: <ScreenType />,
-      errorElement: <ScreenError />,
-    },
-  ],
+const router = createHashRouter([
   {
-    basename: "/sweltering-sun-remix",
+    path: "/",
+    element: <ScreenRoot />,
+    errorElement: <ScreenError />,
   },
-);
+  {
+    path: "/pokemon",
+    element: <ScreenPokedex />,
+    errorElement: <ScreenError />,
+  },
+  {
+    path: "/pokemon/:id",
+    element: <ScreenPokemon />,
+    errorElement: <ScreenError />,
+  },
+  {
+    path: "/abilities/",
+    element: <ScreenAbilities />,
+    errorElement: <ScreenError />,
+  },
+  {
+    path: "/abilities/:id",
+    element: <ScreenAbility />,
+    errorElement: <ScreenError />,
+  },
+  {
+    path: "/types/",
+    element: <ScreenTypes />,
+    errorElement: <ScreenError />,
+  },
+  {
+    path: "/types/:id",
+    element: <ScreenType />,
+    errorElement: <ScreenError />,
+  },
+]);
 
 export default function App() {
   void styles;

@@ -12,6 +12,8 @@ export function ScreenPokemon() {
   const data = POKEMON[id as keyof typeof POKEMON];
   if (!data) throw Error(`Could not retrieve data for Pokémon '${id}'.`);
 
+  window.scrollTo({ top: 0 });
+
   return (
     <div className={styles.root}>
       <NavButton to="/pokemon" className={styles.backButton}>
@@ -52,7 +54,9 @@ export function ScreenPokemon() {
               </div>
             </div>
           ) : (
-            <div className={styles.missing}>No recorded stats...</div>
+            <div className={styles.missing} style={{ gridColumn: 3 }}>
+              No recorded stats...
+            </div>
           );
         })()}
       </div>

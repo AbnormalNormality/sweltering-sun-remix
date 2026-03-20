@@ -1,0 +1,23 @@
+.discordLink {
+  display: flex;
+  position: fixed;
+  right: 16px;
+  bottom: 16px;
+  align-items: center;
+  gap: 8px;
+  filter: drop-shadow(0 2px 2px var(--colour-shadow));
+  border-radius: 4px;
+}
+
+.discordIcon {
+  --size: 56px;
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-in-out;
+  width: var(--size);
+  height: var(--size);
+  color: #5865f2;
+}
+
+.discordIcon:hover {
+  transform: scale(1.5);
+}

@@ -1,0 +1,8 @@
+.root {
+  border: 1px solid var(--colour-border);
+  border-radius: 4px;
+  background-color: var(--colour-menu);
+  padding: 3px 7px;
+  width: fit-content;
+  text-decoration: none;
+}

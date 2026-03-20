@@ -1,0 +1,149 @@
+$entry-border: 1px;
+$entry-padding: 3px;
+$entry-gap: 8px;
+$image-width: calc(var(--row-height) - $entry-border * 2 - $entry-padding * 2);
+
+$angle: 90;
+$gradient-offset: calc($image-width / 2 + $entry-border + $entry-padding);
+
+.root {
+  --row-height: 64px;
+
+  $column-width: calc(var(--row-height) * 4);
+  $grid-padding: 8px;
+  $grid-gap: 8px;
+  $max-columns: 4;
+  $grid-max-width: calc(
+    $grid-padding * 2 + $column-width * $max-columns + $grid-gap * ($max-columns - 1)
+  );
+
+  display: grid;
+  grid-template-columns: repeat(auto-fit, $column-width);
+  grid-auto-rows: var(--row-height);
+  grid-auto-flow: row;
+  justify-content: center;
+  gap: $grid-gap;
+  margin: 0 auto;
+  padding: $grid-padding;
+  max-width: $grid-max-width;
+}
+
+.entry,
+.mask {
+  --gradient-angle: calc(1deg * #{$angle});
+
+  column-gap: $entry-gap;
+  align-items: center;
+  padding: $entry-padding;
+}
+
+.entry {
+  --type-1-light: var(--colour-menu);
+  --type-1-dark: var(--colour-border);
+  --type-2-light: var(--colour-menu);
+  --type-2-dark: var(--colour-border);
+  --type-1-bg: var(--type-1-light);
+  --type-1-fg: var(--type-1-dark);
+  --type-2-bg: var(--type-2-light);
+  --type-2-fg: var(--type-2-dark);
+
+  display: grid;
+  position: relative;
+  grid-template-rows: 2fr 1fr;
+  grid-template-columns: $image-width 1fr;
+  cursor: pointer;
+  box-shadow: 0 2px 2px var(--colour-shadow);
+  border: $entry-border solid transparent;
+  border-radius: 4px;
+  background:
+    linear-gradient(
+        var(--gradient-angle),
+        var(--type-1-bg) calc(50% + $gradient-offset),
+        var(--type-2-bg) calc(50% - $gradient-offset)
+      )
+      padding-box,
+    linear-gradient(
+        var(--gradient-angle),
+        var(--type-1-fg) calc(50% + $gradient-offset),
+        var(--type-2-fg) calc(50% - $gradient-offset)
+      )
+      border-box;
+  background-color: var(--colour-menu);
+  height: 100%;
+  color: var(--colour-text);
+}
+
+.mask {
+  display: inherit;
+  position: absolute;
+  grid-template-rows: inherit;
+  grid-template-columns: inherit;
+  inset: 0;
+  background: linear-gradient(
+    var(--gradient-angle),
+    var(--type-1-fg) calc(50% + $gradient-offset),
+    var(--type-2-fg) calc(50% - $gradient-offset)
+  );
+  background-clip: text;
+  pointer-events: none;
+  /*
+  Sam's suggestion:
+  Black outline with white text
+  */
+}
+
+.mask * {
+  pointer-events: auto;
+}
+
+.name {
+  grid-row: 1;
+  grid-column: 2;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.name:only-child {
+  grid-row: 1 / span 2;
+}
+
+.form {
+  grid-row: 2;
+  grid-column: 2;
+  font-size: 0.75rem;
+  text-align: center;
+}
+
+.image {
+  grid-row: 1 / -1;
+  grid-column: 1;
+  filter: drop-shadow(0 2px 2px var(--colour-shadow));
+  aspect-ratio: 1 / 1;
+  height: 100%;
+  min-height: 0;
+  object-fit: contain;
+}
+
+@media (prefers-color-scheme: dark) {
+  .entry {
+    /*
+    Sam's suggestion:
+    Regular colours for dark theme
+    Inverted for darker theme
+    */
+    --type-1-bg: var(--type-1-dark);
+    --type-1-fg: var(--type-1-light);
+    --type-2-bg: var(--type-2-dark);
+    --type-2-fg: var(--type-2-light);
+  }
+}
+
+@media screen and (orientation: portrait) {
+  .root {
+    --row-height: 48px;
+  }
+
+  .name {
+    font-size: 1.33rem;
+  }
+}

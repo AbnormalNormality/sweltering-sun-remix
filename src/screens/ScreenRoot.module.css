@@ -1,0 +1,11 @@
+.root {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer {
+  margin-top: 32px;
+  padding: 16px;
+  color: var(--colour-light-text);
+  text-align: center;
+}

@@ -1,0 +1,77 @@
+@import url("modern-normalize/modern-normalize.css");
+
+:root {
+  --colour-background: #fff;
+  --colour-menu: #e0e0e0;
+  --colour-text: #000;
+  --colour-light-text: #666;
+  --colour-shadow: hsl(0, 0%, 0%, 0.25);
+  --colour-border: #999;
+
+  --type-bug-light: #daea77;
+  --type-bug-dark: #747e40;
+  --type-dark-light: #745f5f;
+  --type-dark-dark: #251e1e;
+  --type-dragon-light: #674ea7;
+  --type-dragon-dark: #20124d;
+  --type-electric-light: #ffd966;
+  --type-electric-dark: #7f6000;
+  --type-fairy-light: #ead1dc;
+  --type-fairy-dark: #c27ba0;
+  --type-fighting-light: #cc4125;
+  --type-fighting-dark: #5b0f00;
+  --type-fire-light: #ff9900;
+  --type-fire-dark: #783f04;
+  --type-flying-light: #c9daf8;
+  --type-flying-dark: #6d9eeb;
+  --type-ghost-light: #8e7cc3;
+  --type-ghost-dark: #351c75;
+  --type-grass-light: #93c47d;
+  --type-grass-dark: #274e13;
+  --type-ground-light: #d9b547;
+  --type-ground-dark: #5d4a13;
+  --type-ice-light: #cfe2f3;
+  --type-ice-dark: #6fa8dc;
+  --type-normal-light: #cccccc;
+  --type-normal-dark: #666666;
+  --type-poison-light: #a64d79;
+  --type-poison-dark: #4c1130;
+  --type-psychic-light: #c27ba0;
+  --type-psychic-dark: #741b47;
+  --type-rock-light: #d5c38c;
+  --type-rock-dark: #5e4a13;
+  --type-steel-light: #999999;
+  --type-steel-dark: #434343;
+  --type-water-light: #6fa8dc;
+  --type-water-dark: #073763;
+
+  background-color: var(--colour-background);
+  color: var(--colour-text);
+  color-scheme: light;
+}
+
+#root {
+  width: 100dvw;
+  height: 100dvh;
+}
+
+div {
+  color: inherit;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --colour-background: hsl(0, 0%, 25%);
+    --colour-menu: #606060;
+    --colour-text: #fff;
+    --colour-light-text: #c0c0c0;
+    --colour-border: #000; /*FIXME*/
+
+    color-scheme: dark;
+  }
+}
+
+/* * {
+  filter: none !important;
+  box-shadow: none !important;
+} */

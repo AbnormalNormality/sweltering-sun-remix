@@ -25,7 +25,7 @@ export function ScreenPokemon() {
         {data.species ? `The ${data.species} Pokémon` : "Unknown Pokémon species"}
       </div>
       <div className={styles.imageContainer}>
-        <img src={`art/${id}.png`} className={styles.image} />
+        <img src={`${import.meta.env.BASE_URL}/art/${id}.png`} className={styles.image} />
         {(() => {
           const bst = Object.values(data.stats).reduce((p, c) => c + p);
           return bst > 0 ? (

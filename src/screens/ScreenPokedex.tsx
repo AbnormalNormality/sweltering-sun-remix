@@ -98,7 +98,7 @@ export default function ScreenPokedex() {
                   <div className={styles.name}>{name}</div>
                   {form && <div className={styles.form}>{form}</div>}
                 </div>
-                <img src={`art/${id}.png`} className={styles.image} />
+                <img src={`${import.meta.env.BASE_URL}/art/${id}.png`} className={styles.image} />
               </NavLink>
             ))}
           </>

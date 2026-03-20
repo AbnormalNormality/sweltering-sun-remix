@@ -1,1 +1,414 @@
-/home/alia/Code/Data/Dooz/abilities.json
+{
+  "jungleRush": {
+    "name": "Jungle Rush",
+    "description": "May not exist: https://discord.com/channels/815432371305971743/1164454435683057754/1424495458935377972"
+  },
+  "darkImmunity": {
+    "name": "Dark Immunity",
+    "description": ""
+  },
+  "bugImmunity": {
+    "name": "Bug Immunity",
+    "description": ""
+  },
+  "drainingAbility": {
+    "name": "Draining Ability",
+    "description": ""
+  },
+  "adaptability": {
+    "name": "Adaptability",
+    "description": ""
+  },
+  "amplifier": {
+    "name": "Amplifier",
+    "description": ""
+  },
+  "analytic": {
+    "name": "Analytic",
+    "description": ""
+  },
+  "appetite": {
+    "name": "Appetite",
+    "description": ""
+  },
+  "badDreams": {
+    "name": "Bad Dreams",
+    "description": ""
+  },
+  "barbed": {
+    "name": "Barbed",
+    "description": ""
+  },
+  "battleArmour": {
+    "name": "Battle Armour",
+    "description": ""
+  },
+  "berserk": {
+    "name": "Berserk",
+    "description": ""
+  },
+  "bruteForce": {
+    "name": "Brute Force",
+    "description": ""
+  },
+  "bulletproof": {
+    "name": "Bulletproof",
+    "description": ""
+  },
+  "comatose": {
+    "name": "Comatose",
+    "description": ""
+  },
+  "corrosion": {
+    "name": "Corrosion",
+    "description": ""
+  },
+  "cursedBody": {
+    "name": "Cursed Body",
+    "description": ""
+  },
+  "darkAura": {
+    "name": "Dark Aura",
+    "description": ""
+  },
+  "dazzling": {
+    "name": "Dazzling",
+    "description": ""
+  },
+  "defiant": {
+    "name": "Defiant",
+    "description": ""
+  },
+  "drizzle": {
+    "name": "Drizzle",
+    "description": ""
+  },
+  "drought": {
+    "name": "Drought",
+    "description": ""
+  },
+  "drySkin": {
+    "name": "Dry Skin",
+    "description": ""
+  },
+  "electricSurge": {
+    "name": "Electric Surge",
+    "description": ""
+  },
+  "elegance": {
+    "name": "Elegance",
+    "description": ""
+  },
+  "energyShield": {
+    "name": "Energy Shield",
+    "description": ""
+  },
+  "flameBody": {
+    "name": "Flame Body",
+    "description": "Has been called Flame Body, Molten Body, and Burning Body. Name is TBD.\nIn response to my joke about naming it \"Really Hot\", Dooz (jokingly?) replied \"SWELTERING SKIN\" and \"🗣️\"."
+  },
+  "flareBoost": {
+    "name": "Flare Boost",
+    "description": ""
+  },
+  "flareHeal": {
+    "name": "Flare Heal",
+    "description": ""
+  },
+  "flashFire": {
+    "name": "Flash Fire",
+    "description": ""
+  },
+  "furCoat": {
+    "name": "Fur Coat",
+    "description": ""
+  },
+  "galvanise": {
+    "name": "Galvanise",
+    "description": ""
+  },
+  "gooey": {
+    "name": "Gooey",
+    "description": ""
+  },
+  "grassyGuard": {
+    "name": "Grassy Guard",
+    "description": ""
+  },
+  "grassySurge": {
+    "name": "Grassy Surge",
+    "description": ""
+  },
+  "harvest": {
+    "name": "Harvest",
+    "description": ""
+  },
+  "headstrong": {
+    "name": "Headstrong",
+    "description": ""
+  },
+  "hugePower": {
+    "name": "Huge Power",
+    "description": ""
+  },
+  "hustle": {
+    "name": "Hustle",
+    "description": ""
+  },
+  "illusion": {
+    "name": "Illusion",
+    "description": ""
+  },
+  "incinerate": {
+    "name": "Incinerate",
+    "description": ""
+  },
+  "infection": {
+    "name": "Infection",
+    "description": ""
+  },
+  "intimidate": {
+    "name": "Intimidate",
+    "description": ""
+  },
+  "levitate": {
+    "name": "Levitate",
+    "description": ""
+  },
+  "lightningRod": {
+    "name": "Lightning Rod",
+    "description": ""
+  },
+  "lingeringAroma": {
+    "name": "Lingering Aroma",
+    "description": ""
+  },
+  "liquidVeil": {
+    "name": "Liquid Veil",
+    "description": ""
+  },
+  "magicBounce": {
+    "name": "Magic Bounce",
+    "description": ""
+  },
+  "megaLauncher": {
+    "name": "Mega Launcher",
+    "description": ""
+  },
+  "metabolism": {
+    "name": "Metabolism",
+    "description": ""
+  },
+  "merciless": {
+    "name": "Merciless",
+    "description": ""
+  },
+  "mistySurge": {
+    "name": "Misty Surge",
+    "description": ""
+  },
+  "moxie": {
+    "name": "Moxie",
+    "description": ""
+  },
+  "multiscale": {
+    "name": "Multiscale",
+    "description": ""
+  },
+  "neuroforce": {
+    "name": "Neuroforce",
+    "description": ""
+  },
+  "permafrost": {
+    "name": "Permafrost",
+    "description": ""
+  },
+  "pixilate": {
+    "name": "Pixilate",
+    "description": ""
+  },
+  "poisonHeal": {
+    "name": "Poison Heal",
+    "description": ""
+  },
+  "prankster": {
+    "name": "Prankster",
+    "description": ""
+  },
+  "psychicSurge": {
+    "name": "Psychic Surge",
+    "description": ""
+  },
+  "quickFeet": {
+    "name": "Quick Feet",
+    "description": ""
+  },
+  "rapidFire": {
+    "name": "Rapid Fire",
+    "description": ""
+  },
+  "reckless": {
+    "name": "Reckless",
+    "description": ""
+  },
+  "refrigerate": {
+    "name": "Refrigerate",
+    "description": ""
+  },
+  "regenerator": {
+    "name": "Regenerator",
+    "description": ""
+  },
+  "roughSkin": {
+    "name": "Rough Skin",
+    "description": ""
+  },
+  "ruthless": {
+    "name": "Ruthless",
+    "description": ""
+  },
+  "sandForce": {
+    "name": "Sand Force",
+    "description": ""
+  },
+  "sandStream": {
+    "name": "Sand Stream",
+    "description": ""
+  },
+  "sandRush": {
+    "name": "Sand Rush",
+    "description": ""
+  },
+  "sapSipper": {
+    "name": "Sap Sipper",
+    "description": ""
+  },
+  "sharpness": {
+    "name": "Sharpness",
+    "description": ""
+  },
+  "sheerForce": {
+    "name": "Sheer Force",
+    "description": ""
+  },
+  "shellArmour": {
+    "name": "Shell Armour",
+    "description": ""
+  },
+  "simple": {
+    "name": "Simple",
+    "description": ""
+  },
+  "sixthSense": {
+    "name": "Sixth Sense",
+    "description": ""
+  },
+  "slushRush": {
+    "name": "Slush Rush",
+    "description": ""
+  },
+  "snowWarning": {
+    "name": "Snow Warning",
+    "description": ""
+  },
+  "solarPower": {
+    "name": "Solar Power",
+    "description": ""
+  },
+  "solarRush": {
+    "name": "Solar Rush",
+    "description": ""
+  },
+  "static": {
+    "name": "Static",
+    "description": ""
+  },
+  "steelworker": {
+    "name": "Steelworker",
+    "description": ""
+  },
+  "stormDrain": {
+    "name": "Storm Drain",
+    "description": ""
+  },
+  "stormySeas": {
+    "name": "Stormy Seas",
+    "description": ""
+  },
+  "strongJaw": {
+    "name": "Strong Jaw",
+    "description": ""
+  },
+  "superLuck": {
+    "name": "Super Luck",
+    "description": ""
+  },
+  "swiftSwim": {
+    "name": "Swift Swim",
+    "description": ""
+  },
+  "swiftness": {
+    "name": "Swiftness",
+    "description": ""
+  },
+  "technician": {
+    "name": "Technician",
+    "description": ""
+  },
+  "thickFat": {
+    "name": "Thick Fat",
+    "description": ""
+  },
+  "toughClaws": {
+    "name": "Tough Claws",
+    "description": ""
+  },
+  "toxicBoost": {
+    "name": "Toxic Boost",
+    "description": ""
+  },
+  "trace": {
+    "name": "Trace",
+    "description": ""
+  },
+  "triage": {
+    "name": "Triage",
+    "description": ""
+  },
+  "truant": {
+    "name": "Truant",
+    "description": ""
+  },
+  "unaware": {
+    "name": "Unaware",
+    "description": ""
+  },
+  "unburden": {
+    "name": "Unburden",
+    "description": ""
+  },
+  "unnerve": {
+    "name": "Unnerve",
+    "description": ""
+  },
+  "voltRush": {
+    "name": "Volt Rush",
+    "description": ""
+  },
+  "waterAbsorb": {
+    "name": "Water Absorb",
+    "description": ""
+  },
+  "weakArmour": {
+    "name": "Weak Armour",
+    "description": ""
+  },
+  "wimpOut": {
+    "name": "Wimp Out",
+    "description": ""
+  },
+  "windRider": {
+    "name": "Wind Rider",
+    "description": ""
+  }
+}

@@ -1,1 +1,26 @@
-/home/alia/Code/Data/Dooz/stats.json
+{
+  "hp": {
+    "name": "HP",
+    "shortName": "HP"
+  },
+  "attack": {
+    "name": "Attack",
+    "shortName": "Attack"
+  },
+  "defence": {
+    "name": "Defence",
+    "shortName": "Defence"
+  },
+  "specialAttack": {
+    "name": "Special Attack",
+    "shortName": "Sp. Atk"
+  },
+  "specialDefence": {
+    "name": "Special Defence",
+    "shortName": "Sp. Def"
+  },
+  "speed": {
+    "name": "Speed",
+    "shortName": "Speed"
+  }
+}

@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+SRC="/home/alia/Code/Data/Dooz"
+DEST="/home/alia/Code/Projects/sweltering-sun-remix/src/data"
+
+mkdir -p "$DEST"
+
+for file in abilities types pokemon stats; do
+  cp "$SRC/$file.json" "$DEST/"
+done

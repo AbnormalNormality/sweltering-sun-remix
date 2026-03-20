@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+
+favicon="public/favicon.svg"
+output_dir="public/"
+density=4096
+
+magick -density "$density" -background none "$favicon" \
+  -define icon:auto-resize=16,32,48,64 \
+  "$output_dir/favicon.ico"
+
+magick -density "$density" -background none "$favicon" \
+  -resize 180x180 \
+  "$output_dir/apple-touch-icon.png"
+
+magick -density "$density" -background none "$favicon" \
+  -resize 400x400 \
+  -gravity center \
+  -background white \
+  -extent 1200x630 \
+  "$output_dir/og-image.png"
+
+magick -density "$density" -background none "$favicon" \
+  -resize 816x816 \
+  -gravity center \
+  -extent 1024x1024 \
+  "$output_dir/maskable-icon.png"

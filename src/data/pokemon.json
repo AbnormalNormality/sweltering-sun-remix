@@ -1,1 +1,5267 @@
-/home/alia/Code/Data/Dooz/pokemon.json
+{
+  "sunkern": {
+    "name": "Sunkern",
+    "form": null,
+    "types": ["grass"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "sunflora": {
+    "name": "Sunflora",
+    "form": null,
+    "types": ["grass", "fire"],
+    "abilities": ["intimidate", "drought"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": [
+      "In Alola, Sunflora have become far more aggressive and adept to the hot climate. Opponents will quiver in fear when this Pokémon enters battle.",
+      "This Pokémon was worshipped as the embodiment of the sun in Alola's past, but also greatly feared. As a result, Alolan natives treat this Pokémon with great respect in hopes it will bring good harvests and weather."
+    ]
+  },
+  "mankey": {
+    "name": "Mankey",
+    "form": null,
+    "types": ["fighting", "electric"],
+    "abilities": ["hustle", "defiant"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": [
+      "To counter heavy predation by flying type Pokémon, Mankey in Alola have adapted the ability to harness electricity within their own body.",
+      "The electric energy flowing through Mankey and Primeape makes them even angrier and more energetic than their Kantonian counterparts. When they release this energy, however, they feel immense relief.",
+      "Urban legends state this transformation of Mankey and Primeape happened when a troop of Mankey were caught in a tropical storm and struck by lightning. This theory has been mostly debunked by researchers, however."
+    ]
+  },
+  "primeape": {
+    "name": "Primeape",
+    "form": null,
+    "types": ["fighting", "electric"],
+    "abilities": ["hustle", "reckless"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": [
+      "The electric energy flowing through Mankey and Primeape makes them even angrier and more energetic than their Kantonian counterparts. When they release this energy, however, they feel immense relief.",
+      "Urban legends state this transformation of Mankey and Primeape happened when a troop of Mankey were caught in a tropical storm and struck by lightning. This theory has been mostly debunked by researchers, however."
+    ]
+  },
+  "slakoth": {
+    "name": "Slakoth",
+    "form": null,
+    "types": ["normal", "ice"],
+    "abilities": ["metabolism", "truant"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": [
+      "Alolan Slakoth and Vigoroth's claws are composed of specialised, hardened ice, which they use to dig around in the snowy areas where they live."
+    ]
+  },
+  "vigoroth": {
+    "name": "Vigoroth",
+    "form": null,
+    "types": ["normal", "ice"],
+    "abilities": ["hustle", "unburden"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": [
+      "Alolan Slakoth and Vigoroth's claws are composed of specialised, hardened ice, which they use to dig around in the snowy areas where they live."
+    ]
+  },
+  "slaking": {
+    "name": "Slaking",
+    "form": null,
+    "types": ["normal", "ice"],
+    "abilities": ["hustle", "unburden"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": [
+      "In Alola, these Pokémon have adapted to live in the harsh cold mountains. Native Alolans tell many tales of being attacked by a massive, violent ape-like Pokémon in the mountains."
+    ]
+  },
+  "poochyena": {
+    "name": "Poochyena",
+    "form": null,
+    "types": ["dark", "rock"],
+    "abilities": ["moxie", "defiant"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "mightyena": {
+    "name": "Mightyena",
+    "form": null,
+    "types": ["dark", "rock"],
+    "abilities": ["moxie", "strongJaw"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": [
+      "Scientists have tested this variant of Mightyena's teeth and claw composition and found they are identical to rocks indigenous to the region.",
+      "This variant of Mightyena is far more aggressive and enjoys combat even more than their Hoennian counterparts."
+    ]
+  },
+  "goldeen": {
+    "name": "Goldeen",
+    "form": null,
+    "types": ["water", "ghost"],
+    "abilities": ["adaptability", "lightningRod"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": [
+      "Alolan Goldeen are Goldeen that were kept as pets and abandoned, flushed down the toilet, killing them. They roam the waters near their homes, crying, loathing their former owners.",
+      "Alolan Goldeen's dead eyes are entirely incapable of expressing any emotion other than sadness. This has made them unpopular choices amongst trainers."
+    ]
+  },
+  "seaking": {
+    "name": "Seaking",
+    "form": null,
+    "types": ["water", "ghost"],
+    "abilities": ["adaptability", "lightningRod"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": [
+      "Alolan Seaking resent their former owners for abandoning them. They roam aimlessly, seeming permanently lost. However, they will attack violently when provoked."
+    ]
+  },
+  "clauncher": {
+    "name": "Clauncher",
+    "form": null,
+    "types": ["bug", "fire"],
+    "abilities": ["megaLauncher", "rapidFire", "stormDrain"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Decoy Shell",
+    "pokedexEntries": [
+      "Remix Clauncher puffs up its claws and fans its tail in a serpentine display meant to mimic dragons. If intimidation fails, it unleashes high-heat bursts from its blaster claw, occasionally igniting its own shell in the process as it's shell has not fully developed to handle the intense heat."
+    ]
+  },
+  "clawitzer": {
+    "name": "Clawitzer",
+    "form": null,
+    "types": ["bug", "fire"],
+    "abilities": ["megaLauncher", "rapidFire", "stormDrain"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Inferno Shrimp",
+    "pokedexEntries": [
+      "This variant of Clawitzer has evolved to mimic a threatening dragon's appearance to ward off larger predators. They can still manuever through water with ease.",
+      "Despite not being a Dragon-type, this crustacean has the firepower to back up its intimidating appearance! This firepower is useful for burning up prey too!"
+    ]
+  },
+  "ponyta": {
+    "name": "Ponyta",
+    "form": null,
+    "types": ["ghost", "fairy"],
+    "abilities": ["flashFire", "flareBoost"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Wisp Colt",
+    "pokedexEntries": [
+      "This mystical Pokémon gallops silently through moonlight, its body trailing pale embers. Children who follow its glow often wake up miles from home, unable to explain how they got there."
+    ]
+  },
+  "rapidash": {
+    "name": "Rapidash",
+    "form": null,
+    "types": ["ghost", "fairy"],
+    "abilities": ["flashFire", "flareBoost"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Phantom Blaze",
+    "pokedexEntries": [
+      "Remix Rapidash's body pulses with a strange inner fire. Though it no longer bears real flame, its heatless blaze scorches only the soul, not the skin.",
+      "With every step, this Pokémon burns away the veil between dimensions. Its hooves leave behind trails of spectral ash that shimmer briefly before vanishing into the air.",
+      "It has been said in legends that this Pokémon can escort people and other Pokémon to the afterlife."
+    ]
+  },
+  "abra": {
+    "name": "Abra",
+    "form": null,
+    "types": ["ice", "fairy"],
+    "abilities": ["refrigerate", "pixilate", "wimpOut"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Vanilla Sprinkle",
+    "pokedexEntries": [
+      "Trainers who bond with it claim to hear faint jingles—like an ice cream truck approaching—from nowhere.",
+      "Scientists have discovered that Abra's sense of smell is specially adapted to detect the smell of ice cream from a massive distance."
+    ]
+  },
+  "kadabra": {
+    "name": "Kadabra",
+    "form": null,
+    "types": ["ice", "fairy"],
+    "abilities": ["refrigerate", "pixilate", "steelworker"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Chocolate Swirl",
+    "pokedexEntries": [
+      "Kadabra's tail is coated in a thick syrup-like substance that smells strongly of chocolate. Its spoon glows when it prepares to launch bursts of energy."
+    ]
+  },
+  "alakazam": {
+    "name": "Alakazam",
+    "form": null,
+    "types": ["ice", "steel"],
+    "abilities": ["refrigerate", "steelworker", "weakArmour"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Mint Chip",
+    "pokedexEntries": [
+      "It screams at the top of its lungs when it gets excited. What excites them? Ice cream, of course!",
+      "Kadabra especially skilled at wielding spoons are said to evolve into Alakazam when they learnt to fuse the metal form the spoon into armour."
+    ]
+  },
+  "alakazamMega": {
+    "name": "Alakazam",
+    "form": "Mega",
+    "types": ["fairy", "steel"],
+    "abilities": ["pixilate", "steelworker", "levitate"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Neapolitan Bliss",
+    "pokedexEntries": [
+      "Upon Mega Evolution, it absorbs the elemental energy of its previous forms. The strawberry gem on its head flows when its about to attack.",
+      "Mega Alakazam's beard is made of a magical ice cream that never runs out. Mega Alakazam can live in a state of true bliss knowing its constant craving for ice cream will always be satiated—and their body metabolises it so quickly they never gain weight!"
+    ]
+  },
+  "mareanie": {
+    "name": "Mareanie",
+    "form": null,
+    "types": ["poison", "electric"],
+    "abilities": ["merciless", "regenerator", "stormDrain"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Voltage Spine",
+    "pokedexEntries": [
+      "Mareanie in this form are drawn to electromagnetic seabeds where currents surge through mineral-rich waters. They store electrical energy in their gleaming golden spines, releasing sudden shocks into prey with surgical precision."
+    ]
+  },
+  "toxapex": {
+    "name": "Toxapex",
+    "form": null,
+    "types": ["poison", "electric"],
+    "abilities": ["merciless", "regenerator", "stormDrain"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Brutal Current",
+    "pokedexEntries": [
+      "This fearsome predator specifically targets Doozian Corsola—piercing through its armour-like plating with concentrated bioelectric bursts. However, Doozian Corsola has adapted counter-mechanisms and can often absorb said electricity depending.",
+      "Swimmers and tourists are warned of these Poke'mon when visiting beaches as to not accidentally step on one. It is said that stepping on one feels like a thousand lightning strikes, and the lingering poison and paralysis are even more unpleasant and can last for hours."
+    ]
+  },
+  "unown": {
+    "name": "Unown",
+    "form": null,
+    "types": ["psychic", "ghost"],
+    "abilities": ["energyShield", "magicBounce", "psychicSurge"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Dimensional Rift",
+    "pokedexEntries": [
+      "These Unown slipped into an Ultra Wormhole during a cosmic anomaly. What they saw shattered their former selves—now, a galaxy burns behind their eye, visible from the front and the back. They no longer form letters, but sigils of forgotten power.",
+      "Long term exposure to Ultra Space has awakened ancient knowledge within Unown. They resonate with forgotten relics like Remix Stantler and Sigilyph—and even draw the attention of ultra beasts. Some say they are the key to Stakataka's rebirth. Some researchers are drawing comparisons of it to Cosmog, but the research is currently inconclusive.",
+      "It's said that if a human stares too long into this Unown's cosmic eye, they begin to see things not meant for this world or things long forgotten—visions of Ultra Space, ancient glyphs, and unseen, evil spirits. Some describe it as a divine revelation; others are left hollow and a shell of their former selves. Entires ruins have been sealed off to prevent further contact."
+    ]
+  },
+  "stantler": {
+    "name": "Stantler",
+    "form": null,
+    "types": ["ghost", "rock"],
+    "abilities": ["energyShield", "magicBounce"],
+    "stats": {
+      "hp": 73,
+      "attack": 59,
+      "defence": 101,
+      "specialAttack": 101,
+      "specialDefence": 137,
+      "speed": 79
+    },
+    "species": "Evil Eye",
+    "pokedexEntries": [
+      "Those who make direct eye contact with its horns or other eyes are said to forget their purpose. Ancient travelers painted symbols resembling it to ward off unseen spirits.",
+      "Many people own glass talismans, amulets, and jewelry based off of this Stantler's mysterious yet beautiful appearance. It is believed they ward off spirits.",
+      "It is said that this variant of Stantler is said to stand guard for ancient societies, and is a natural rival to Sigilyph. It is said that battles between Sigilyph and Stantler were a sight to behold."
+    ]
+  },
+  "sigilyph": {
+    "name": "Sigilyph",
+    "form": null,
+    "types": ["psychic", "flying"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "stakataka": {
+    "name": "Stakataka",
+    "form": null,
+    "types": ["rock", "psychic"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "tangela": {
+    "name": "Tangela",
+    "form": null,
+    "types": ["bug", "psychic"],
+    "abilities": ["analytic", "badDreams", "regenerator"],
+    "stats": {
+      "hp": 85,
+      "attack": 45,
+      "defence": 65,
+      "specialAttack": 115,
+      "specialDefence": 125,
+      "speed": 45
+    },
+    "species": "Mindworm",
+    "pokedexEntries": [
+      "Tangela's body is a mass of parasitic brain-worms that never stop writhing and squirming. It wraps them around sleeping prey, siphoning dreams until only nightmares remain. When Tangela feeds, its host experiences vivid hallucinations... victims often wake up screaming with no idea why."
+    ]
+  },
+  "tangrowth": {
+    "name": "Tangrowth",
+    "form": null,
+    "types": ["fairy", "dragon"],
+    "abilities": ["poisonHeal", "merciless", "multiscale"],
+    "stats": {
+      "hp": 115,
+      "attack": 100,
+      "defence": 100,
+      "specialAttack": 115,
+      "specialDefence": 125,
+      "speed": 20
+    },
+    "species": "Cursed Serpent",
+    "pokedexEntries": [
+      "Traveler's speak of a woman cloaked in a mass of snakes, eyes glowing with divine punishment. Even the bravest Pokémon avert their gaze, lest their soul be \"tangled\" and lost forever. Her eyes shimmer with a hypnotic glow that paralyses anything foolish enough to meet her gaze. Forests she inhabits are eerily silent—every living creature knows not to look up.",
+      "Long ago, a jealous monarch cast her into the wilderness, where her sorrow warped into fury. Now she rules the deep woods with a gaze that stills the body and shatters the will. It is said she doesn't need to chase her prey. One look, and they fall—mouth open, limbs stiff—left to rot in the roots as her serpentine hair and limbs slowly coil around them."
+    ]
+  },
+  "farfetchd": {
+    "name": "Farfetch'd",
+    "form": null,
+    "types": ["grass", "fire"],
+    "abilities": ["ruthless", "flashFire", "unburden"],
+    "stats": {
+      "hp": 62,
+      "attack": 93,
+      "defence": 62,
+      "specialAttack": 93,
+      "specialDefence": 62,
+      "speed": 108
+    },
+    "species": "",
+    "pokedexEntries": [
+      "A Farfetch'd that narrowly escaped being served at a restaurant, they carry themselves with a chip on their shoulder. This Pokémon relies on its quick reflexes and strong will to get away from the other Pokémon constantly being attracted by its delicious scent and appearance.",
+      "This Farfetch'd variant smells delicious—like crispy roast duck, and faintly of smoked herbs. It proudly waves its charred leek like a baton daring predators and chefs alike to come closer. Whether or not this Pokémon continues to survive out of sheer spite, or survival ability is up for debate."
+    ]
+  },
+  "skorupi": {
+    "name": "Skorupi",
+    "form": null,
+    "types": ["bug", "ground"],
+    "abilities": ["sandRush", "poisonHeal", "toughClaws"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "drapion": {
+    "name": "Drapion",
+    "form": null,
+    "types": ["bug", "ground"],
+    "abilities": ["sandRush", "poisonHeal", "toughClaws"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Sand Demon",
+    "pokedexEntries": []
+  },
+  "omanyte": {
+    "name": "Omanyte",
+    "form": null,
+    "types": ["grass", "steel"],
+    "abilities": ["stormySeas", "magicBounce", "superLuck"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Relic Shell",
+    "pokedexEntries": [
+      "It is unknown whether or not this Pokémon's gem stones are organic and grow due to its diet or some mysterious power, or are picked out by Omanyte itself. What is known, however, is that these are very rare creatures and often thought to be bringers of good luck. The more treasure is collects, the more sluggish its movements become. Its greed and desire to gather more gemstones mean its movement is constantly limited.",
+      "This semi-aquatic Pokémon crawls along the seafloor or jungle floor using its vinelike tendrils. The gems on its shell glint even in the pitch darkness of the deep sea or dense jungle, thought to attract both predators and treasure hunters—even pirates! This Pokémon's striking appearance makes it a popular choice amongst collectors or pirates alike. However, if someone captures one against its own will, it is said to summon an intense rainstorm capable of swamping any jungle adventurer, or sinking any ship."
+    ]
+  },
+  "omastar": {
+    "name": "Omastar",
+    "form": null,
+    "types": ["grass", "steel"],
+    "abilities": ["stormySeas", "magicBounce", "superLuck"],
+    "stats": {
+      "hp": 70,
+      "attack": 90,
+      "defence": 120,
+      "specialAttack": 115,
+      "specialDefence": 110,
+      "speed": 20
+    },
+    "species": "Lost Treasure",
+    "pokedexEntries": [
+      "This Pokémon's yellow shell is made up of a gold and platinum alloy, and adorned with various treasure: silver coins, crystals, red rubies, blue sapphires, and pearls. It is capable of breaking open gemstones to eat with ease with its powerful and immensely hard diamond and green emerald jaws. It is often mistaken for a piece of royal treasure and has been stolen from museums more than once.",
+      "Their scarlet, x-shaped eye can dilate to zoom in, while their violet pupil dilates to zoom their vision out—allowing them to spot treasure from miles away. Its shell acts as a might shield from any predators, and cannot be pierced even with the mightiest sword. However, not everything is black and white with these Pokémon, as they are now heavily endangered due to greedy treasure hunters."
+    ]
+  },
+  "kabuto": {
+    "name": "Kabuto",
+    "form": null,
+    "types": ["bug", "ghost"],
+    "abilities": ["sharpness", "weakArmour"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Skele-shell",
+    "pokedexEntries": [
+      "When threatened, it curls up and plays dead, its eerie patterns glowing faintly in the dark. The eyes on its back function as defensive mechanisms, scaring predators in the dark into thinking it is a much larger creature.",
+      "It uses the faint glow of its many eyes to scavenge the bottom of the ocean. This Pokémon's diet consists of remains that float to the bottom of the sea, especially bones."
+    ]
+  },
+  "kabutops": {
+    "name": "Kabutops",
+    "form": null,
+    "types": ["bug", "ghost"],
+    "abilities": ["sharpness", "weakArmour"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Bone-blade",
+    "pokedexEntries": [
+      "People and Pokémon alike used to fear Kabutops and painted images of tis ominous glowing eyes and blades. Legends say its fossil golds a lingering will, and when unearthed, the spirit withing reawakens to enact vengeance on those who dared disturb its eternal rest.",
+      "This Pokémon's blades are able to suck the life force from those it cuts. The wings on this Pokémon's back are no longer functional, but work as balancing appendages for it while it runs and swims."
+    ]
+  },
+  "krabby": {
+    "name": "Krabby",
+    "form": null,
+    "types": ["bug", "dark"],
+    "abilities": ["strongJaw", "drainingAbility", "shellArmour"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Fangclaw",
+    "pokedexEntries": [
+      "When the sun sets, Doozian Krabby awakens from its shallow burrows. It scuttles silently through the underbrush, seeking warm-blooded prey. It fears the sun and turns brittle if exposed too long. Its claws are laced with a numbing agent, ensuring its prey cannot scream while being fed upon."
+    ]
+  },
+  "kingler": {
+    "name": "Kingler",
+    "form": null,
+    "types": ["bug", "dark"],
+    "abilities": ["strongJaw", "drainingAbility", "shellArmour"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Bloodbite",
+    "pokedexEntries": [
+      "Its hunting technique resembles an ambush predator from a horror film. It waits silently, then snaps its claws with a noise likened to the slam of a coffin. It drains the life force from its prey, leaving only an empty husk behind.",
+      "Some believe the creature's true brain resides inside the claw, guided by the glowing eyes that never blink. Trainers report feeling watched even when the crab is asleep."
+    ]
+  },
+  "diglett": {
+    "name": "Diglett",
+    "form": null,
+    "types": ["fairy", "dark"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Instability",
+    "pokedexEntries": [
+      "This troubled Diglett struggles with emotional regulation. It produces a strange medicinal powder that it can use to help other Pokémon. In small doses, this medicine heals all sorts of illnesses and calms anxious Pokémon. In large doses, it creates intense anxiety and violent mood swings, as well as a whooping cough that strains its voice, making it hoarse. However, producing this powder in excess causes it to breath it in constantly since it piles up around the ground near them. It wears its mask to try and prevent itself from getting \"high of its own supply\". It also frequently injures itself by banging its head violently up and down and patches itself up with bandages. This Pokémon also listens to loud music to help soothe its mind. This Pokémon deeply craves to be the centre of attention, but also desires to help others. What it becomes is up to you!"
+    ]
+  },
+  "drugtrio": {
+    "name": "Dugtrio",
+    "form": null,
+    "types": ["fairy", "poison"],
+    "abilities": ["flareBoost", "triage"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Remedy",
+    "pokedexEntries": [
+      "This form of Dugtrio, sometimes called \"Drugtrio\", has found its true calling despite its troubled youth: helping other Pokémon. Drugtrio can absorb the illnesses of other creatures and heal them thanks to the strange medicinal powder and crystals it produces. However, Drugtrio suffers as a result: the two taller heads absorb illness and take it on themselves. They are constantly under the weather, but seem to be truly dedicated to their job and push through.",
+      "The smaller pink head not only heals other Pokémon, but it is believed to be the origin of the strange virus known as Pokérus! It is theorised that after curing others of their status afflictions or disease, they pass on Pokérus like a sort of beneficial steroid or antibody. The pink head thoroughly enjoys her job and keeps the other two heads as cheerful as they possibly can be given the circumstances.",
+      "Drugtrio has a face-mask-like appendage to prevent other Pokémon from getting sick, and to prevent them from breathing in their own powder. While not nearly as dangerous as Diglett's powder, it can still cause uncomfortable symptoms if taken in excess. Their strange powder is constantly being produces and used up by them, and has a similar texture to chalk or other earthly organic materials."
+    ]
+  },
+  "rocktrio": {
+    "name": "Dugtrio",
+    "form": "Alolan",
+    "types": ["dark", "electric"],
+    "abilities": ["galvanise", "amplifier"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Rockstar",
+    "pokedexEntries": [
+      "Unable to control their mood swings, Diglett harnessed its creative energy and desire for attention into stardom—becoming a musician! This Pokémon puts on \"concerts\" for other Pokémon by making loud screaming sounds and electronic noises from their mouths. It is unclear if they still breath in some of the mystery powder from Diglett, but many theorise it does.",
+      "This Pokémon's music is quite controversial—it is very loud and aggressive sounding. This Pokémon can also be quite rude to others, showing only care for itself. They aggressively bang their heads in rhythm with their music. Some people are attracted to this personality and so this Pokémon is a polarising magnet amongst the general public. Pokémon in the wild dread its presence as its deafening sounds only stop when its knocked out."
+    ]
+  },
+  "voltorb": {
+    "name": "Voltorb",
+    "form": null,
+    "types": ["psychic", "fairy"],
+    "abilities": ["comatose", "badDreams", "energyShield"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": [
+      "This Voltorb was drawn into the Dream World and never returned. Over time, it fused with the surreal landscape, losing its angry demeanor and developing a psychic organ to navigate dreams. It projects illusions through its third eye and is often seen asleep, even while awake.",
+      "Once a volatile bundle of static energy, this Voltorb now hums softly in endless slumber. It no longer explodes, but unravels minds. Its third eye is said to peer into the dreams fo those nearby, twisting their desires into visions that feel just a little too real."
+    ]
+  },
+  "electrode": {
+    "name": "Electrode",
+    "form": null,
+    "types": ["psychic", "dragon"],
+    "abilities": ["energyShield", "berserk", "neuroforce"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": [
+      "While dreaming very deeply, some suspect Remix Voltorb tapped into another—further past the dreamworld... Ultra Space. Whatever it saw in this dream brought it to madness and granted it immense power and the ability to travel between dimensions.",
+      "This Electrode, unlike Voltorb, is constantly energised and awake. It can teleport instantaneously, allowing it to manuever with even more speed than Electrode normally could. Its mere presence is an anomaly, and poses great danger to our space time continuum. It causes dimensional rifts to Ultra Space wherever it teleports."
+    ]
+  },
+  "cleffa": {
+    "name": "Cleffa",
+    "form": null,
+    "types": ["fairy", "ghost"],
+    "abilities": ["magicBounce"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Starlight",
+    "pokedexEntries": [
+      "It emits a gentle light while sleeping, which people cherish as a comforting nightlight. Many say its presence wards off bad dreams and fills the night with soothing warmth and good rest."
+    ]
+  },
+  "clefairy": {
+    "name": "Clefairy",
+    "form": null,
+    "types": ["fairy", "ghost"],
+    "abilities": ["magicBounce"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Lunar Dream",
+    "pokedexEntries": [
+      "It drifts into unshakably deep sleep under the moonlight. Travelers whisper that its dreams sometimes connect to strange places... and that lingering too close might draw you into them. It is said Clefairy who dream too deeply may be visited by the shadow of its cosmic opposite... and never wake up the same."
+    ]
+  },
+  "clefable": {
+    "name": "Clefable",
+    "form": null,
+    "types": ["ghost", "dragon"],
+    "abilities": ["badDreams"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": [
+      "What was once a serene, peaceful fairy now twists into a dragon of nightmares. Its wings are gone, replaces by jagged fins that slice through the dreamscape. Dozens of crimson eyes blink in unison, each reflecting a difference victim's terror. No one knows if the Clefairy remains conscious inside this shell or if it is consumed entirely."
+    ]
+  },
+  "plusle": {
+    "name": "Plusle",
+    "form": null,
+    "types": ["electric", "fire"],
+    "abilities": ["drought", "electricSurge", "solarRush"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Heated-up",
+    "pokedexEntries": [
+      "Its body generates sparks that rapidly raise the air around it to scorching temperatures. When in high spirits, it radiates warmth like a portable heater, but in battle it can unleash waves of blistering heat that warp the air itself. Plusle likes t cuddle with those it trusts, warming them in cold winter months."
+    ]
+  },
+  "minum": {
+    "name": "Minum",
+    "form": null,
+    "types": ["electric", "ice"],
+    "abilities": ["snowWarning", "electricSurge", "permafrost"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Chilled-out",
+    "pokedexEntries": [
+      "This Pokémon lowers the temperature around it with crackling negative charges, creating frosty gusts that feel like an air conditioner on full blast. Despite its chill demeanor, it happily cuddles close to those it trusts, cooling them during the summer months."
+    ]
+  },
+  "yungoos": {
+    "name": "Yungoos",
+    "form": null,
+    "types": ["normal", "grass"],
+    "abilities": ["flareHeal", "drought"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Trial Torch",
+    "pokedexEntries": [
+      "Its wooden body is said to be carved by ancient trial-goers. The flames from its tail torch never extinguish, even in heavy rain.",
+      "Villagers onces placed Yungoos at the entrances of homes, believing its ever-burning tail would ward off evil."
+    ]
+  },
+  "gumshoos": {
+    "name": "Gumshoos",
+    "form": null,
+    "types": ["normal", "grass"],
+    "abilities": ["flareHeal", "drought"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Totem Tiki",
+    "pokedexEntries": [
+      "It once walked among humans with the mask of a kind-faced man. Only when angered did its mask slip—revealing a toothy, flaming creature that breathed fire from its nostrils.",
+      "Villagers prayed to Gumshoos at sunrise. If pleased, it would bless them with a bountiful harvest. But—if it felt slighted, its fury would scorch the plants and dry out the soil.",
+      "In the past, Alolans would construct monuments to appease this Pokémon. Stories have been written of it burning down villages out of anger if it felt under-appreciated. Whether or not these are true or just folktales is unclear."
+    ]
+  },
+  "fomantis": {
+    "name": "Fomantis",
+    "form": null,
+    "types": ["grass", "psychic"],
+    "abilities": ["psychicSurge", "sharpness", "bugImmunity"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Swirl Sprout",
+    "pokedexEntries": [
+      "Its kaleidoscopic leaves are dried by herbalists and ground into powders said to bring vivid dreams. However, overexposure can lead to hallucinations too intense for the unprepared. It is believed this is a defence mechanism from predators who will try to consume it—confusing and disorientating them before they can even attack.",
+      "Its psychedelic properties are still not fully understood by researchers. Its colourful body releases a faint aroma similar to burning incense. Prolonged exposure has been shown to heighten imagination and creativity. Researchers are exploring potential health benefits. Many will keep Fomantis around for recreational use since it causes hallucinations to those who come near it."
+    ]
+  },
+  "lurantis": {
+    "name": "Lurantis",
+    "form": null,
+    "types": ["grass", "psychic"],
+    "abilities": ["psychicSurge", "sharpness", "bugImmunity"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Spiral Shaman",
+    "pokedexEntries": [
+      "When it dances, the jungle itself seems to move with it. It dances gracefully in a beautiful display of swirling colours pulsing in strange rhythms, lulling those who watch into a trance-like states.",
+      "It helps injured Pokémon in the jungles where it resides—healing them with its unique abilities. A side effect of its healing abilities are vivid hallucinations. When visiting one, it will feel as if you had woken up from a long, strange dream."
+    ]
+  },
+  "machop": {
+    "name": "Machop",
+    "form": null,
+    "types": ["fighting", "normal"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Explorer",
+    "pokedexEntries": [
+      "It is scrappy, daring, and sometimes too confident for its own good. Event when exhausted or lost, it keeps moving forward, convinced the next step is victory. Whether this is naive and reckless or endearing and inspiring is up to your own interpretation.",
+      "Full of boundless optimism, Machop dreams of conquering every environment it sees. Their reckless courage leads to them becoming humbled. They find themselves in jungles, deserts, and tundras—where they must adapt or perish."
+    ]
+  },
+  "machoke": {
+    "name": "Machoke",
+    "form": null,
+    "types": ["fighting", "grass"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Jungle Survivor",
+    "pokedexEntries": [
+      "Having shed its bright-eyes optimism, Machoke now survives through grit and cunning in the deep jungle. Long exposure to the harsh untamed wile has carved a permanent scowl on its face. The vines wrapped around Machoke's body have fused with its muscles, granting immense strength. However, its cracked compass suggests it has lost its way.",
+      "It often finds itself recklessly engaging in fights with wild jungle Pokémon. In particular, it enjoys scuffling with Pokémon like Seviper, hoards of Passimian, Scyther, Pinsir, and its greatest foe—Liepard. Despite the type disadvantage, Liepard's agility and stealth often surpass Machoke's brute strength, ambushing Machoke and attacking it before it can react."
+    ]
+  },
+  "sawk": {
+    "name": "Sawk",
+    "form": null,
+    "types": ["fighting", "ice"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Tundra Survivor",
+    "pokedexEntries": [
+      "Doozian Sawk trains endlessly in the frozen tundra, testing its strength against colossal foes like Beartic and Mamoswine. The pelt it took from fighting Doozian Arcanine is wrapped around its body, keeping it warm and allowing it to endure blizzards as it wrestles even the most ferocious predators for dominance.",
+      "This Pokémon's skin is layered with ice that functions as natural armour. Through sheer discipline and adaptability, Doozian Sawk uses the bitter cold to harden its body further, moulding itself into a fighting who sees the tundra's harshness as its ultimate training ground."
+    ],
+    "EXPECT AN EDIT TO THE DOOZIAN ARCANINE REFERENCE": "https://discord.com/channels/815432371305971743/1164454435683057754/1411415445390626932"
+  },
+  "throh": {
+    "name": "Throh",
+    "form": null,
+    "types": ["fighting", "ground"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Desert Survivor",
+    "pokedexEntries": [
+      "Unlike its counterpart, Doozian Throh rarely picks fights. It uses its judo-like throws only when protecting weaker Pokémon, such as Darumaka or Sandshrew, from the desert's many threatening Pokémon: massive Hippowdon, merciless Doozian Drapion, brutish Krookodile, lurking Cacturne, or flocking Mandibuzz.",
+      "Its body is composed of dense clay that retains precious water, making it exceptionally well-suited to the desert. The coarse woven ropes that bind its outfit act as a training tool, reinforcing its movements while symbolising its vow to fight only when necessary."
+    ]
+  },
+  "machamp": {
+    "name": "Machamp",
+    "form": null,
+    "types": ["fighting", "ghost"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Jungle Revenant",
+    "pokedexEntries": [
+      "Legends say this Pokémon perished in desperate battle against a pack of Liepard. When its body was found days later, its skin was ripped apart and its compass shattered. Some otherworldly spirit possessed Machoke in this moment—allowing it to rise again and gain an extra pair of spectral arms that never tire. It defeated the entire pack of Liepard effortlessly, wearing their skin across its chest as a symbol of its sheer dominance over the jungle.",
+      "Unlike its bright-eyed youth, this Machamp is ruled by wrath and survival instinct. Its hollow laughter echoes through the jungle at night, chilling even seasoned explorers. To face it in battle is to fight a Pokémon that already crossed the boundary between life and death.",
+      "Some folktales suggest the shattered compass was possessed and reanimated by a jungle spirit—causing Machoke's resurrection, and controlling their ghostly arms independently from Machamp itself."
+    ]
+  },
+  "togepi": {
+    "name": "Togepi",
+    "form": null,
+    "types": ["fire", "poison"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Bombshell",
+    "pokedexEntries": [
+      "Togepi is constantly making a rhythmic ticking noise, which many fans of this Pokémon find to be cute and soothing. The unstable energy sealed in its shell can corrode metal and poison soil for years even without exploding. When it does explode, it can render nearby areas inhabitable for a long time. Togepi seems blissfully unaware of the damage it causes and its inevitable doom."
+    ]
+  },
+  "togetic": {
+    "name": "Togetic",
+    "form": null,
+    "types": ["fire", "poison"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Nuclear",
+    "pokedexEntries": [
+      "Sometimes when exploding—Togetic will evolve instead. Togetic's bombshell suit protects it from its own nuclear energy, but this does not make it safe for those around it.",
+      "Togetic delights in chaos, fluttering about joyfully. Thought not malicious, it unleashes bursts of toxic flame with reckless abandon, leaving forests charred and the air thick with poisonous fumes."
+    ]
+  },
+  "togekiss": {
+    "name": "Togekiss",
+    "form": null,
+    "types": ["fire", "poison"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Fallout",
+    "pokedexEntries": [
+      "Stories of wars in the past claim that Togekiss reduces regions to wastelands, smiling as it descended and spread nuclear fallout like confetti. Togekiss's mere presence can warp the ait, making it unbreathable, and sickening people and Pokémon within a large radius. In some regions, this Pokémon is banned. In other regions, this Pokémon is heavily regulated and kept in safe areas by the government."
+    ]
+  },
+  "caterpie": {
+    "name": "Caterpie",
+    "form": null,
+    "types": ["ice", "psychic"],
+    "abilities": ["snowWarning", "sixthSense", "permafrost"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Cosmic Larva",
+    "pokedexEntries": [
+      "People in snowy regions believe that spotting this one before dawn is a sign of a coming snowstorm."
+    ]
+  },
+  "metapod": {
+    "name": "Metapod",
+    "form": null,
+    "types": ["ice", "psychic"],
+    "abilities": ["snowWarning", "sixthSense", "permafrost"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Crystal Cocoon",
+    "pokedexEntries": [
+      "Villagers once used the glow of this Pokémon's crystals to determine when avalanches might occur. Its hard ice armour keeps it safe while something miraculous grows inside."
+    ]
+  },
+  "venomoth": {
+    "name": "Venomoth",
+    "form": null,
+    "types": ["ice", "psychic"],
+    "abilities": ["snowWarning", "sixthSense", "permafrost", "levitate"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Aurora Moth",
+    "pokedexEntries": [
+      "It is a truly rare Pokémon that only appears in certain conditions. Legends say its wings project psychic waves into the sky, giving birth to auroras. Those who gaze too long may glimpse versions of the future.",
+      "It dances gracefully beneath the northern lights. Its wings scatter icy powder that glitters like the night sky. When it shows up, villagers would throw festivals to celebrate."
+    ]
+  },
+  "venonat": {
+    "name": "Venonat",
+    "form": null,
+    "types": ["steel"],
+    "abilities": ["roughSkin"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Steel Wool",
+    "pokedexEntries": [
+      "While it might look soft and pettable—its body is covered in abrasive metallic fibres, developed to clean surfaces. Some researchers fear that it reacts to signals humans cannot perceive..."
+    ]
+  },
+  "butterfree": {
+    "name": "Butterfree",
+    "form": null,
+    "types": ["steel", "flying"],
+    "abilities": ["lightningRod", "energyShield", "solarPower", "solarRush"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Solar Energy",
+    "pokedexEntries": [
+      "Modified to assist with energy collection, its wings unfold like vast panels that absorb both sunlight and electrical fields. It converts solar energy into dazzling bursts of light.",
+      "Although intended for human benefit, some Butterfree have begun to act on their own, directing their power in ways no one programmed."
+    ]
+  },
+  "rattata": {
+    "name": "Rattata",
+    "form": null,
+    "types": ["poison", "ground"],
+    "abilities": ["hustle"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Vermin",
+    "pokedexEntries": [
+      "Farmers dread infestations of Rattata even more than a flood or a drought. Their droppings alone will poison the soil and ruin harvests for seasons to come, and it is not easy to find predator Pokémon that want to prey on them. Even Mandibuzz are reluctant to hunt them."
+    ]
+  },
+  "raticate": {
+    "name": "Raticate",
+    "form": null,
+    "types": ["poison", "ground"],
+    "abilities": ["hustle"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Rabid",
+    "pokedexEntries": [
+      "Known to fly into rabid frenzies, Raticate gnashes its teeth at anything that comes near it. A single bute, it left untreated—will rot whoever is bitten from within. Their nests reek of filth, and the grime caked on its body teems with parasites that are detrimental to Raticate itself."
+    ]
+  },
+  "raticateMega": {
+    "name": "Raticate",
+    "form": "Mega",
+    "types": ["poison", "ghost"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Plague",
+    "pokedexEntries": [
+      "It succumbs to its own disease when Mega Evolving, leaving only a bloated husk fueled by sheer spite. Its bite spells sure death for anything unlucky enough to face it."
+    ]
+  },
+  "burmy": {
+    "name": "Burmy",
+    "form": null,
+    "types": ["bug"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "wormadamSnow": {
+    "name": "Wormadam",
+    "form": "Snow Cloak",
+    "types": ["bug", "ice"],
+    "abilities": ["snowWarning", "mistySurge"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Frost Coat",
+    "pokedexEntries": [
+      "Adapted to frigid climates, it dense coat insulates from the cold while feeling icy to the touch. Not all Wormadam evolve further due to harsh conditions."
+    ]
+  },
+  "vivillon": {
+    "name": "Vivillon",
+    "form": null,
+    "types": ["bug", "ice"],
+    "abilities": ["snowWarning", "mistySurge"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Frost Wing",
+    "pokedexEntries": [
+      "This form of Vivillon thrives in snowy tundras. When it flutters its wings, ice crystals scatter into the wind, dazzling adventurous Machop, and guiding them through blizzards."
+    ]
+  },
+  "wormadamSandy": {
+    "name": "Wormadam",
+    "form": "Sandy Cloak",
+    "types": ["bug", "rock"],
+    "abilities": ["sandStream", "drought"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Sand Coat",
+    "pokedexEntries": [
+      "Adapted to arid climates, its dense coat protects it from the predation and blends in with the sand—keeping it warm during the cold desert nights. Not all Wormadam evolve further due to harsh conditions."
+    ]
+  },
+  "mothim": {
+    "name": "Mothim",
+    "form": null,
+    "types": ["bug", "rock"],
+    "abilities": ["sandStream", "drought"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Sand Wing",
+    "pokedexEntries": [
+      "This form of Mothim thrives in sweltering deserts. When ti flaps its wings, searing-hot sandstorms form around it. Legends speak of it guiding lost Machop through the desert."
+    ]
+  },
+  "wormadamPlant": {
+    "name": "Wormadam",
+    "form": "Plant Cloak",
+    "types": ["bug", "grass"],
+    "abilities": ["grassySurge", "drizzle"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Verdant Coat",
+    "pokedexEntries": [
+      "Adapted to rainforests, meadows, and other lush environments—its dense coat camouflages it from dangerous bug-Pokémon, and the colourful flowers attract mates. Not all Wormadam evolve further due to harsh conditions."
+    ]
+  },
+  "beautifly": {
+    "name": "Beautifly",
+    "form": null,
+    "types": ["bug", "grass"],
+    "abilities": ["grassySurge", "drizzle"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Verdant Wing",
+    "pokedexEntries": [
+      "This form of Beautifly flourishes in environments rich with plant-life. It is the best pollinator amongst all bug-Pokémon, but has a more aggressive side when other Pokémon encroach its territory. Machop often find themselves lost in the dense jungle, only to be guided to safety by Beautifly. Other legends say that Beautifly brings upon the rainfall in the forests it inhabits."
+    ]
+  },
+  "wailmer": {
+    "name": "Wailmer",
+    "form": null,
+    "types": ["fire", "steel"],
+    "abilities": ["stormDrain", "hugePower", "analytic"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Boiler Ball",
+    "pokedexEntries": [
+      "Wailmer are highly intelligent, and are often dismissed as harmless due to their charming smile and \"glasses\"—but their bodies are highly pressurised and their hydrothermal vents constantly release immense heat. When threatened, they unleash blasts of scalding steam and flames that can melt through machines with ease."
+    ]
+  },
+  "wailord": {
+    "name": "Wailord",
+    "form": null,
+    "types": ["fire", "steel"],
+    "abilities": ["stormDrain", "hugePower"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Dreadnought",
+    "pokedexEntries": [
+      "Its weight is so immense that when it surfaces or dives down, it creates waves that can sink ships around it. Its glowing ports are radiating with heat so intense that humans cannot stand to be withing 100 meters without protective gear. It boils the ocean around itself when activated.",
+      "It wartime, fleets deployed Doozian Qwilfish to drift like sea mines. Once enemies where corralled, Wailord would surface, its furnace-lit hull demolishing vessel around itself. Together, they were feared as an inescapable naval trap—a living blockade of the seas. Whether they were created to be this way, or simply evolved a mutually beneficial relationship is up for debate."
+    ]
+  },
+  "meowth": {
+    "name": "Meowth",
+    "form": null,
+    "types": ["psychic", "ground"],
+    "abilities": ["sandStream", "superLuck"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Shrine",
+    "pokedexEntries": [
+      "It is often found lounging near ruins and temples. Though it appears lazy, it can sense the flow of spiritual energy and lashes out if anyone disrespects their sacred grounds."
+    ]
+  },
+  "persian": {
+    "name": "Persian",
+    "form": null,
+    "types": ["psychic", "ground"],
+    "abilities": ["sandStream", "solarPower", "superLuck"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Oracle",
+    "pokedexEntries": [
+      "This Persian was revered in ancient palaces for its ability to sense the future. Pharaohs trusted its piercing gaze to divine omens, and it would strike terror into intruders with its psychic powers."
+    ]
+  },
+  "persianMega": {
+    "name": "Persian",
+    "form": "Mega",
+    "types": ["ghost", "steel"],
+    "abilities": ["sandRush", "sandForce", "superLuck"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Idol",
+    "pokedexEntries": [
+      "Mega Evolution energy hardens Persian's body into a hollow shell of gold. The gilded bodies of Mega Persian were once displayed in royal tombs. It is said the same malevolent spirits that inhabit Cofagrigus now dwell within their many eyes, lashing out as grave robbers who disturb their rest."
+    ]
+  },
+  "pyukumuku": {
+    "name": "Pyukumuku",
+    "form": null,
+    "types": ["steel"],
+    "abilities": ["waterAbsorb", "unaware", "liquidVeil"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Bubble-bot",
+    "pokedexEntries": [
+      "Despite its menacing facial expression, this Pokémon is relatively friendly and used in hot tubs, jacuzzis, and aquariums to create bubbles and filter water! Some speculate that Pyukumuku does not enjoy doing this, however, and that a darkness lurks within their eyes.",
+      "This variant of Pyukumuku is highly adaptable, and has the potential to evolve into three vastly different Pokémon. Some people fear the use of this Pokémon, mistrusting its robotic coldness, while others see it as a helpful and friendly aid."
+    ]
+  },
+  "corsola": {
+    "name": "Corsola",
+    "form": null,
+    "types": ["steel", "water"],
+    "abilities": ["lightningRod", "electricSurge", "barbed", "bulletproof"],
+    "stats": {
+      "hp": 70,
+      "attack": 45,
+      "defence": 135,
+      "specialAttack": 115,
+      "specialDefence": 125,
+      "speed": 35
+    },
+    "species": "Bubble Bunker",
+    "pokedexEntries": [
+      "The glowing rods on its limbs attract lightning, storing the charge to boost its power during storms. The rods also form barriers of bubble around itself to self-repair its armour when damaged.",
+      "This Pokémon is a valuable asset to environmentalists and researchers alike. The durable steel body of this Corsola is adapted to purify water. It filters toxins from the sea, and its spikes emit an electrical field to ward off threats."
+    ]
+  },
+  "qwilfish": {
+    "name": "Qwilfish",
+    "form": null,
+    "types": ["steel", "poison"],
+    "abilities": ["liquidVeil", "barbed", "rapidFire"],
+    "stats": {
+      "hp": 70,
+      "attack": 125,
+      "defence": 135,
+      "specialAttack": 35,
+      "specialDefence": 115,
+      "speed": 45
+    },
+    "species": "Murky Mine",
+    "pokedexEntries": [
+      "This dangerous Pokémon is said to have been utilised and placed strategically during wars of the past alongside Wailord. Onces that were not used became rusted and corroded over time, resulting in the species we see now.",
+      "This Qwilfish variant drifts through polluted industrial zones, its body caked in rust and grime. When exploding, it releases toxins into the water. This turns the water within a 10 mile radius corrosive, causing widespread illness amongst sealife."
+    ]
+  },
+  "octillery": {
+    "name": "Octillery",
+    "form": null,
+    "types": ["steel", "dark"],
+    "abilities": ["megaLauncher"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Severe Scope",
+    "pokedexEntries": [
+      "Octillery's body is adapted to act as an assassination unit, built to kill any target. It is cold calculated, and immensely intelligent. The HUD display on its back is connected to its brain via a neural network—the most advanced brain of any Pokémon. This allows it to calculate perfectly accurate and deadly shots of energy from miles away.",
+      "The rotator cuffs on its tentacles, cannon, and eyes allow it to constantly adjust these body parts for precise movement, aim, and vision. Many trainers fear this Pokémon, finding it too apathetic. However, it is still capable of forming a positive bond with a dedicated trainer who respects it power."
+    ]
+  },
+  "cherubi": {
+    "name": "Cherubi",
+    "form": null,
+    "types": ["grass"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "cherrimOvercast": {
+    "name": "Cherrim",
+    "form": "Overcast",
+    "types": ["electric", "grass"],
+    "abilities": ["drizzle"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": [
+      "When it goes long periods without sunlight, Cherrim becomes gloomy and frustrated—summoning rainstorms in its wake. The only thing that will cheer it up is a bright, sunny day."
+    ]
+  },
+  "cherrimBlossom": {
+    "name": "Cherrim",
+    "form": "Blossom",
+    "types": ["grass", "fairy"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "cubone": {
+    "name": "Cubone",
+    "form": null,
+    "types": ["ground"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "marowak": {
+    "name": "Marowak",
+    "form": null,
+    "types": ["ground", "fighting"],
+    "abilities": ["weakArmour", "jungleRush", "battleArmour", "sapSipper"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": [
+      "This variant of Marowak lives for the thrill of battles. It paints its mask and weapon, with each marking added representing a fallen tribe member.",
+      "It is highly disciplined, and has a much tougher body than its Alolan counterpart. The more scars it has, the more it is respected by its fellow tribe members."
+    ]
+  },
+  "marowakAlola": {
+    "name": "Marowak",
+    "form": "Alolan",
+    "types": ["fire", "ghost"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "snubbul": {
+    "name": "Snubbul",
+    "form": null,
+    "types": ["fairy"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "granbull": {
+    "name": "Granbull",
+    "form": null,
+    "types": ["fairy", "fighting"],
+    "abilities": ["intimidate", "quickFeet", "strongJaw"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Punk Pooch",
+    "pokedexEntries": [
+      "It struts through alleys at night showing off its scars and challenging anyone who approaches it. Though it claims to love fighting, it trembles before every battle.",
+      "It punches are made even more devastating thanks to the studded metal rings it wears. While its tusks are menacing, it prefers to use its fists first, and only resorts to using its teeth when it's truly angry."
+    ]
+  },
+  "combee": {
+    "name": "Combee",
+    "form": null,
+    "types": ["ice", "poison"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Cryo-hive",
+    "pokedexEntries": [
+      "These Combee build their hive out of solid ice. Their venom glands have adapted to the cold, producing a bitter antifreeze toxin instead of honey. Their minds hum in perfect, joyless unison—acting like a robotic drone whose sole purpose is to serve the queen."
+    ]
+  },
+  "vespiquen": {
+    "name": "Vespiquen",
+    "form": null,
+    "types": ["poison", "fairy"],
+    "abilities": ["levitate", "merciless", "berserk"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Malevolent Queen",
+    "pokedexEntries": [
+      "Vespiquen's body exudes a powerful neurotoxin that doubles as a pheromone. Those who inhale it become enamoured with her presence, obeying every command until their senses collapse. She no longer needs to issue orders aloud, her pheromones spread her will silently through the air."
+    ]
+  },
+  "beedrill": {
+    "name": "Beedrill",
+    "form": null,
+    "types": ["bug", "ice"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Frost Lance",
+    "pokedexEntries": [
+      "Some Combee are capable or evolving into a soldier who can defend the hive with its massive ice stingers. While still creating venom, it is less potent than Vespiquen's. It uses deadly precision to freeze its prey if they succumb from the stab alone."
+    ]
+  },
+  "beedrillMega": {
+    "name": "Beedrill",
+    "form": "Mega",
+    "types": ["ice", "poison"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Venom Lance",
+    "pokedexEntries": [
+      "Mega Evolution intensifies Beedrill's venom production, liquifying it into a glowing compound that is as cold as liquid nitrogen. When injected, it crystallises the targets blood from within. No longer obeying the hive's orders, even Vespiquen fears this Pokémon—since she cannot control it any longer."
+    ]
+  },
+  "pindle": {
+    "name": "Pindle",
+    "form": null,
+    "types": ["bug"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Voracious Grub",
+    "pokedexEntries": [
+      "This Pokémon uses its sharp horn, stinger, and teeth to hunt and consume. It burrows and hides under the ground from bird Pokémon, only coming out to feast. It is said that its DNA holds potential for multiple evolutions despite sharing striking resembling to Pinsir."
+    ]
+  },
+  "herakuna": {
+    "name": "Herakuna",
+    "form": null,
+    "types": ["bug"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Durable Cocoon",
+    "pokedexEntries": [
+      "This strange Pokémon has the potential to evolve into multiple Pokémon despite bearing a strong resemblance to Heracross. It does not have limbs or weapons like Pindle, but to make up for it it has a very durable exoskeleton. It can still feed with its large mouth, but prefers to take hits rather than dish them out."
+    ]
+  },
+  "pinsir": {
+    "name": "Pinsir",
+    "form": null,
+    "types": ["bug", "ground"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "pinsirMega": {
+    "name": "Pinsir",
+    "form": "Mega",
+    "types": ["bug", "flying"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "heracross": {
+    "name": "Heracross",
+    "form": null,
+    "types": ["bug", "fighting"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "heracrossMega": {
+    "name": "Heracross",
+    "form": "Mega",
+    "types": ["bug", "fighting"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "wackitt": {
+    "name": "Wackitt",
+    "form": null,
+    "types": ["steel", "electric"],
+    "abilities": ["electricSurge"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": [
+      "Wackitt's head is damaged due to repeated blows to the head. Exposed wire is said to release an electrical pulse capable of disabled all other machinery around itself. It quickly pops in and out of sight, laughing at its opponents as it constantly dodges attacks. Some scientists speculate it is capable of evolution, but this has never been officially documented."
+    ]
+  },
+  "tauros": {
+    "name": "Tauros",
+    "form": null,
+    "types": ["steel", "electric"],
+    "abilities": ["voltRush"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": [
+      "After sustaining countless impacts, Wackitt may reforge its body into a new mechanical shell. It charges with immense speed and power, wildly buckling any rider off who cannot match its erratic tempo and intense energy. When charging, sparks fly from the exposed wire on its tail and its lights flash red—making the already difficult endeavour of riding one even more dangerous."
+    ]
+  },
+  "miltank": {
+    "name": "Miltank",
+    "form": null,
+    "types": ["normal", "bug"],
+    "abilities": ["poisonHeal", "toxicBoost", "thickFat"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Host",
+    "pokedexEntries": [
+      "Once a healthy Miltank, it now carries countless writhing Miltick larvae within its body. The symbiotic worms feed on her and her milk, keeping their alive despite perpetual weakness. When threatened, Miltank lets the Miltick secrete foul, acidic fluid that dissolved flesh. Despite its tired expression, it endures contently since the Miltick excrete a numbing agent to prevent her from feeling any pain."
+    ]
+  },
+  "miltick": {
+    "name": "Miltick",
+    "form": null,
+    "types": ["normal", "bug"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": [
+      "Miltick is a creature that feeds on all sorts of Pokémon, but highly specialises in Miltank. It overtakes Miltank's whole body, using its milk glands to feed itself and dozens of its offspring. It is unknown how this \"evolution\" works, or if they simply evolve when they find a Miltank to take as host. They quite vulnerable without a host despite their unnerving appearance and gnashing mouths. The Miltick do not hurt the Miltank, but the host does become weak and unable to defend itself without Miltick's assistance."
+    ]
+  },
+  "mimeJr": {
+    "name": "Mime Jr.",
+    "form": null,
+    "types": ["dark", "ghost"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Shapeshifter",
+    "pokedexEntries": [
+      "It enthralls onlookers with its hypnotic spirals on a body that morphs into new shapes before. Said to embody the soul of performance itself, it thrives on emotional energy. Some become masked jesters, others become horned carnival beasts. At the height of their act, their eyes sparkle as if fireworks have been set off."
+    ]
+  },
+  "bouffalant": {
+    "name": "Bouffalant",
+    "form": null,
+    "types": ["dark", "fairy"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Circus Buffalo",
+    "pokedexEntries": [
+      "This Pokémon will use its hypnotic horns and patterns to dazzle and disorient the opponent before bashing them with force great enough to derail a train. It has chaotic personality, charging wildly at anything that comes near it for fun—and will often attack its trainer."
+    ]
+  },
+  "mrMime": {
+    "name": "Mr. Mime",
+    "form": null,
+    "types": ["psychic", "poison"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Masquerader",
+    "pokedexEntries": [
+      "It is said merely looking at it will drive you mad. Mr. Mime uses it's hypnotic joints and body movements to lure victims into a trance. It will then conjure invisible walls around its captive audience to prevent escape—forcing it to watch its performance until it has finished feeding on their fear. The toxic sludge that seeps from its hands and eyes in a byproduct of this feeding process—anyone touches by it will be left in a state of perpetual shock and horror."
+    ]
+  },
+  "blacephalon": {
+    "name": "Blacephalon",
+    "form": null,
+    "types": ["fire", "ghost"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "seel": {
+    "name": "Seel",
+    "form": null,
+    "types": ["water", "grass"],
+    "abilities": ["thickFat", "sapSipper", "swiftSwim"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Kelp Courier",
+    "pokedexEntries": [
+      "This regional Seel often plays the role of attendant in groups of its kind, using its leafy bow tie and algae moustache to express itself. It mimics human manners and gestures, making it oddly charismatic. It is polite even to the rudest or most aggressive Pokémon and trainers.",
+      "Though young, this Pokémon takes its duties seriously—grooming its kelp accessories daily. Some researchers believe it imitates the noble Dewgong it serves, hoping to grow into royalty itself one day. Seel also server Dewgong by consuming excess kelp on Dewgong's body to maintain their appearance."
+    ]
+  },
+  "dewgong": {
+    "name": "Dewgong",
+    "form": null,
+    "types": ["water", "grass"],
+    "abilities": ["thickFat", "sapSipper", "swiftSwim"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Sovereign Seaweed",
+    "pokedexEntries": [
+      "Respected as the sovereign of shallow coasts and seagrass beds, this Dewgong is adorned in living algae by their Seel servants. Calm and diplomatic, it gently maintains harmony among sea creatures. The more well-maintained a Dewgong's beard is, the higher status it becomes amongst its kingdom.",
+      "This kind-hearted Pokémon has adopted a strictly vegetarian diet, feasting only on seagrass presented by its loyal Seel attendants. As a compassionate ruler, it refuses to harm aquatic Pokémon. Its body is protected by thick, wrinkled skin and a layer of adaptive blubber suited for both cool and temperate seas."
+    ]
+  },
+  "cryogonal": {
+    "name": "Cryogonal",
+    "form": null,
+    "types": ["steel", "dark"],
+    "abilities": ["superLuck", "levitate", "lightningRod"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": [
+      "It feeds on greed and envy. It lures victims with hypnotic lights that promise fortune. Those who succumb to temptation find themselves trapped in its endless game, their energy siphoned away to power itself. Each glimmer of desire it devours causes it to spin faster and glow brighter."
+    ]
+  },
+  "lillipup": {
+    "name": "Lillipup",
+    "form": null,
+    "types": ["ice", "normal"],
+    "abilities": ["permafrost", "furCoat", "slushRush"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Polar Puppy",
+    "pokedexEntries": [
+      "This Pokémon has unmatched courage and an affectionate natures. Its dense fur keeps it warm even in subzero climates. Greedy poachers seek to harvest its coat for winter wear, but activists vehemently oppose this practice."
+    ]
+  },
+  "herdier": {
+    "name": "Herdier",
+    "form": null,
+    "types": ["ice", "normal"],
+    "abilities": ["permafrost", "furCoat", "slushRush"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Frosty Friend",
+    "pokedexEntries": [
+      "This loyal Pokémon will do anything for its trainer. It was bred to pull sleds and locate lost travelers and Pokémon during snowstorms. Even in the fiercest blizzards, it never loses its way."
+    ]
+  },
+  "stoutland": {
+    "name": "Stoutland",
+    "form": null,
+    "types": ["ice", "ghost"],
+    "abilities": ["permafrost", "furCoat", "slushRush"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Snowy Saviour",
+    "pokedexEntries": [
+      "This Pokémon perished while saving its trainer from a blizzard. Its spirit lingers in the snow, guiding other lost people and Pokémon to safety. The frost on its fur forms patterns that resemble the very storm that took its life—an eternal reminder of its final act of loyalty. Those who see its glowing purple eyes and fur in a storm will survive no matter the conditions, but can never recall details of how they survived."
+    ]
+  },
+  "eevee": {
+    "name": "Eevee",
+    "form": null,
+    "types": ["normal"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "vaporeon": {
+    "name": "Vaporeon",
+    "form": null,
+    "types": ["water"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "jolteon": {
+    "name": "Jolteon",
+    "form": null,
+    "types": ["electric"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "flareon": {
+    "name": "Flareon",
+    "form": null,
+    "types": ["fire"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "espeon": {
+    "name": "Espeon",
+    "form": null,
+    "types": ["psychic"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "umbreon": {
+    "name": "Umbreon",
+    "form": null,
+    "types": ["dark"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "leafeon": {
+    "name": "Leafeon",
+    "form": null,
+    "types": ["grass"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "glaceon": {
+    "name": "Glaceon",
+    "form": null,
+    "types": ["ice"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "sylveon": {
+    "name": "Sylveon",
+    "form": null,
+    "types": ["fairy"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "raikou": {
+    "name": "Raikou",
+    "form": null,
+    "types": ["electric", "dark"],
+    "abilities": ["electricSurge", "psychicSurge", "darkAura"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Lunar Spirit",
+    "pokedexEntries": [
+      "When Jolteon, Umbreon, or Espeon perish, Ho-oh's flames may grant them new life as Raikou. Said to embody the spirit of lightning, the moon, and the stars—it races across the sky, leaving trails of cosmic light and crackling thunder behind it."
+    ]
+  },
+  "entei": {
+    "name": "Entei",
+    "form": null,
+    "types": ["fire", "grass"],
+    "abilities": ["drought", "grassySurge", "solarPower"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Solar Spirit",
+    "pokedexEntries": [
+      "When Flareon or Leafeon perish, Ho-oh's flames may grant them new life as Entei. Said to embody the spirit of nature and the sun itself, it races across the earth cloaked with golden flames. Soil blooms with vibrant life in its wake."
+    ]
+  },
+  "suicune": {
+    "name": "Suicune",
+    "form": null,
+    "types": ["water", "ice"],
+    "abilities": ["mistySurge", "snowWarning", "drizzle"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Tidal Spirit",
+    "pokedexEntries": [
+      "When Vaporeon, Glaceon, Sylveon perish, Ho-oh's flames may grant them new life as Suicune. Said to embody the spirit of purity, water, and the north winds, it races across the ocean—leaving a magnificent trail of mist in its wake. Wherever it touches, the water it said to instantly purify and take on healing qualities."
+    ]
+  },
+  "graveler": {
+    "name": "Graveler",
+    "form": null,
+    "types": ["rock", "fairy"],
+    "abilities": ["roughSkin", "weakArmour", "pixilate"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Crystal Confection",
+    "pokedexEntries": [
+      "If Geodude's diet is heavier in sugar crystals than dravite, amber, and other electrical ores, it will evolve into Doozian Graveler instead of Alolan Graveler. Its body is covered in dense layers of crystallised sugar that protects its body—especially its eyes. As it tumbles down hills these layers chip away, leaving glittering shards of sugar behind them. Children sometimes collect and eat these leftover fragments, which is dangerous since these shards are razor sharp and will easily cut skin unless thoroughly smoothed first."
+    ]
+  },
+  "golem": {
+    "name": "Golem",
+    "form": null,
+    "types": ["rock", "fairy"],
+    "abilities": ["roughSkin", "weakArmour", "pixilate"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Candy Core",
+    "pokedexEntries": [
+      "After repeated wear and tear, Graveler's shell flakes off in layers, exposing Golem underneath. Each layer reveals brighter and more vibrant colours, and Golem's eyes are now unshielded. Golem will have territorial battles by launching themselves at one another rolling at high speeds. These impacts crack their shells and unleash beautiful crystalline sparks in many colours. Whoever creates the most spectacular display wins the dispute."
+    ]
+  },
+  "gravelerAlola": {
+    "name": "Graveler",
+    "form": "Alolan",
+    "types": ["rock", "electric"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "golemAlola": {
+    "name": "Golem",
+    "form": "Alolan",
+    "types": ["rock", "electric"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "geodude": {
+    "name": "Geodude",
+    "form": null,
+    "types": ["rock"],
+    "abilities": ["galvanise", "pixilate", "appetite", "metabolism"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": [
+      "This gluttonous Geodude is constantly feeding on various minerals. It favours sugar and electrically charged crystals since they give it a happy, buzzy feeling inside. Depending where it lives and what it feeds on it will evolve into two very different forms of Graveler. It is a very easy-going Pokémon, but if you get in the way of its meal time, it will lash out with intensity."
+    ]
+  },
+  "georupt": {
+    "name": "Georupt",
+    "form": null,
+    "types": ["fire", "steel"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": [
+      "Field researchers investigating seismic activity in Wela volcano Park's nearby cave systems reported witnessing a Heatran carrying two smaller Pokémon on her back. This was highly unexpected, as all previous research indicates that Heatran are solitary and do not get along with one another. When scientists approaches, the mother Heatran reacted violently. The smaller Pokémon did not attack, but perfectly mimicked her defensive posture. These researchers (who barely escaped) have dubbed these juveniles \"Georupt\". They are incredibly difficult to study due to the sheer rarity and temper of wild Heatran, but it is ground-breaking nonetheless."
+    ]
+  },
+  "pupulse": {
+    "name": "Pupulse",
+    "form": null,
+    "types": ["bug", "fairy"],
+    "abilities": ["triage", "technician"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Heartbeat Cocoon",
+    "pokedexEntries": [
+      "Pupulse's body emit a soft, rhythmic glow that matches the pattern of its heartbeat. Its vital fluids contain potent healing properties, and it naturally generates a faint electric field that can be used to monitor the heart rates of people and Pokémon. Rarely, a Pupulse's evolutions grow so strong that intricate wings begin to form, signalling the final stage of growth. Medical teams keep this Pokémon and its evolutions as helpful technicians and assistants."
+    ]
+  },
+  "fluibeat": {
+    "name": "Fluibeat",
+    "form": null,
+    "types": ["bug", "water"],
+    "abilities": ["triage", "technician"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "IV Fluid",
+    "pokedexEntries": [
+      "Fluibeat's body is full of liquid that has incredible restorative qualities. It has a mild temper and goes with the flow. It administers its medicine from the syringe-like antennae on its head. Potions and other spray medicine were actually reverse-engineered from Fluibeat."
+    ]
+  },
+  "jolbeat": {
+    "name": "Jolbeat",
+    "form": null,
+    "types": ["bug", "electric"],
+    "abilities": ["triage", "technician"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "X-ray",
+    "pokedexEntries": [
+      "Researchers discovered X-rays by studying Jolbeat's unique anatomy. Jolbeat's antennae function as defibrillators, shocking stopped heartbeats in emergencies. It has a shorter temper than Fluibeat, but is ultimately kind-hearted and helpful to medical teams."
+    ]
+  },
+  "vitabeat": {
+    "name": "Vitabeat",
+    "form": null,
+    "types": ["bug", "fairy"],
+    "abilities": ["triage", "technician"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Heartbeat Wing",
+    "pokedexEntries": [
+      "Vitabeat's 2 sets of wings contain thousands of microscopic vessels that pulse with its heartbeat, amplifying its healing capabilities. Medical teams have discovered that these wings feed energy into her several antennae. When these make even brief contact with injured Pokémon, they instantly become healed. It constantly releases a faint humming noise, soothing people and Pokémon alike. She still possesses the ability to harness healing fluids and faint electrical pulses, although not as acutely as Fluibeat and Jolbeat can."
+    ]
+  },
+  "grimer": {
+    "name": "Grimer",
+    "form": null,
+    "types": ["fairy", "fire"],
+    "abilities": ["appetite", "metabolism", "gooey", "flameBody"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Gooey Glutton",
+    "pokedexEntries": [
+      "Around campsites, tales are told of greedy Grimer rising from abandoned fire pits to drag off leftover snacks, driven by their insatiable appetite. These stories were originally created to keep campers diligent about leaving food out, deterring Ursaring from campsites, but every so often... trails of burning goo are found deep in the forest with no explanation."
+    ]
+  },
+  "muk": {
+    "name": "Muk",
+    "form": null,
+    "types": ["fairy", "fire"],
+    "abilities": ["appetite", "metabolism", "gooey", "flameBody"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Molten Monster",
+    "pokedexEntries": [
+      "This Pokémon's body is made of molten marshmallow and chocolate that never cools. While it might look tasty, be careful! If people or Pokémon touch it, they will never be able to wash it off—and will horribly burnt in the process."
+    ]
+  },
+  "wooper": {
+    "name": "Wooper",
+    "form": null,
+    "types": ["fairy", "ground"],
+    "abilities": ["metabolism", "appetite", "simple", "unaware"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Pocky Pal",
+    "pokedexEntries": [
+      "Wooper's brittle, branch-like gills are coated in a sweet, chocolatey mucus that attracts other Pokémon. Both people and Pokémon will snack on them, but Wooper doesn't seem to mind since it feels no pain and will regenerate them quickly. While it is eager to share and very personable, it loses all control over itself when given sugary food—becoming highly selfish."
+    ]
+  },
+  "quagsire": {
+    "name": "Quagsire",
+    "form": null,
+    "types": ["fairy", "ground"],
+    "abilities": ["metabolism", "appetite", "simple", "unaware"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Doughnut Dunce",
+    "pokedexEntries": [
+      "Quagsire is very stupid, but very sweet. It spends most of the day lounging around obliviously, sleeping, and eating—offering warm and squishy hugs to any who approach it. Thought empty-headed, Quagsire shows its angry side when something gets in the way of its eating time. It has a comforting presence, not only because it loves to give hugs, but because of the sweet smell it emits thanks to its frosting-like mucus."
+    ]
+  },
+  "happiny": {
+    "name": "Happiny",
+    "form": null,
+    "types": ["dragon", "fighting"],
+    "abilities": ["triage", "roughSkin"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Baby Brawler",
+    "pokedexEntries": [
+      "This primitive Pokémon stays close to its mother and siblings, protecting unborn Happiny eggs. Despite its smalls size, Happiny packs a very impressive punch and will test its strength against any intruders. Their skin highly durable and abrasive, capable of tanking most physical damage. Often, the mother Chansey has to come in to help against more formidable."
+    ]
+  },
+  "chansey": {
+    "name": "Chansey",
+    "form": null,
+    "types": ["dragon", "fighting"],
+    "abilities": ["triage", "roughSkin"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Primal Pouch",
+    "pokedexEntries": [
+      "Chansey's egg radiates a soothing warmth that can heal open wounds within minutes. She will use it to heal injured family members. However, the harsh environment it evolved in has made it extremely territorial. Chansey will lash out with crushing blows at anything that approaches her nesting grounds without permission! Those who earn its trust find it to be deeply caring, but overprotective."
+    ]
+  },
+  "blissey": {
+    "name": "Blissey",
+    "form": null,
+    "types": ["dragon", "poison"],
+    "abilities": ["triage", "roughSkin"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Putrid Pouch",
+    "pokedexEntries": [
+      "If a Chansey loses her baby, bitterness and despair will corrupt her whole body—turning her inner fluids into a toxic sludge devoid of any healing properties it once had. The stench she emits if so foul that other Pokémon stay far away from it, warding off any foes. This has the downside of isolating her completely. While she no longers needs to nurture life, Blissey still guards he rotting egg out of instinct—living a sad, solitary existence until it is eventually consumed by its own sorrowful rot."
+    ]
+  },
+  "zorua": {
+    "name": "Zorua",
+    "form": null,
+    "types": ["electric"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Plasma Fox",
+    "pokedexEntries": [
+      "Due to the strange ultra wormholes popping up around the region—Zorua has taken on a strange resemblance to the Pokémon Zeraora. It still possesses the ability to take on different appearances—but can now utilise its plasma organs inherited from Zeraora to power its attacks up further and move even faster than before."
+    ]
+  },
+  "zoroark": {
+    "name": "Zoroark",
+    "form": null,
+    "types": ["electric", "dark"],
+    "abilities": ["ruthless", "illusion", "trace"],
+    "stats": {
+      "hp": 80,
+      "attack": 117,
+      "defence": 65,
+      "specialAttack": 105,
+      "specialDefence": 65,
+      "speed": 143
+    },
+    "species": "Plasma Predator",
+    "pokedexEntries": [
+      "Zoroark is far more fierce and malicious than Zeraora—using its illusory abilities in conjunction with intense electric energy to torment and disorient foes before attacking them. While not as lightning-fast as Zeraora, it has a cut-throat spirit and will use dirty tactics to gain the upper hand."
+    ]
+  },
+  "zeraora": {
+    "name": "Zeraora",
+    "form": null,
+    "types": ["electric", "fighting"],
+    "abilities": [],
+    "stats": {
+      "hp": 80,
+      "attack": 105,
+      "defence": 65,
+      "specialAttack": 137,
+      "specialDefence": 65,
+      "speed": 123
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "avicero": {
+    "name": "Avicero",
+    "form": null,
+    "types": ["flying"],
+    "abilities": ["incinerate", "refrigerate", "galvanise"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Origin Bird",
+    "pokedexEntries": [
+      "Avicero carries the dormant spark of 3 ancient forces—flame, frost, and lightning. The Legendary Birds origin was unknown by scientists for quite some time. After old Kantonian mythology was found revealing that the birds derived from a single pre-historic ancestor, scientists examined feather samples from the 3 birds to confirm they do in fact share common DNA. Avicero was discovered, and it believed to be this \"zero point\" species, the origin from where the elemental powers split into 3."
+    ]
+  },
+  "arcticuno": {
+    "name": "Arcticuno",
+    "form": null,
+    "types": ["ice", "flying"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "zapdos": {
+    "name": "Zapdos",
+    "form": null,
+    "types": ["electric", "flying"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "moltres": {
+    "name": "Moltres",
+    "form": null,
+    "types": ["fire", "flying"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "tapuBibi": {
+    "name": "Tapu Bibi",
+    "form": null,
+    "types": ["fairy"],
+    "abilities": ["battleArmour"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Guardian Seed",
+    "pokedexEntries": [
+      "Tapu Bibi embodies the life force that connects the islands of Alola. Its shell, carved out of ancient petrified wood is very hard despite its organic origin. Its shell's sacred geometric marking match the Island Guardians. When Tapu Bibi hides inside it, they glow are said to synchronise with the tides, the weather, and even the growth of plants across the region.",
+      "Despite its small size, Tapu Bibi has an unpredictable temperament. Like the guardians of Alola, it is very fickle and easily offended—but this is exacerbated by its immaturity. When happy, it blankets travelers in soothing waves of healing energy—but when it's irritated it causes environmental calamities.",
+      "Scholars believe that Tapu Bibi resembled Tapu Fini most because Alola is surrounded by a vast ocean. The ocean connects Alola's islands together! Scientists believe this is also why Tapu Bibi are only ever discovered buried near Alola's many beaches.",
+      "The life cycle of Tapu Bibi is quite remarkable—they will lie dormant for centuries until a shift occurs in the balance of the islands. If one of the guardians pass away, their spirit will reincarnate into the Tapu Bibi with the purest heart. It is unknown what sparks a Tapu Bibi, but some legends suggest that the fallen bodies of the Tapus are absorbed into the earth, forming dense pearls of energy, much like seeds in the ground—which then form into Tapu Bibi's shell over hundreds of years under the right conditions. This cycle ensures that each island is never without protection."
+    ]
+  },
+  "tapuBulu": {
+    "name": "Tapu Bulu",
+    "form": null,
+    "types": ["ground", "grass", "fairy"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "tapuFini": {
+    "name": "Tapu Fini",
+    "form": null,
+    "types": ["water", "fairy"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "tapuKoko": {
+    "name": "Tapu Koko",
+    "form": null,
+    "types": ["electric", "fairy"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "tapuLele": {
+    "name": "Tapu Lele",
+    "form": null,
+    "types": ["psychic", "fairy"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "ekans": {
+    "name": "Ekans",
+    "form": null,
+    "types": ["dark", "ground"],
+    "abilities": ["merciless", "flareHeal", "flashFire"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Villainous Viper",
+    "pokedexEntries": [
+      "Its tail rattle emits a rhythmic chime that lulls small prey into a daze. Ekans coaxes other Pokémon into giving up food or territory through subtle suggestion. It slithers across sweltering sands in search of victims, its movements nearly silent. Ancient texts record that certain desert warlords attempted to harness this Pokémon's powers—believing a fully trained Ekans could one day grant divine hypnotic control over all."
+    ]
+  },
+  "arbok": {
+    "name": "Arbok",
+    "form": null,
+    "types": ["dark", "ground"],
+    "abilities": ["merciless", "flareHeal", "flashFire"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Sorcerer Serpent",
+    "pokedexEntries": [
+      "The facial marking on its hood mesmerises all who meet its gaze. Arbok can bend the wills of people and Pokémon, hypnotising them into doing its bidding. It tempts humans with promises of fortune and powers, its calm calculated facade falls—becoming enraged. When angered its hot breath becomes fiery and uncontrollable—burning everything around itself."
+    ]
+  },
+  "mantyke": {
+    "name": "Mantyke",
+    "form": null,
+    "types": ["ghost", "flying"],
+    "abilities": ["stormySeas", "stormDrain"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Wave Wisp",
+    "pokedexEntries": [
+      "This playful Pokémon pops in and out of sight, letting the ocean carry itself wherever it may drift. Sailors claim that when its spirals glow brightly, the harsh waves miraculously clear up around it. Mantyke is said to soothe frightened swimmers with its soft, luminous glow. Only a lucky few have ever been able to see one for themselves."
+    ]
+  },
+  "mantine": {
+    "name": "Mantine",
+    "form": null,
+    "types": ["ghost", "flying"],
+    "abilities": ["stormySeas", "stormDrain"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Storm Spirit",
+    "pokedexEntries": [
+      "Legends say this Pokémon carries the memories of every soul lost at sea. Its wings glow with swirling patterns that shift like the tides, guiding sailors safely through stormy seas. When it breaches the water, even the most violent waves calm beneath it. Coastal cities have worshipped it as a gentle guardian whose presence ensures safe passage for centuries."
+    ]
+  },
+  "growlithe": {
+    "name": "Growlithe",
+    "form": null,
+    "types": ["electric", "fairy"],
+    "abilities": ["galvanise", "pixilate", "energyShield"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Prismatic Pup",
+    "pokedexEntries": [
+      "This playful Pokémon's fur refracts light, and is warm and soothing to pet. Growlithe are naturally drawn to kind-hearted people. Their paws leave a shimmering glow behind wherever they step. According to legends, these pawprints are said to ward off misfortune."
+    ]
+  },
+  "arcanine": {
+    "name": "Arcanine",
+    "form": null,
+    "types": ["electric", "fairy"],
+    "abilities": ["galvanise", "pixilate", "energyShield"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Brilliant Beast",
+    "pokedexEntries": [
+      "Revered since ancient times as a celestial guardian, Arcanine is said to descend only when harmony is threatened. Its brilliant mane light the land, and it leaves a glorious trail as it runs. Myths claim its trail marks places blessed by divine protection."
+    ]
+  },
+  "nidorina": {
+    "name": "Nidorina",
+    "form": null,
+    "types": ["dragon", "fairy"],
+    "abilities": ["multiscale", "triage"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Heart Scale",
+    "pokedexEntries": [
+      "This gentle yet hardy Pokémon highly protective of baby Nidoran hatchlings. Using her specialised scales, she has the ability to heal wounds and soothe pain. Despite what her warm nature may imply, her body covered in hard scales and spines—letting her hold her own against larger foes. This Pokémon will sacrifice everything for the ones it loves, even at risk of her own life and spirit."
+    ]
+  },
+  "nidorino": {
+    "name": "Nidorino",
+    "form": null,
+    "types": ["dragon", "dark"],
+    "abilities": ["multiscale", "hustle", "bruteForce", "ruthless", "battleArmour"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Savage Spine",
+    "pokedexEntries": [
+      "This ruthless Pokémon is born into tightly-knit family groups—but male Nidoran rarely stay for long. As they mature their bodies harden into brutal spines and jagged armour—and an uncontrollable ferocity begins to burn within them. Their scar covered hide tell stories of countless battles. Unable to tolerate other Pokémon, and too aggressive to live amongst their own kin—they isolate themselves to solitary lives, picking fights with anything that crosses their path. They only tolerate other Nidoran when mating season arrives."
+    ]
+  },
+  "nidoqueen": {
+    "name": "Nidoqueen",
+    "form": null,
+    "types": ["dragon", "ghost"],
+    "abilities": ["multiscale", "triage"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Heartbreak",
+    "pokedexEntries": [
+      "Nidoqueen is said to evolve from Nidorina who gave their lives to protect a loved one and failed, losing their loved ones in the process. The love that remains binds her spirit together, forming this spectral body clad in hardened scales fueled by grief. Thought wrought with sorrow, Nidoqueen is still gentle by nature—tending to injured, protecting the vulnerable, and healing others wih the little warmth she still carries... even if her own heart will be broken forever."
+    ]
+  },
+  "nidoking": {
+    "name": "Nidoking",
+    "form": null,
+    "types": ["dragon", "fire"],
+    "abilities": ["multiscale", "sheerForce", "reckless"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Scorching Spike",
+    "pokedexEntries": [
+      "Some Nidorino become so consumed by rage their bodies cannot contain it. When their fury burns past the point of pain, fear, or reasoning they ignite into Nidoking. Their molten spines radiate heat and their footsteps scorch the ground. Their mere presence warps the air around it... like a living furnace. Unlike Nidoqueen, there is no kindness left in them. An inferno rages in their heart, seeping out through their chest visually. They roam in solitude, driven by a need to fight anything and everything that crosses their paths."
+    ]
+  },
+  "nidoran": {
+    "name": "Nidoran",
+    "form": null,
+    "types": ["dragon"],
+    "abilities": ["multiscale", "wimpOut", "hustle"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Hatchling",
+    "pokedexEntries": [
+      "Nidoran are unique in that they hatch without a determined sex. It keeps its eggshell armour to protect itself until mature, tougher hide develops. Scientists do not fully understand what causes a Nidoran to develop into a male or female, but it is an inevitable part of their life cycle. Some theorise it is based on their socialisation, but other research suggests mundane things like their incubation temperature play a factor. Some unconventional scientists theorise about chemicals in the drinking water have become popular over the years."
+    ]
+  },
+  "lunare": {
+    "name": "Lunare",
+    "form": null,
+    "types": ["dark", "fairy"],
+    "abilities": ["superLuck"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": [
+      "A very rare and withdrawn Pokémon once believed to be extinct, Lunare is said to appear only in remote areas under the light of a full moon. Its sudden appearances were long associated with misfortune. This superstition gave rise to a cruel practice: that the only way to ward off the \"bad luck\" of encountering one was to capture is and sever its foot to keep as a charm. Combined with its already elusive nature, this devastated its population and forced the remaining families into deeper hiding.",
+      "Its horn and other dark growths not only make it unsightly, but rapidly grow and shift with the weather. This bizarre anatomy only fuels people's fear of this kind-hearted Pokémon. Over time, their volatile growths stabilise into Absol's scythe-like horn, tail, and claws"
+    ]
+  },
+  "absol": {
+    "name": "Absol",
+    "form": null,
+    "types": ["dark", "fairy"],
+    "abilities": ["sixthSense", "magicBounce", "elegance"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "absolMega": {
+    "name": "Absol",
+    "form": "Mega",
+    "types": ["dark", "fairy"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "spearow": {
+    "name": "Spearow",
+    "form": null,
+    "types": ["steel", "flying"],
+    "abilities": ["lightningRod", "galvanise"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Conductor Wing",
+    "pokedexEntries": [
+      "Spearow's body utilises metal plating to help it conduct and absorb electricity better. Over time, this changes its entire physiology! Those who consume enough electricity become surging thunderbirds, while those who expand on their metal armour evolve tough, steel-plated bodies with sword-like wings. Trainers say its destiny is decided by the environment it is raised in."
+    ]
+  },
+  "fearow": {
+    "name": "Fearow",
+    "form": null,
+    "types": ["flying", "electric"],
+    "abilities": ["intimidate", "reckless"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": [
+      "In Alola, these Pokémon are much faster than normal. They were thought to be bringers of tropical storms by people in the past.",
+      "Alolan Fearow's striking patterns glow when angered. This Pokémon's thunderous cry and the sound of its wings are enough to petrify even the most brave Pokémon.",
+      "Alolan Fearow has a very aggressive attitude towards any Pokémon who pose a threat to it. They are brimming with electric energy, so much so it can even hurt themselves while harnessing it. Scientists believe they evolved these powers before they were able to harness them without hurting themselves."
+    ]
+  },
+  "skarmory": {
+    "name": "Skarmory",
+    "form": null,
+    "types": ["steel", "flying"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "tyrunt": {
+    "name": "Tyrunt",
+    "form": null,
+    "types": ["rock", "dragon"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "aerodactyl": {
+    "name": "Aerodactyl",
+    "form": null,
+    "types": ["rock", "electric"],
+    "abilities": ["levitate", "strongJaw", "static"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Amber Fossil",
+    "pokedexEntries": [
+      "Revived from old amber, its body still carries trapped static energy from the fossilised resin it onces rested in. Lightning constantly dances across its cracked golden wings. Its jagged static-charged jaws can unleash devastating electrical bites that leave prey paralysed before they even realise they've been struck."
+    ]
+  },
+  "aerodactylMega": {
+    "name": "Aerodactyl",
+    "form": "Mega",
+    "types": ["rock", "fire"],
+    "abilities": ["levitate", "headstrong", "merciless", "flameBody"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Volcanic Fossil",
+    "pokedexEntries": [
+      "Upon Mega Evolution, Aerodactyl is consumed by the wrath of extinction. Once preserved in amber, it is now reborn in blazing magma. Its body radiates unbearable heat. Every beat of its wings rains burning embers. Its molten fangs can melt stone on contact. It mercilessly annihilated anything in its path, as if determined to make the world feel the pain it once felt during extinction."
+    ]
+  },
+  "druddigon": {
+    "name": "Druddigon",
+    "form": null,
+    "types": ["rock", "poison"],
+    "abilities": ["strongJaw", "battleArmour", "roughSkin", "lingeringAroma"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Tar Fossil",
+    "pokedexEntries": [
+      "This Pokémon's body is encased in petrified tar with only its fossilised bones exposed. The growths on its back are not wings, but heat-absorbing sails Druddigon used in the past to regulate its temperature before going extinct. Now—it's bone chilling cries echo throughout its territory, made even more horrific by miserable stench of rot and decay that accompanies it. Nearby plants wither as ancient toxins seep from its wretched hide."
+    ]
+  },
+  "tyrantrum": {
+    "name": "Tyrantrum",
+    "form": null,
+    "types": ["ice", "dragon"],
+    "abilities": ["slushRush", "strongJaw"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Frozen Fossil",
+    "pokedexEntries": [
+      "Once an apex predator, this Pokémon went extinct as the Earth entered a prolonged ice age. Some Tyrantrum were preserved in ice during this period and recently revived. Now highly adapted to the frigid environment that caused its initial demise, its frozen teeth flash-freeze whatever they come into contact with. After, its immense bite force shatter the prey into countless shards of ice. Its diet consists of any and all tundra-dwelling Pokémon from mighty Mamoswine, weighty Walrein, beastly Beartic, study Sandslash, and everything in between. Its thunderous roars are said to chill the land itself, announcing a new reign of a fallen king with no rivals."
+    ]
+  },
+  "primora": {
+    "name": "Primora",
+    "form": null,
+    "types": ["ground", "dragon"],
+    "abilities": ["permafrost", "drySkin", "sapSipper"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Primal Seed",
+    "pokedexEntries": [
+      "Primora is said to be a living fragment of the world's ancient landscapes. Its body is a tiny, fertile ecosystem with traces of water, ice, and plant-life. It is highly adaptable and its body undergoes significant changes as it grows—branching into an aquatic, terrestrial, or aerial Pokémon."
+    ]
+  },
+  "aurorus": {
+    "name": "Aurorus",
+    "form": null,
+    "types": ["ice", "dragon"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "lapras": {
+    "name": "Lapras",
+    "form": null,
+    "types": ["water", "dragon"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "tropius": {
+    "name": "Tropius",
+    "form": null,
+    "types": ["grass", "dragon"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "whismur": {
+    "name": "Whismur",
+    "form": null,
+    "types": ["electric", "dragon"],
+    "abilities": ["multiscale", "galvanise"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Plasma Cell",
+    "pokedexEntries": [
+      "A failed biotech experiment designed to absorb ambient noise and convert it into power. It not releases bursts of EM interference when startled. Whismur's internal processors are underdeveloped to contain its energy. THe status discharge from its cries can cause technology nearby to malfunction. It's not certain where this Pokémon originated from, but come conspiracy theorists tie it into the dimensional research lab."
+    ]
+  },
+  "loudred": {
+    "name": "Loudred",
+    "form": null,
+    "types": ["electric", "dragon"],
+    "abilities": ["multiscale", "galvanise"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Overload",
+    "pokedexEntries": [
+      "Loudred absorbs sound and electricity and converts it using its specialised cells. When Loudred becomes excited or angered, it becomes a hazard to public safety; causing Pokémon Centres within a few miles to have power outages."
+    ]
+  },
+  "exploud": {
+    "name": "Exploud",
+    "form": null,
+    "types": ["electric", "dragon"],
+    "abilities": ["multiscale", "galvanise"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Cataclysm",
+    "pokedexEntries": [
+      "Many popular monster movies have been made centreing Dynamaxed Exploud terrorising major cities like Castelia and Saffron city. However, this Pokémon's danger is not purely cinematic—its mere presence is a danger to civilisation. When it roars, all technology within a 10 miles radius is completely shut down. Its breath crackles the air around it from status electricity."
+    ]
+  },
+  "electrike": {
+    "name": "Electrike",
+    "form": null,
+    "types": ["grass", "electric"],
+    "abilities": ["dazzling"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Festive",
+    "pokedexEntries": [
+      "Electrike is a favourite amongst many for the positive energy it exudes on all those who see it. It is warm to the touch and loves to cuddles. Electrike spends its days searching for trinket to bring to its owner as gifts."
+    ]
+  },
+  "manectric": {
+    "name": "Manectric",
+    "form": null,
+    "types": ["grass", "electric"],
+    "abilities": ["dazzling"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Glowpine",
+    "pokedexEntries": [
+      "When in danger, it sends out blinding flashes of light that confuse foes. During cold winter nights, packs of these Manectric can be seen from miles away. Ancient villages are said to have celebrated winter holidays by gathering near this Pokémon, believing its vibrant glow brought good fortune and a calm winter."
+    ]
+  },
+  "manectricMega": {
+    "name": "Manectric",
+    "form": "Mega",
+    "types": ["grass", "ice"],
+    "abilities": ["slushRush"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Frostpike",
+    "pokedexEntries": [
+      "The power Mega Evolution has turned this once cheerful Pokémon into a jagged, merciless predator of the tundra. Its icy spines can pierce solid rock and its once glowing body has been replaced by a frozen shimmer. It lashes out even at familiar trainers, requiring a strong bond to tame. However, those who manage to tame one say they can see a glimpse of joy in tis eyes in the heat of battle."
+    ]
+  },
+  "smoochum": {
+    "name": "Smoochum",
+    "form": null,
+    "types": ["psychic", "normal"],
+    "abilities": ["amplifier"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Pop Performer",
+    "pokedexEntries": [
+      "This Smoochum spends hours brushing its glittery hair and posing in the mirror with its fashionable clothing. The gemstones it adorns amplify its psychic power, allowing them to sense the mood of the crows and adapt their performance in real time. When it feels ignores, it sulks dramatically until it receives attention again."
+    ]
+  },
+  "jynx": {
+    "name": "Jynx",
+    "form": null,
+    "types": ["psychic", "fire"],
+    "abilities": ["incinerate", "amplifier"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Passion Performer",
+    "pokedexEntries": [
+      "Jynx burns with intense desire for the spotlight. Her voice heats the air around herself, and her fiery dance moves leave audiences breathless as her dress morphs into beautiful shapes. Her jewelry and gemstones harness her psychic powers, with the heart shaped gem glowing when she receives applause. However, she has a very short temper—critics often find themselves horribly burnt after giving bad reviews."
+    ]
+  },
+  "meloettaTechno": {
+    "name": "Meloetta",
+    "form": "Techno",
+    "types": ["psychic", "electric"],
+    "abilities": ["galvanise", "amplifier"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Pulse Performer",
+    "pokedexEntries": [
+      "Meloetta's voice syncs with her glowing neon hair to create hypnotic digital melodies that encapsulate her highly devoted fans. When it sings, the entire crowd moves in unison to the beat. It is believed her pulsing heart markings keep her in sync with her audience. If angered, she can cause blackouts for miles."
+    ]
+  },
+  "meloettaClassical": {
+    "name": "Meloetta",
+    "form": "Classical",
+    "types": ["psychic", "ice"],
+    "abilities": ["refrigerate", "amplifier"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Prima Performer",
+    "pokedexEntries": [
+      "Meloetta expresses herself through graceful dance and gentle humming classical tunes. The air around her crystallises as she spins, leaving trails of frost shaped like ribbons. Every single move she makes calculated. She does not often make mistakes—but if she does, she becomes angry and will rapidly chill the ground around herself for miles. Any unfortunate enough to be standing on it are frozen in place."
+    ]
+  },
+  "vanillite": {
+    "name": "Vanillite",
+    "form": null,
+    "types": ["ice", "poison"],
+    "abilities": ["levitate", "weakArmour", "infection"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Sweet Spore",
+    "pokedexEntries": [
+      "Vanillite is perpetually tired and unwell as a faint mould grows on its once tasty body. The fungus that inhabits its body is theorised to have a mind of its own, forming tiny, innocent looking smiles when it takes control. Some scientists even believe the fungus is a colony of microscopic Pokémon that work in unison. As it stands, Vanillite is still in control—but for how long?"
+    ]
+  },
+  "vanillish": {
+    "name": "Vanillish",
+    "form": null,
+    "types": ["ice", "poison"],
+    "abilities": ["levitate", "weakArmour", "infection"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Frosty Fungus",
+    "pokedexEntries": [
+      "As the mould spreads, Vanillish becomes visibly distressed. It can feel the fungus creeping all around its body and even over its eyes, watching helplessly as it loses strength. The mold's smile is even more tangible now than before as it begins to win the battle for control."
+    ]
+  },
+  "vanilluxe": {
+    "name": "Vanilluxe",
+    "form": null,
+    "types": ["ice", "poison"],
+    "abilities": ["levitate", "weakArmour", "infection"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Confection Infection",
+    "pokedexEntries": [
+      "One of Vanilluxe's heads have been fully overtaken by mould. It is calm, content, and vacant; almost child-like in nature. This head is only capable of laughing as if it is genuinely amused by everything. It is believed this is the mould's true nature, sedating the Pokémon so they have less will to fight the infection. The other head is still resisting, clinging on to any remaining bits of control it has left. The life cycle continues as spores expel from the pipe on their heads, drifting through the air and spreading to other Pokémon."
+    ]
+  },
+  "victreebrew": {
+    "name": "Victreebrew",
+    "form": null,
+    "types": ["poison", "steel"],
+    "abilities": ["levitate", "magicBounce", "corrosion"],
+    "stats": {
+      "hp": 105,
+      "attack": 65,
+      "defence": 105,
+      "specialAttack": 135,
+      "specialDefence": 105,
+      "speed": 35
+    },
+    "species": "Cryptic Cauldron",
+    "pokedexEntries": [
+      "Victreebrew's body has hardened into iron upon evolution. It is filled with a volatile, acidic concoction that never ceases bubbling. It slowly floats about, and carefully stirs its own brew with its tail to adjust the mixture. The ooze that spills out from its mouth can corrode nearly anything—yet its own body is never harmed... as if it is protected by a magical seal. It is said that if the acid does not kill you first, the gases it emits can drive you mad with visions of eldritch creatures from another dimension."
+    ]
+  },
+  "spellsprout": {
+    "name": "Spellsprout",
+    "form": null,
+    "types": ["psychic", "poison"],
+    "abilities": ["magicBounce", "wimpOut", "darkImmunity"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Paranormal Potion",
+    "pokedexEntries": [
+      "The fluid Spellsprout creates is mildly corrosive and toxic, but also has many magical properties. Many people have reports of unsettling visions when exposed to it. Some see visions of a black hole, void, or portals, while others see visions of monsters with many terrifying teeth and tentacles."
+    ]
+  },
+  "weepinspell": {
+    "name": "Weepinspell",
+    "form": null,
+    "types": ["psychic", "poison"],
+    "abilities": ["magicBounce", "levitate", "darkImmunity"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Ethereal Elixir",
+    "pokedexEntries": [
+      "This Pokémon is constantly bubbling and murmuring strange incantations to itself. The effect of its concoction is unpredictable—if one person ingests it they may simply fall ill or burn themselves... but another person may shapeshift entirely into a different form. Some may even sprout wicked wings or extradimensional eyes."
+    ]
+  },
+  "carnivoid": {
+    "name": "Carnivoid",
+    "form": null,
+    "types": ["psychic", "dragon"],
+    "abilities": ["strongJaw", "magicBounce", "darkImmunity"],
+    "stats": {
+      "hp": 90,
+      "attack": 135,
+      "defence": 90,
+      "specialAttack": 65,
+      "specialDefence": 90,
+      "speed": 90
+    },
+    "species": "Magical Maw",
+    "pokedexEntries": [
+      "Little is known about this enigmatic Pokémon. It is believed to be created when a Weepinspell's ritual catastrophically fails, tearing open a passage to another dimension. Witnesses to these rituals report visions of a far larger being beyond Carnivoid's form, a colossal mass of tentacles and a vast, gaping maw. Some researchers believe Carnivoid is only a partial manifestation of that entity, constrained into a smaller and more stable shape within this world."
+    ]
+  },
+  "taillow": {
+    "name": "Taillow",
+    "form": null,
+    "types": ["ice", "flying"],
+    "abilities": ["refrigerate", "windRider", "swiftness"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Comet",
+    "pokedexEntries": [
+      "Taillow can be spotted gazing deeply into the night sky in large group. They hide during the day, and come out at night. When they flock, they blend in with the stars above—camouflaging them from both predators are prey."
+    ]
+  },
+  "swellow": {
+    "name": "Swellow",
+    "form": null,
+    "types": ["ice", "flying"],
+    "abilities": ["refrigerate", "windRider", "swiftness"],
+    "stats": {
+      "hp": 60,
+      "attack": 100,
+      "defence": 35,
+      "specialAttack": 100,
+      "specialDefence": 35,
+      "speed": 145
+    },
+    "species": "Apparition",
+    "pokedexEntries": [
+      "Swellow is in a constant state of motion. It moves with such speed that the ice on its body is constantly melting—creating trails of beautiful dust behind it. Some Swellow have a deeper, cosmic connection with space, and can evolve further beyond their current form."
+    ]
+  },
+  "latios": {
+    "name": "Latios",
+    "form": null,
+    "types": ["ice", "fire"],
+    "abilities": ["swiftness", "levitate", "amplifier"],
+    "stats": {
+      "hp": 80,
+      "attack": 140,
+      "defence": 40,
+      "specialAttack": 140,
+      "specialDefence": 40,
+      "speed": 160
+    },
+    "species": "Perihelion",
+    "pokedexEntries": [
+      "Latios tears through the atmosphere at blinding speeds in a blaze of heat and frozen stardust. The force of its movement scorches and air around, leaving beautiful burning trails of light in its wake. One of its favoured methods of attack is charging at full speed into its does, striking with an impact powerful to shatter the ground beneath them."
+    ]
+  },
+  "latias": {
+    "name": "Latias",
+    "form": null,
+    "types": ["ice", "psychic"],
+    "abilities": ["magicBounce", "levitate", "energyShield"],
+    "stats": {
+      "hp": 80,
+      "attack": 70,
+      "defence": 60,
+      "specialAttack": 120,
+      "specialDefence": 140,
+      "speed": 130
+    },
+    "species": "Aphelion",
+    "pokedexEntries": [
+      "Latias is quite elusive—only passing near Earth every 100 years. It floats gracefully through the cold, deep void of space. When soaring, it leaves behind a glorious trail of cosmic dust. Some say if you make wish when it appears, that a lucky few have their wishes come true."
+    ]
+  },
+  "roggenrola": {
+    "name": "Roggenrola",
+    "form": null,
+    "types": ["rock", "grass"],
+    "abilities": ["energyShield", "drought", "flashFire"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Sundial",
+    "pokedexEntries": [
+      "Roggenrola is completely blind. It's \"eye\" shaped organ detects only sound and sunlight. The solar crystal atop its head absorbs sunlight and is incredibly hot to the touch. Ancient civilisations used it to help tell time because its body moves according to the sun's positioning."
+    ]
+  },
+  "boldore": {
+    "name": "Boldore",
+    "form": null,
+    "types": ["rock", "grass"],
+    "abilities": ["energyShield", "drought", "flashFire"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Energy Ore",
+    "pokedexEntries": [
+      "Because its solar energy was too great to be contained, the energy leaked and formed orange crystals. It lies still for so long that moss grows on its body, almost like a plant growing in the sun. It requires a massive amount fo sunlight to evolve."
+    ]
+  },
+  "gigalith": {
+    "name": "Gigalith",
+    "form": null,
+    "types": ["rock", "grass"],
+    "abilities": ["energyShield", "drought", "flashFire"],
+    "stats": {
+      "hp": 110,
+      "attack": 120,
+      "defence": 130,
+      "specialAttack": 140,
+      "specialDefence": 90,
+      "speed": 10
+    },
+    "species": "Solar Crystal",
+    "pokedexEntries": [
+      "The blasts of energy it makes from sunbeams have terrifying power. However, it's not able to fire its blasts at night or on rainy days. Ancient civilisation used to worship this Pokémon for its terrifying power and ability to harness solar energy, using it to power everything from lights to cooking equipment."
+    ]
+  },
+  "teddiursa": {
+    "name": "Teddiursa",
+    "form": null,
+    "types": ["normal", "steel"],
+    "abilities": ["flareHeal", "flashFire", "steelworker"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Toaster Teddy",
+    "pokedexEntries": [
+      "Teddiursa radiates a gentle, dry heat and smells of grease, burnt toast, and smoke. It eagerly burns its own food using the heating coils on its belly and ears—it prefers its meals charred. The lever on the back of its head pops up when its hungry or excited—startling those nearby with its sudden ding and burst of heat. Teddiursa likes to give hugs—but becomes sad and embarrassed when it burns its trainer."
+    ]
+  },
+  "ursaring": {
+    "name": "Ursaring",
+    "form": null,
+    "types": ["normal", "steel"],
+    "abilities": ["flareHeal", "flashFire", "steelworker"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Barbeque Bear",
+    "pokedexEntries": [
+      "Ursaring possesses a terrifying appetite, reducing anything edible to burnt scraps using its body before devouring it. It sleeps during the day and is usually timid and non-confrontational, only becoming hungry and aggressive at night. WHen hunting in the dark, it appears as a walking inferno, identifiable only by the intense glow and the sound of deep growls mixed with the sound of burning fire. Its presence is said to haunt forests at night—a camper's worst nightmare."
+    ]
+  },
+  "bounsweet": {
+    "name": "Bounsweet",
+    "form": null,
+    "types": ["grass"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "bounsour": {
+    "name": "Bounsour",
+    "form": null,
+    "types": ["bug", "grass"],
+    "abilities": ["poisonHeal", "lingeringAroma", "appetite", "harvest", "grassyGuard"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "fermentation",
+    "pokedexEntries": [
+      "A group fo small worm Pokémon hollow out a deceased Bounsweet and live within it as a shared body. As they consume the fruit, it ferments and bubbles inside, producing thick, sugary juice and a pungent, sour aroma. The worms happily wriggle within, keeping the \"shell\" moving as if it were alive. One worm usually claims the head as its \"leader\", tending to be the most aggressive and confident of the group. Once the shell has been sapped of all its nutrients, the worms will move on to another host. Many people consider the potent juices produced by Bounsour a rare delicacy... but consuming more than a few drops will make one violently ill!"
+    ]
+  },
+  "steenee": {
+    "name": "Steenee",
+    "form": null,
+    "types": ["grass"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "tsareena": {
+    "name": "Tsareena",
+    "form": null,
+    "types": ["grass", "fighting"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "paras": {
+    "name": "Paras",
+    "form": null,
+    "types": ["bug", "grass"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "parasect": {
+    "name": "Parasect",
+    "form": null,
+    "types": ["bug", "ghost"],
+    "abilities": ["poisonHeal", "infection", "cursedBody", "drySkin", "unaware"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Zombie Fungus",
+    "pokedexEntries": [
+      "The bug host is drained of energy by the mushrooms on its back. They appear to do all the thinking. The bug is mostly dead, with the mushroom on its back having become the main body. If the mushroom comes off, the bug stops moving.",
+      "Spores that shed from its mushroom cap cling to passing Paras, slowly draining their vitality as pale growths spread across their bodies. Once the host weakens, the fungus quickly blooms and takes control, adding another puppet to its wandering swarm. Some believe that Parasect all function under a hive mind because they all move in unison. What they are doing or how they sustain themselves is unclear—they do not eat or sleep, they only exist to spread the infection further."
+    ]
+  },
+  "shinx": {
+    "name": "Shinx",
+    "form": null,
+    "types": ["electric", "ice"],
+    "abilities": ["adaptability", "slushRush", "furCoat"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Frost Flash",
+    "pokedexEntries": [
+      "Shinx generate a gentle electric pulse to keep themselves warm in the intense climates they inhabit, insulated by their dense fur coat. They travel in small groups under the watch of Luxray, carefully observing hunts to learn how to track prey across the tundra. They have specially adapted ears to hear faint footsteps for hundreds of feet—event in intense blizzards."
+    ]
+  },
+  "luxio": {
+    "name": "Luxio",
+    "form": null,
+    "types": ["electric", "ice"],
+    "abilities": ["adaptability", "slushRush", "furCoat"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Snow Spark",
+    "pokedexEntries": [
+      "Luxio's wide, insulated paws allow it to sprint effortless across deep snow in complete silence. It stalks prey for hours across the frozen tundra, communicating with other Luxio through electric light flashes from its tail. Hunters say despite this, a Luxio is never spotted until it pounces. They still hunt in small packs when targeting larger prey such as Piloswine or Sawsbuck."
+    ]
+  },
+  "luxray": {
+    "name": "Luxray",
+    "form": null,
+    "types": ["electric", "ice"],
+    "abilities": ["adaptability", "slushRush", "furCoat"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Frozen Gaze",
+    "pokedexEntries": [
+      "Every aspect of Luxray is adapted to hunting in snowy climates. Now efficient enough to be a solo hunter, Luxray can track prey for miles using its combined heat vision and X-ray vision. It is able to see prey buried in snow, hiding in caves, behind solid ice and stone, and more. Once Luxray has set its sights on a target it will always succeed in tracking it down. Its piercing gaze is said to freeze prey in place once they meet. If its gaze is said to freeze prey in place once they meet eyes. If its gaze does not stop them, it utilises intense electric shocks to stun its prey before finishing them off."
+    ]
+  },
+  "glameow": {
+    "name": "Glameow",
+    "form": null,
+    "types": ["psychic", "dark"],
+    "abilities": ["prankster", "strongJaw", "unnerve"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Ghastly Grin",
+    "pokedexEntries": [
+      "These playful tricksters delight in making people feel uneasy—footsteps behind them, shapes moving in the corner of their vision, etc. Glameow slip in and out of sight so quickly that witnesses swear they completely vanished. In the dark, only their glowing eyes, grin, and stripes remain visible—swaying hypnotically to confuse any who see it."
+    ]
+  },
+  "purugly": {
+    "name": "Purugly",
+    "form": null,
+    "types": ["psychic", "dark"],
+    "abilities": ["prankster", "strongJaw", "unnerve"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Sinister Smile",
+    "pokedexEntries": [
+      "Purugly use their hypnotic eye to disorient foes before lunging in for a crushing bite to finish the job. Despite their mischievous nature, they are also physically sturdy and can overpower opponents with strength alone. Purugly likes to play with their food. Once it sets its sights on a target, it will torment them with psychological illusions for hours before it gets bored and finally pounces."
+    ]
+  },
+  "psyduck": {
+    "name": "Psyduck",
+    "form": null,
+    "types": ["ice", "dark"],
+    "abilities": ["neuroforce", "slushRush"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Mind Minion",
+    "pokedexEntries": [
+      "Psyduck's hairs act as antennae, receiving hypnotic signals emitted from the gemstones in Golduck's crown. These constant psychic commands cause intense headaches, leaving Psyduck in a confused trance as they carry out their ruler's evil bidding. Some Psyduck are especially stubborn, but are swayed by being held down and forced to stare in Golduck's hypnotic eyes by their fellow Psyduck. At night, flocks of Psyduck guard Golduck's kingdom, and can be seen form a distance marching in unison, illuminated only by the glow of their eyes reflecting off of the ice and snow."
+    ]
+  },
+  "golduck": {
+    "name": "Golduck",
+    "form": null,
+    "types": ["ice", "dark"],
+    "abilities": ["neuroforce", "slushRush"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Mad Monarch",
+    "pokedexEntries": [
+      "Golduck has been driven mad with power sourced from its crown. Its powers have cursed it with sleeplessness, leaving it with deep shadows under its eyes. It it uncertain how much autonomy Golduck itself has—whether the crown is controlling it, or it is controlling the crown. Highly unstable, Golduck lash out against its underlings despite them following its every bidding. If they make even the slightest mistake, they are banished from the kingdom and left to fend for themselves in the harsh arctic tundra."
+    ]
+  },
+  "gorebyss": {
+    "name": "Gorebyss",
+    "form": null,
+    "types": ["fire", "ice"],
+    "abilities": ["stormDrain", "flashFire", "flameBody"],
+    "stats": {
+      "hp": 94,
+      "attack": 59,
+      "defence": 64,
+      "specialAttack": 114,
+      "specialDefence": 114,
+      "speed": 80
+    },
+    "species": "Hot Spring Siphon",
+    "pokedexEntries": [
+      "Gorebyss is incredibly sensitive to water quality and temperature. Even the slightest impurities will render it ill. It inhabits cold mountain regions where pristine hot springs form. Using its long proboscis it siphons heat, water, and nutrients from the hydrothermal vents in the springs. Normally peaceful, Gorebyss drifts elegantly through the steaming waters. If angered, its body rapidly heats up and releases explosive blasts of boiling or freezing water like an erupting geyser."
+    ]
+  },
+  "huntail": {
+    "name": "Huntail",
+    "form": null,
+    "types": ["fire", "poison"],
+    "abilities": ["strongJaw", "stormDrain", "flameBody"],
+    "stats": {
+      "hp": 94,
+      "attack": 114,
+      "defence": 64,
+      "specialAttack": 59,
+      "specialDefence": 114,
+      "speed": 80
+    },
+    "species": "Deep Sea Serpent",
+    "pokedexEntries": [
+      "Unlike its sensitive counterpart Gorebyss, Huntail thrives in the harsh depths of the ocean. It lurks among turbulent hydrothermal vents where superheated chemicals and toxic gases pour into the water. Its body is glowing with molten light, and smoke constantly pours from its maw. Huntail hides within these vents with only its tail exposed. Using the eerie lure at the tip of its tail, it draws curious prey close before chomping down. If the prey is too large to finish in one bite, the horrible toxins embedded in its teeth will quickly weaken the victim before it can escape."
+    ]
+  },
+  "remoraid": {
+    "name": "Remoraid",
+    "form": null,
+    "types": ["fire", "water"],
+    "abilities": ["adaptability", "stormDrain", "flameBody"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Hydrothermal",
+    "pokedexEntries": [
+      "Remoraid is highly adaptable and is capable of living in both fresh and salt water. It only requires heat energy from geothermal vents—which can be found in hot sprints or in the deep sea. The extreme heat causes its body to glow from within as it stores the energy in specialised organs that resemble vents with veins flowing through them. When threatened, it releases this build-up power in quick, explosive blasts."
+    ]
+  },
+  "spoink": {
+    "name": "Spoink",
+    "form": null,
+    "types": ["steel", "rock"],
+    "abilities": ["weakArmour", "steelworker", "flashFire"],
+    "stats": {
+      "hp": 110,
+      "attack": 110,
+      "defence": 110,
+      "specialAttack": 45,
+      "specialDefence": 75,
+      "speed": 75
+    },
+    "species": "Pig Iron",
+    "pokedexEntries": [
+      "It stores heat within the orb on its head, formed from compressed coal and crude pig iron. Its superheated tail becomes flexible, allowing it to bounce and circulate heat through its body. Spoink gather in ore-rich caverns, absorbing minerals and carrying them back to their herd. Clumsy with their stubby arms, they act as eager assistants learning the basics of forging under the watchful guidance of Grumpig. It is theorised they can only evolve when Grumpig feels they are ready."
+    ]
+  },
+  "grumpig": {
+    "name": "Grumpig",
+    "form": null,
+    "types": ["steel", "rock"],
+    "abilities": ["weakArmour", "steelworker", "flashFire"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Blacksmith",
+    "pokedexEntries": [
+      "Grumpig are skilled craftsmen that define the minerals collected by Spoink into durable metal. The protective goggles they forge shield them from ash and heat, and they distribute these to Spoink as well! They are know to hoard rare metals and gold, proudly displaying their finest specimens like treasure. Cheerful yer prideful, they carefully train their assistants and will fiercely defend both their creations and their students from harm."
+    ]
+  },
+
+  "sandshrew": {
+    "name": "Sandshrew",
+    "form": null,
+    "types": ["ground"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "sandslash": {
+    "name": "Sandslash",
+    "form": null,
+    "types": ["ground"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "gastly": {
+    "name": "Gastly",
+    "form": null,
+    "types": ["ghost", "poison"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "haunter": {
+    "name": "Haunter",
+    "form": null,
+    "types": ["ghost", "poison"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "gengar": {
+    "name": "Gengar",
+    "form": null,
+    "types": ["ghost", "poison"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "gengarMega": {
+    "name": "Gengar",
+    "form": "Mega",
+    "types": ["ghost", "poison"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "azurill": {
+    "name": "Azurill",
+    "form": null,
+    "types": ["water", "fairy"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "marill": {
+    "name": "Marill",
+    "form": null,
+    "types": ["water", "fairy"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "azumarill": {
+    "name": "Azumarill",
+    "form": null,
+    "types": ["water", "fairy"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "dunsparce": {
+    "name": "Dunsparce",
+    "form": null,
+    "types": ["normal", "ground"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "drampa": {
+    "name": "Drampa",
+    "form": null,
+    "types": ["normal", "dragon"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "sneasel": {
+    "name": "Sneasel",
+    "form": null,
+    "types": ["dark", "ice"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "weavile": {
+    "name": "Weavile",
+    "form": null,
+    "types": ["dark", "ice"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "swinub": {
+    "name": "Swinub",
+    "form": null,
+    "types": ["ice", "ground"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "piloswine": {
+    "name": "Piloswine",
+    "form": null,
+    "types": ["ice", "ground"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "mamoswine": {
+    "name": "Mamoswine",
+    "form": null,
+    "types": ["ice", "ground"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "wurmple": {
+    "name": "Wurmple",
+    "form": null,
+    "types": ["bug"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "cascoon": {
+    "name": "Cascoon",
+    "form": null,
+    "types": ["bug"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "dustox": {
+    "name": "Dustox",
+    "form": null,
+    "types": ["bug", "poison"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "sableye": {
+    "name": "Sableye",
+    "form": null,
+    "types": ["dark", "ghost"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "sableyeMega": {
+    "name": "Sableye",
+    "form": "Mega",
+    "types": ["dark", "ghost"],
+    "abilities": ["magicBounce"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "torkoal": {
+    "name": "Torkoal",
+    "form": null,
+    "types": ["fire"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "turtonator": {
+    "name": "Turtonator",
+    "form": null,
+    "types": ["fire", "dragon"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "cacnea": {
+    "name": "Cacnea",
+    "form": null,
+    "types": ["grass"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "cacturne": {
+    "name": "Cacturne",
+    "form": null,
+    "types": ["grass", "dark"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "maractus": {
+    "name": "Maractus",
+    "form": null,
+    "types": ["grass", "ground"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "baltoy": {
+    "name": "Baltoy",
+    "form": null,
+    "types": ["ground", "psychic"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "claydol": {
+    "name": "Claydol",
+    "form": null,
+    "types": ["ground", "psychic"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "relicanth": {
+    "name": "Relicanth",
+    "form": null,
+    "types": ["water", "rock"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "kricketot": {
+    "name": "Kricketot",
+    "form": null,
+    "types": ["bug", "normal"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "kricketune": {
+    "name": "Kricketune",
+    "form": null,
+    "types": ["bug", "normal"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "hippopotas": {
+    "name": "Hippopotas",
+    "form": null,
+    "types": ["ground"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "hippowdon": {
+    "name": "Hippowdon",
+    "form": null,
+    "types": ["ground"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "snover": {
+    "name": "Snover",
+    "form": null,
+    "types": ["grass", "ice"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "abomasnow": {
+    "name": "Abomasnow",
+    "form": null,
+    "types": ["grass", "ice"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "abomasnowMega": {
+    "name": "Abomasnow",
+    "form": "Mega",
+    "types": ["grass", "ice"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "rotom": {
+    "name": "Rotom",
+    "form": null,
+    "types": ["electric", "ghost"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "rotomFan": {
+    "name": "Rotom",
+    "form": "Fan",
+    "types": ["electric", "flying"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "rotomFrost": {
+    "name": "Rotom",
+    "form": "Frost",
+    "types": ["electric", "ice"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "rotomHeat": {
+    "name": "Rotom",
+    "form": "Heat",
+    "types": ["electric", "fire"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "rotomMow": {
+    "name": "Rotom",
+    "form": "Mow",
+    "types": ["electric", "grass"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "rotomWash": {
+    "name": "Rotom",
+    "form": "Wash",
+    "types": ["electric", "water"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "purrloin": {
+    "name": "Purrloin",
+    "form": null,
+    "types": ["dark"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "liepard": {
+    "name": "Liepard",
+    "form": null,
+    "types": ["dark"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "munna": {
+    "name": "Munna",
+    "form": null,
+    "types": ["psychic", "fairy"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "musharna": {
+    "name": "Musharna",
+    "form": null,
+    "types": ["psychic", "fairy"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "venipede": {
+    "name": "Venipede",
+    "form": null,
+    "types": ["bug", "poison"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "whirlipede": {
+    "name": "Whirlipede",
+    "form": null,
+    "types": ["bug", "poison"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "scolipede": {
+    "name": "Scolipede",
+    "form": null,
+    "types": ["bug", "poison"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "sandile": {
+    "name": "Sandile",
+    "form": null,
+    "types": ["ground", "dark"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "krokorok": {
+    "name": "Krokorok",
+    "form": null,
+    "types": ["ground", "dark"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "krookodile": {
+    "name": "Krookodile",
+    "form": null,
+    "types": ["ground", "dark"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "darumaka": {
+    "name": "Darumaka",
+    "form": null,
+    "types": ["fire"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "darmanitan": {
+    "name": "Darmanitan",
+    "form": null,
+    "types": ["fire", "ground"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "darmanitanZen": {
+    "name": "Darmanitan",
+    "form": "Zen",
+    "types": ["fire", "psychic"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "yamask": {
+    "name": "Yamask",
+    "form": null,
+    "types": ["ghost"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "cofagrigus": {
+    "name": "Cofagrigus",
+    "form": null,
+    "types": ["ghost", "steel"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "solosis": {
+    "name": "Solosis",
+    "form": null,
+    "types": ["psychic", "poison"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "duosion": {
+    "name": "Duosion",
+    "form": null,
+    "types": ["psychic", "poison"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "reuniclus": {
+    "name": "Reuniclus",
+    "form": null,
+    "types": ["psychic", "poison"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "tynamo": {
+    "name": "Tynamo",
+    "form": null,
+    "types": ["electric"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "eelektrik": {
+    "name": "Eelektrik",
+    "form": null,
+    "types": ["electric", "poison"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "eelektross": {
+    "name": "Eelektross",
+    "form": null,
+    "types": ["electric", "poison"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "cubchoo": {
+    "name": "Cubchoo",
+    "form": null,
+    "types": ["ice"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "beartic": {
+    "name": "Beartic",
+    "form": null,
+    "types": ["ice", "fighting"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "vullaby": {
+    "name": "Vullaby",
+    "form": null,
+    "types": ["dark", "flying"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "mandibuzz": {
+    "name": "Mandibuzz",
+    "form": null,
+    "types": ["dark", "flying"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "slurpuff": {
+    "name": "Slurpuff",
+    "form": null,
+    "types": ["fairy"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "swirlix": {
+    "name": "Swirlix",
+    "form": null,
+    "types": ["fairy"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "skrelp": {
+    "name": "Skrelp",
+    "form": null,
+    "types": ["poison", "water"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "dragalge": {
+    "name": "Dragalge",
+    "form": null,
+    "types": ["poison", "dragon"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "carbink": {
+    "name": "Carbink",
+    "form": null,
+    "types": ["rock", "fairy"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "diancie": {
+    "name": "Diancie",
+    "form": null,
+    "types": ["rock", "fairy"],
+    "abilities": ["magicBounce"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "salandit": {
+    "name": "Salandit",
+    "form": null,
+    "types": ["fire", "poison"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "salazzle": {
+    "name": "Salazzle",
+    "form": null,
+    "types": ["fire", "poison"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "pheromosa": {
+    "name": "Pheromosa",
+    "form": null,
+    "types": ["bug", "fighting", "fairy"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "poipole": {
+    "name": "Poipole",
+    "form": null,
+    "types": ["poison", "psychic"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  },
+  "naganadel": {
+    "name": "Naganadel",
+    "form": null,
+    "types": ["poison", "dragon"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "",
+    "pokedexEntries": []
+  }
+}

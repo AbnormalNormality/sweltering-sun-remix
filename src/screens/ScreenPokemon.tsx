@@ -54,9 +54,7 @@ export function ScreenPokemon() {
               </div>
             </div>
           ) : (
-            <div className={styles.missing} style={{ gridColumn: 3 }}>
-              No recorded stats...
-            </div>
+            <div className={clsx(styles.missing, styles.missingStats)}>No recorded stats...</div>
           );
         })()}
       </div>

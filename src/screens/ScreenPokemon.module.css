@@ -50,14 +50,18 @@
   object-fit: contain;
 }
 
+.statsContainer,
+.missingStats {
+  grid-row: 1;
+  grid-column: 3;
+}
+
 .statsContainer {
   display: grid;
   grid-template-rows: repeat(6, 1fr) 1fr;
   grid-template-columns: 1fr 2fr;
   column-gap: 8px;
   row-gap: 4px;
-  grid-row: 1;
-  grid-column: 3;
   align-items: center;
   width: 256px;
   height: fit-content;
@@ -168,8 +172,22 @@
     grid-column: 1;
   }
 
-  .statsContainer {
+  .statsContainer,
+  .missingStats {
     grid-row: 2;
     grid-column: 1;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .type {
+    /*
+    Sam's suggestion:
+    Regular colours for dark theme
+    Inverted for darker theme
+    */
+    --bg: var(--type-dark);
+    --bd: var(--type-light);
+    --c: var(--type-light);
   }
 }

@@ -65,6 +65,7 @@ export default function ScreenPokedex() {
             search: (e.target as HTMLSelectElement).value.toLocaleLowerCase(),
           })
         }
+        value={filter.search}
         placeholder="Filter"
       ></input>
       <select onInput={(e) => setOrder((e.target as HTMLSelectElement).value as Order)}>

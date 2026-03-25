@@ -4015,6 +4015,60 @@
       "Grumpig are skilled craftsmen that define the minerals collected by Spoink into durable metal. The protective goggles they forge shield them from ash and heat, and they distribute these to Spoink as well! They are know to hoard rare metals and gold, proudly displaying their finest specimens like treasure. Cheerful yer prideful, they carefully train their assistants and will fiercely defend both their creations and their students from harm."
     ]
   },
+  "chikorita": {
+    "name": "Chikorita",
+    "form": null,
+    "types": ["ice", "ground"],
+    "abilities": ["permafrost", "snowWarning", "sapSipper"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Frostbud",
+    "pokedexEntries": [
+      "By absorbing fertile soil, it can rapidly sprout leaves, even in the harshest of climates. Neighbouring plants die out when Chikorita feeds, as it absorbs all of the nutrients for itself."
+    ]
+  },
+  "bayleef": {
+    "name": "Bayleef",
+    "form": null,
+    "types": ["ice", "ground"],
+    "abilities": ["permafrost", "snowWarning", "sapSipper"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Frostbloom",
+    "pokedexEntries": [
+      "The pods on its neck act as specialised storage organs, allowing it to stay healthy and flourish even in the coldest winters. When Spring comes, it will shed these pods, growing them again in the fall."
+    ]
+  },
+  "meganium": {
+    "name": "Meganium",
+    "form": null,
+    "types": ["ice", "ground"],
+    "abilities": ["permafrost", "snowWarning", "sapSipper"],
+    "stats": {
+      "hp": 105,
+      "attack": 80,
+      "defence": 105,
+      "specialAttack": 105,
+      "specialDefence": 105,
+      "speed": 50
+    },
+    "species": "Permafrost",
+    "pokedexEntries": [
+      "This Pokémon leaves a dense layer of frost on the ground with every step. Despite this, the soil grows richer over time where it has touched, emerging fertile and lively once it thaws in the Spring. Some Meganium can live for hundreds of years, roaming the lands, feasting only on plants and absorbing nutrients from the soil."
+    ]
+  },
 
   "sandshrew": {
     "name": "Sandshrew",

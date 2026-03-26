@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 SRC="/home/alia/Code/Data/Dooz"
-DEST="/home/alia/Code/Projects/sweltering-sun-remix/src/data"
+DEST="$PWD/src/data"
 
 mkdir -p "$DEST"
 

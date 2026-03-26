@@ -3729,7 +3729,7 @@
     },
     "species": "fermentation",
     "pokedexEntries": [
-      "A group fo small worm Pokémon hollow out a deceased Bounsweet and live within it as a shared body. As they consume the fruit, it ferments and bubbles inside, producing thick, sugary juice and a pungent, sour aroma. The worms happily wriggle within, keeping the \"shell\" moving as if it were alive. One worm usually claims the head as its \"leader\", tending to be the most aggressive and confident of the group. Once the shell has been sapped of all its nutrients, the worms will move on to another host. Many people consider the potent juices produced by Bounsour a rare delicacy... but consuming more than a few drops will make one violently ill!"
+      "A group of small worm Pokémon hollow out a deceased Bounsweet and live within it as a shared body. As they consume the fruit, it ferments and bubbles inside, producing thick, sugary juice and a pungent, sour aroma. The worms happily wriggle within, keeping the \"shell\" moving as if it were alive. One worm usually claims the head as its \"leader\", tending to be the most aggressive and confident of the group. Once the shell has been sapped of all its nutrients, the worms will move on to another host. Many people consider the potent juices produced by Bounsour a rare delicacy... but consuming more than a few drops will make one violently ill!"
     ]
   },
   "steenee": {
@@ -4067,6 +4067,60 @@
     "species": "Permafrost",
     "pokedexEntries": [
       "This Pokémon leaves a dense layer of frost on the ground with every step. Despite this, the soil grows richer over time where it has touched, emerging fertile and lively once it thaws in the Spring. Some Meganium can live for hundreds of years, roaming the lands, feasting only on plants and absorbing nutrients from the soil."
+    ]
+  },
+  "totodile": {
+    "name": "Totodile",
+    "form": null,
+    "types": ["ice", "rock"],
+    "abilities": ["strongJaw", "slushRush", "waterAbsorbDrySkin"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Snowy Spine",
+    "pokedexEntries": [
+      "It remains perfectly still among rocky slopes and riverbanks, blending into the terrain. Its powerful jaws can bring down prey over twice its size. Trainers truck by its bite often freeze before they can escape. Despite this, it hunts with a childlike innocence, driven purely by instinct."
+    ]
+  },
+  "croconaw": {
+    "name": "Croconaw",
+    "form": null,
+    "types": ["ice", "rock"],
+    "abilities": ["strongJaw", "slushRush", "waterAbsorbDrySkin"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Stone Stalker",
+    "pokedexEntries": [
+      "It hides among loose stones in freezing mountain streams for days, leaving only its spines exposed. When prey approaches, it lunges with sudden speed, clamping down before slipping back beneath the water. Croconaw are driven into poor feeding grounds by territorial Feraligatr, where they are forced to fight over what little scraps of territory remain."
+    ]
+  },
+  "feraligatr": {
+    "name": "Feraligatr",
+    "form": null,
+    "types": ["ice", "rock"],
+    "abilities": ["strongJaw", "slushRush", "waterAbsorbDrySkin"],
+    "stats": {
+      "hp": 85,
+      "attack": 130,
+      "defence": 130,
+      "specialAttack": 50,
+      "specialDefence": 85,
+      "speed": 70
+    },
+    "species": "Summit Slayer",
+    "pokedexEntries": [
+      "Feraligatr is an absolute master of camouflage, blending in seamlessly with the mountain environment it inhabits. Even the most keen eyed Pokémon are fooled. It moves effortlessly across cliffs, through snow, and below the freezing waters—leaving most prey with nowhere to escape its grasp. It still prefers to hunt by lying still, waiting for unsuspecting prey to ambush, but if it fails it is more than capable of chasing. Entire mountain ranges are said to fall silent after a Feraligatr claims them as its hunting ground."
     ]
   },
 

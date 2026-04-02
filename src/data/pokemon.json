@@ -4123,6 +4123,60 @@
       "Feraligatr is an absolute master of camouflage, blending in seamlessly with the mountain environment it inhabits. Even the most keen eyed Pokémon are fooled. It moves effortlessly across cliffs, through snow, and below the freezing waters—leaving most prey with nowhere to escape its grasp. It still prefers to hunt by lying still, waiting for unsuspecting prey to ambush, but if it fails it is more than capable of chasing. Entire mountain ranges are said to fall silent after a Feraligatr claims them as its hunting ground."
     ]
   },
+  "cyndaquil": {
+    "name": "Cyndaquil",
+    "form": null,
+    "types": ["ice", "steel"],
+    "abilities": ["flashFire", "steelworker", "voltRush"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Cryo Core",
+    "pokedexEntries": [
+      "ITs body is very cold to the touch, but when threatened it vents intense flames from its back—shifting from frozen stillness to energised heat in seconds. Some people train them to maintain the temperature of their rooms. It has a calm, happy temperament but can become dangerous if irritated."
+    ]
+  },
+  "quilava": {
+    "name": "Quilava",
+    "form": null,
+    "types": ["ice", "steel"],
+    "abilities": ["flashFire", "steelworker", "voltRush"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "species": "Pressure Pulse",
+    "pokedexEntries": [
+      "It can regulate the temperature of small buildings with precision, keeping people and Pokémon stable and comfortable. It has a shorter fuse than Cyndaquil does, so if it is angered this delicate balance can quickly shift—causing immense spikes in temperature in seconds."
+    ]
+  },
+  "typhlosion": {
+    "name": "Typhlosion",
+    "form": null,
+    "types": ["ice", "steel"],
+    "abilities": ["flashFire", "steelworker", "voltRush"],
+    "stats": {
+      "hp": 78,
+      "attack": 50,
+      "defence": 108,
+      "specialAttack": 138,
+      "specialDefence": 98,
+      "speed": 78
+    },
+    "species": "Thermal Thrust",
+    "pokedexEntries": [
+      "Upon evolving, the energy within its body becomes too great to fully contain. It runs on a volatile mix of heat, cold, and electrical energy. When internal pressure builds, it releases violent blasts through the vents along its back. Entire cities have been left scorched, frozen, and drained of electricity when its power goes unchecked."
+    ]
+  },
 
   "sandshrew": {
     "name": "Sandshrew",

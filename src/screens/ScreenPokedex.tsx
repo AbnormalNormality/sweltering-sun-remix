@@ -51,9 +51,19 @@ export default function ScreenPokedex() {
       name: data.name.toLowerCase(),
       types: data.types.map((t) => t.toLowerCase()),
     };
-    const fitsName = data.name.includes(filter.search);
-    const fitsType = data.types.includes(filter.search);
-    return fitsName || fitsType;
+
+    let [fitsName, fitsType, fitsAbility] = [false, false, false];
+
+    const typeFilter = filter.search.startsWith("type:") ? filter.search.slice(5) : filter.search;
+    const abilityFilter = filter.search.startsWith("ability:")
+      ? filter.search.slice(8)
+      : filter.search;
+
+    fitsName = data.name.includes(filter.search);
+    fitsType = data.types.includes(typeFilter);
+    fitsAbility = data.abilities.some((a) => a.toLowerCase() === abilityFilter);
+
+    return fitsName || fitsType || fitsAbility;
   };
 
   return (

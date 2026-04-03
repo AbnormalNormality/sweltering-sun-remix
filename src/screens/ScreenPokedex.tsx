@@ -7,6 +7,10 @@ type Pokemon = (typeof POKEMON)[keyof typeof POKEMON];
 type Order = "default" | "alphabetical";
 type Filter = { search: string };
 
+const lowercasePokemonIds = Object.fromEntries(Object.keys(POKEMON).map((k) => [k.toLowerCase(), k]));
+
+const getPokemon = (p: string) => (p in POKEMON ? POKEMON[p as keyof typeof POKEMON] : null);
+
 export default function ScreenPokedex() {
   const [order, setOrder] = useState<Order>("default");
   const [filter, setFilter] = useState<Filter>({ search: "" });
@@ -45,6 +49,46 @@ export default function ScreenPokedex() {
     return 0;
   };
 
+  let searchTarget = null;
+  if (filter.search in lowercasePokemonIds) {
+    const pid = lowercasePokemonIds[filter.search];
+    if (pid in POKEMON) searchTarget = getPokemon(pid);
+  }
+  console.log(filter.search, searchTarget);
+
+  const isRelated = (start: string, target: string, ignore: string[] = []) => {
+    // Make a cache???? idk bro
+    const data = getPokemon(start);
+    if (data === null) return false;
+
+    // Pre-evolutions
+    for (const p of data.evolvesInto) {
+      if (p === target) return true;
+      if (!ignore.includes(p) && isRelated(p, target, [...ignore, p])) return true;
+    }
+
+    // Evolutions
+    const todo = [target];
+    ignore = [];
+    while (todo.length > 0) {
+      const p = todo.shift();
+      if (!p || ignore.includes(p)) continue;
+      const data = getPokemon(p);
+      if (!data) continue;
+      ignore.push(p);
+      for (const i of data.evolvesInto) {
+        // FIXME SHOULD ALLOW IF RELATED YADA YADA save a "true" start / first start throughout recursions
+        // to test, search for kadabra and see if alakazam shows up
+        // idfk bro
+        // waaaahhhh
+        if (i === start) return true;
+        if (!todo.includes(i)) todo.push(i);
+      }
+    }
+
+    return false;
+  };
+
   const filterEntries = ([, data]: [string, Pokemon]) => {
     data = {
       ...data,
@@ -52,18 +96,16 @@ export default function ScreenPokedex() {
       types: data.types.map((t) => t.toLowerCase()),
     };
 
-    let [fitsName, fitsType, fitsAbility] = [false, false, false];
-
     const typeFilter = filter.search.startsWith("type:") ? filter.search.slice(5) : filter.search;
-    const abilityFilter = filter.search.startsWith("ability:")
-      ? filter.search.slice(8)
-      : filter.search;
+    const abilityFilter = filter.search.startsWith("ability:") ? filter.search.slice(8) : filter.search;
 
-    fitsName = data.name.includes(filter.search);
-    fitsType = data.types.includes(typeFilter);
-    fitsAbility = data.abilities.some((a) => a.toLowerCase() === abilityFilter);
+    const fitsName = data.name.includes(filter.search);
+    const fitsType = data.types.includes(typeFilter);
+    const fitsAbility = data.abilities.some((a) => a.toLowerCase() === abilityFilter);
+    const fitsPrevo = (data.evolvesInto as string[]).includes(filter.search);
+    const fitsRelated = isRelated(data.name, filter.search);
 
-    return fitsName || fitsType || fitsAbility;
+    return fitsName || fitsType || fitsAbility || fitsPrevo || fitsRelated;
   };
 
   return (

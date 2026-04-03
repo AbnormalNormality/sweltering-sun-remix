@@ -12,6 +12,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["sunflora"],
     "species": "",
     "pokedexEntries": []
   },
@@ -28,6 +29,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": [
       "In Alola, Sunflora have become far more aggressive and adept to the hot climate. Opponents will quiver in fear when this Pokémon enters battle.",
@@ -47,6 +49,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["primeape"],
     "species": "",
     "pokedexEntries": [
       "To counter heavy predation by flying type Pokémon, Mankey in Alola have adapted the ability to harness electricity within their own body.",
@@ -67,6 +70,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": [
       "The electric energy flowing through Mankey and Primeape makes them even angrier and more energetic than their Kantonian counterparts. When they release this energy, however, they feel immense relief.",
@@ -86,6 +90,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["vigoroth"],
     "species": "",
     "pokedexEntries": [
       "Alolan Slakoth and Vigoroth's claws are composed of specialised, hardened ice, which they use to dig around in the snowy areas where they live."
@@ -104,6 +109,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["slaking"],
     "species": "",
     "pokedexEntries": [
       "Alolan Slakoth and Vigoroth's claws are composed of specialised, hardened ice, which they use to dig around in the snowy areas where they live."
@@ -122,6 +128,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": [
       "In Alola, these Pokémon have adapted to live in the harsh cold mountains. Native Alolans tell many tales of being attacked by a massive, violent ape-like Pokémon in the mountains."
@@ -140,6 +147,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["mightyena"],
     "species": "",
     "pokedexEntries": []
   },
@@ -156,6 +164,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": [
       "Scientists have tested this variant of Mightyena's teeth and claw composition and found they are identical to rocks indigenous to the region.",
@@ -175,6 +184,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["seaking"],
     "species": "",
     "pokedexEntries": [
       "Alolan Goldeen are Goldeen that were kept as pets and abandoned, flushed down the toilet, killing them. They roam the waters near their homes, crying, loathing their former owners.",
@@ -194,6 +204,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": [
       "Alolan Seaking resent their former owners for abandoning them. They roam aimlessly, seeming permanently lost. However, they will attack violently when provoked."
@@ -212,6 +223,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["clawitzer"],
     "species": "Decoy Shell",
     "pokedexEntries": [
       "Remix Clauncher puffs up its claws and fans its tail in a serpentine display meant to mimic dragons. If intimidation fails, it unleashes high-heat bursts from its blaster claw, occasionally igniting its own shell in the process as it's shell has not fully developed to handle the intense heat."
@@ -230,6 +242,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Inferno Shrimp",
     "pokedexEntries": [
       "This variant of Clawitzer has evolved to mimic a threatening dragon's appearance to ward off larger predators. They can still manuever through water with ease.",
@@ -249,6 +262,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["rapidash"],
     "species": "Wisp Colt",
     "pokedexEntries": [
       "This mystical Pokémon gallops silently through moonlight, its body trailing pale embers. Children who follow its glow often wake up miles from home, unable to explain how they got there."
@@ -267,6 +281,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Phantom Blaze",
     "pokedexEntries": [
       "Remix Rapidash's body pulses with a strange inner fire. Though it no longer bears real flame, its heatless blaze scorches only the soul, not the skin.",
@@ -287,6 +302,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["kadabra"],
     "species": "Vanilla Sprinkle",
     "pokedexEntries": [
       "Trainers who bond with it claim to hear faint jingles—like an ice cream truck approaching—from nowhere.",
@@ -306,6 +322,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["alakazam"],
     "species": "Chocolate Swirl",
     "pokedexEntries": [
       "Kadabra's tail is coated in a thick syrup-like substance that smells strongly of chocolate. Its spoon glows when it prepares to launch bursts of energy."
@@ -324,6 +341,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Mint Chip",
     "pokedexEntries": [
       "It screams at the top of its lungs when it gets excited. What excites them? Ice cream, of course!",
@@ -343,6 +361,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Neapolitan Bliss",
     "pokedexEntries": [
       "Upon Mega Evolution, it absorbs the elemental energy of its previous forms. The strawberry gem on its head flows when its about to attack.",
@@ -362,6 +381,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["toxapex"],
     "species": "Voltage Spine",
     "pokedexEntries": [
       "Mareanie in this form are drawn to electromagnetic seabeds where currents surge through mineral-rich waters. They store electrical energy in their gleaming golden spines, releasing sudden shocks into prey with surgical precision."
@@ -380,6 +400,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Brutal Current",
     "pokedexEntries": [
       "This fearsome predator specifically targets Doozian Corsola—piercing through its armour-like plating with concentrated bioelectric bursts. However, Doozian Corsola has adapted counter-mechanisms and can often absorb said electricity depending.",
@@ -399,6 +420,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["stantler", "sigilyph", "stakataka"],
     "species": "Dimensional Rift",
     "pokedexEntries": [
       "These Unown slipped into an Ultra Wormhole during a cosmic anomaly. What they saw shattered their former selves—now, a galaxy burns behind their eye, visible from the front and the back. They no longer form letters, but sigils of forgotten power.",
@@ -419,6 +441,7 @@
       "specialDefence": 137,
       "speed": 79
     },
+    "evolvesInto": [],
     "species": "Evil Eye",
     "pokedexEntries": [
       "Those who make direct eye contact with its horns or other eyes are said to forget their purpose. Ancient travelers painted symbols resembling it to ward off unseen spirits.",
@@ -439,6 +462,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -455,6 +479,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -471,6 +496,7 @@
       "specialDefence": 125,
       "speed": 45
     },
+    "evolvesInto": ["tangrowth"],
     "species": "Mindworm",
     "pokedexEntries": [
       "Tangela's body is a mass of parasitic brain-worms that never stop writhing and squirming. It wraps them around sleeping prey, siphoning dreams until only nightmares remain. When Tangela feeds, its host experiences vivid hallucinations... victims often wake up screaming with no idea why."
@@ -489,6 +515,7 @@
       "specialDefence": 125,
       "speed": 20
     },
+    "evolvesInto": [],
     "species": "Cursed Serpent",
     "pokedexEntries": [
       "Traveler's speak of a woman cloaked in a mass of snakes, eyes glowing with divine punishment. Even the bravest Pokémon avert their gaze, lest their soul be \"tangled\" and lost forever. Her eyes shimmer with a hypnotic glow that paralyses anything foolish enough to meet her gaze. Forests she inhabits are eerily silent—every living creature knows not to look up.",
@@ -508,6 +535,7 @@
       "specialDefence": 62,
       "speed": 108
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": [
       "A Farfetch'd that narrowly escaped being served at a restaurant, they carry themselves with a chip on their shoulder. This Pokémon relies on its quick reflexes and strong will to get away from the other Pokémon constantly being attracted by its delicious scent and appearance.",
@@ -527,6 +555,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["drapion"],
     "species": "",
     "pokedexEntries": []
   },
@@ -543,6 +572,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Sand Demon",
     "pokedexEntries": []
   },
@@ -559,6 +589,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["omastar"],
     "species": "Relic Shell",
     "pokedexEntries": [
       "It is unknown whether or not this Pokémon's gem stones are organic and grow due to its diet or some mysterious power, or are picked out by Omanyte itself. What is known, however, is that these are very rare creatures and often thought to be bringers of good luck. The more treasure is collects, the more sluggish its movements become. Its greed and desire to gather more gemstones mean its movement is constantly limited.",
@@ -578,6 +609,7 @@
       "specialDefence": 110,
       "speed": 20
     },
+    "evolvesInto": [],
     "species": "Lost Treasure",
     "pokedexEntries": [
       "This Pokémon's yellow shell is made up of a gold and platinum alloy, and adorned with various treasure: silver coins, crystals, red rubies, blue sapphires, and pearls. It is capable of breaking open gemstones to eat with ease with its powerful and immensely hard diamond and green emerald jaws. It is often mistaken for a piece of royal treasure and has been stolen from museums more than once.",
@@ -597,6 +629,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["kabutops"],
     "species": "Skele-shell",
     "pokedexEntries": [
       "When threatened, it curls up and plays dead, its eerie patterns glowing faintly in the dark. The eyes on its back function as defensive mechanisms, scaring predators in the dark into thinking it is a much larger creature.",
@@ -616,6 +649,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Bone-blade",
     "pokedexEntries": [
       "People and Pokémon alike used to fear Kabutops and painted images of tis ominous glowing eyes and blades. Legends say its fossil golds a lingering will, and when unearthed, the spirit withing reawakens to enact vengeance on those who dared disturb its eternal rest.",
@@ -635,6 +669,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["kingler"],
     "species": "Fangclaw",
     "pokedexEntries": [
       "When the sun sets, Doozian Krabby awakens from its shallow burrows. It scuttles silently through the underbrush, seeking warm-blooded prey. It fears the sun and turns brittle if exposed too long. Its claws are laced with a numbing agent, ensuring its prey cannot scream while being fed upon."
@@ -653,6 +688,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Bloodbite",
     "pokedexEntries": [
       "Its hunting technique resembles an ambush predator from a horror film. It waits silently, then snaps its claws with a noise likened to the slam of a coffin. It drains the life force from its prey, leaving only an empty husk behind.",
@@ -672,6 +708,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["drugtrio", "rocktrio"],
     "species": "Instability",
     "pokedexEntries": [
       "This troubled Diglett struggles with emotional regulation. It produces a strange medicinal powder that it can use to help other Pokémon. In small doses, this medicine heals all sorts of illnesses and calms anxious Pokémon. In large doses, it creates intense anxiety and violent mood swings, as well as a whooping cough that strains its voice, making it hoarse. However, producing this powder in excess causes it to breath it in constantly since it piles up around the ground near them. It wears its mask to try and prevent itself from getting \"high of its own supply\". It also frequently injures itself by banging its head violently up and down and patches itself up with bandages. This Pokémon also listens to loud music to help soothe its mind. This Pokémon deeply craves to be the centre of attention, but also desires to help others. What it becomes is up to you!"
@@ -690,6 +727,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Remedy",
     "pokedexEntries": [
       "This form of Dugtrio, sometimes called \"Drugtrio\", has found its true calling despite its troubled youth: helping other Pokémon. Drugtrio can absorb the illnesses of other creatures and heal them thanks to the strange medicinal powder and crystals it produces. However, Drugtrio suffers as a result: the two taller heads absorb illness and take it on themselves. They are constantly under the weather, but seem to be truly dedicated to their job and push through.",
@@ -710,6 +748,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Rockstar",
     "pokedexEntries": [
       "Unable to control their mood swings, Diglett harnessed its creative energy and desire for attention into stardom—becoming a musician! This Pokémon puts on \"concerts\" for other Pokémon by making loud screaming sounds and electronic noises from their mouths. It is unclear if they still breath in some of the mystery powder from Diglett, but many theorise it does.",
@@ -729,6 +768,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["electrode"],
     "species": "",
     "pokedexEntries": [
       "This Voltorb was drawn into the Dream World and never returned. Over time, it fused with the surreal landscape, losing its angry demeanor and developing a psychic organ to navigate dreams. It projects illusions through its third eye and is often seen asleep, even while awake.",
@@ -748,6 +788,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": [
       "While dreaming very deeply, some suspect Remix Voltorb tapped into another—further past the dreamworld... Ultra Space. Whatever it saw in this dream brought it to madness and granted it immense power and the ability to travel between dimensions.",
@@ -767,6 +808,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["clefairy"],
     "species": "Starlight",
     "pokedexEntries": [
       "It emits a gentle light while sleeping, which people cherish as a comforting nightlight. Many say its presence wards off bad dreams and fills the night with soothing warmth and good rest."
@@ -785,6 +827,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["clefable"],
     "species": "Lunar Dream",
     "pokedexEntries": [
       "It drifts into unshakably deep sleep under the moonlight. Travelers whisper that its dreams sometimes connect to strange places... and that lingering too close might draw you into them. It is said Clefairy who dream too deeply may be visited by the shadow of its cosmic opposite... and never wake up the same."
@@ -803,6 +846,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": [
       "What was once a serene, peaceful fairy now twists into a dragon of nightmares. Its wings are gone, replaces by jagged fins that slice through the dreamscape. Dozens of crimson eyes blink in unison, each reflecting a difference victim's terror. No one knows if the Clefairy remains conscious inside this shell or if it is consumed entirely."
@@ -821,6 +865,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Heated-up",
     "pokedexEntries": [
       "Its body generates sparks that rapidly raise the air around it to scorching temperatures. When in high spirits, it radiates warmth like a portable heater, but in battle it can unleash waves of blistering heat that warp the air itself. Plusle likes t cuddle with those it trusts, warming them in cold winter months."
@@ -839,6 +884,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Chilled-out",
     "pokedexEntries": [
       "This Pokémon lowers the temperature around it with crackling negative charges, creating frosty gusts that feel like an air conditioner on full blast. Despite its chill demeanor, it happily cuddles close to those it trusts, cooling them during the summer months."
@@ -857,6 +903,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["gumshoos"],
     "species": "Trial Torch",
     "pokedexEntries": [
       "Its wooden body is said to be carved by ancient trial-goers. The flames from its tail torch never extinguish, even in heavy rain.",
@@ -876,6 +923,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Totem Tiki",
     "pokedexEntries": [
       "It once walked among humans with the mask of a kind-faced man. Only when angered did its mask slip—revealing a toothy, flaming creature that breathed fire from its nostrils.",
@@ -896,6 +944,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["lurantis"],
     "species": "Swirl Sprout",
     "pokedexEntries": [
       "Its kaleidoscopic leaves are dried by herbalists and ground into powders said to bring vivid dreams. However, overexposure can lead to hallucinations too intense for the unprepared. It is believed this is a defence mechanism from predators who will try to consume it—confusing and disorientating them before they can even attack.",
@@ -915,6 +964,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Spiral Shaman",
     "pokedexEntries": [
       "When it dances, the jungle itself seems to move with it. It dances gracefully in a beautiful display of swirling colours pulsing in strange rhythms, lulling those who watch into a trance-like states.",
@@ -934,6 +984,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["machoke", "sawk", "throh"],
     "species": "Explorer",
     "pokedexEntries": [
       "It is scrappy, daring, and sometimes too confident for its own good. Event when exhausted or lost, it keeps moving forward, convinced the next step is victory. Whether this is naive and reckless or endearing and inspiring is up to your own interpretation.",
@@ -953,6 +1004,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["machamp"],
     "species": "Jungle Survivor",
     "pokedexEntries": [
       "Having shed its bright-eyes optimism, Machoke now survives through grit and cunning in the deep jungle. Long exposure to the harsh untamed wile has carved a permanent scowl on its face. The vines wrapped around Machoke's body have fused with its muscles, granting immense strength. However, its cracked compass suggests it has lost its way.",
@@ -972,6 +1024,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Tundra Survivor",
     "pokedexEntries": [
       "Doozian Sawk trains endlessly in the frozen tundra, testing its strength against colossal foes like Beartic and Mamoswine. The pelt it took from fighting Doozian Arcanine is wrapped around its body, keeping it warm and allowing it to endure blizzards as it wrestles even the most ferocious predators for dominance.",
@@ -992,6 +1045,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Desert Survivor",
     "pokedexEntries": [
       "Unlike its counterpart, Doozian Throh rarely picks fights. It uses its judo-like throws only when protecting weaker Pokémon, such as Darumaka or Sandshrew, from the desert's many threatening Pokémon: massive Hippowdon, merciless Doozian Drapion, brutish Krookodile, lurking Cacturne, or flocking Mandibuzz.",
@@ -1011,6 +1065,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Jungle Revenant",
     "pokedexEntries": [
       "Legends say this Pokémon perished in desperate battle against a pack of Liepard. When its body was found days later, its skin was ripped apart and its compass shattered. Some otherworldly spirit possessed Machoke in this moment—allowing it to rise again and gain an extra pair of spectral arms that never tire. It defeated the entire pack of Liepard effortlessly, wearing their skin across its chest as a symbol of its sheer dominance over the jungle.",
@@ -1031,6 +1086,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["togetic"],
     "species": "Bombshell",
     "pokedexEntries": [
       "Togepi is constantly making a rhythmic ticking noise, which many fans of this Pokémon find to be cute and soothing. The unstable energy sealed in its shell can corrode metal and poison soil for years even without exploding. When it does explode, it can render nearby areas inhabitable for a long time. Togepi seems blissfully unaware of the damage it causes and its inevitable doom."
@@ -1049,6 +1105,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["togekiss"],
     "species": "Nuclear",
     "pokedexEntries": [
       "Sometimes when exploding—Togetic will evolve instead. Togetic's bombshell suit protects it from its own nuclear energy, but this does not make it safe for those around it.",
@@ -1068,6 +1125,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Fallout",
     "pokedexEntries": [
       "Stories of wars in the past claim that Togekiss reduces regions to wastelands, smiling as it descended and spread nuclear fallout like confetti. Togekiss's mere presence can warp the ait, making it unbreathable, and sickening people and Pokémon within a large radius. In some regions, this Pokémon is banned. In other regions, this Pokémon is heavily regulated and kept in safe areas by the government."
@@ -1086,6 +1144,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["metapod"],
     "species": "Cosmic Larva",
     "pokedexEntries": [
       "People in snowy regions believe that spotting this one before dawn is a sign of a coming snowstorm."
@@ -1104,6 +1163,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["venomoth"],
     "species": "Crystal Cocoon",
     "pokedexEntries": [
       "Villagers once used the glow of this Pokémon's crystals to determine when avalanches might occur. Its hard ice armour keeps it safe while something miraculous grows inside."
@@ -1122,6 +1182,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Aurora Moth",
     "pokedexEntries": [
       "It is a truly rare Pokémon that only appears in certain conditions. Legends say its wings project psychic waves into the sky, giving birth to auroras. Those who gaze too long may glimpse versions of the future.",
@@ -1141,6 +1202,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["butterfree"],
     "species": "Steel Wool",
     "pokedexEntries": [
       "While it might look soft and pettable—its body is covered in abrasive metallic fibres, developed to clean surfaces. Some researchers fear that it reacts to signals humans cannot perceive..."
@@ -1159,6 +1221,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Solar Energy",
     "pokedexEntries": [
       "Modified to assist with energy collection, its wings unfold like vast panels that absorb both sunlight and electrical fields. It converts solar energy into dazzling bursts of light.",
@@ -1178,6 +1241,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["raticate"],
     "species": "Vermin",
     "pokedexEntries": [
       "Farmers dread infestations of Rattata even more than a flood or a drought. Their droppings alone will poison the soil and ruin harvests for seasons to come, and it is not easy to find predator Pokémon that want to prey on them. Even Mandibuzz are reluctant to hunt them."
@@ -1196,6 +1260,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Rabid",
     "pokedexEntries": [
       "Known to fly into rabid frenzies, Raticate gnashes its teeth at anything that comes near it. A single bute, it left untreated—will rot whoever is bitten from within. Their nests reek of filth, and the grime caked on its body teems with parasites that are detrimental to Raticate itself."
@@ -1214,6 +1279,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Plague",
     "pokedexEntries": [
       "It succumbs to its own disease when Mega Evolving, leaving only a bloated husk fueled by sheer spite. Its bite spells sure death for anything unlucky enough to face it."
@@ -1232,6 +1298,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["wormadamSnow", "wormadamSandy", "wormadamPlant"],
     "species": "",
     "pokedexEntries": []
   },
@@ -1248,6 +1315,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["vivillon"],
     "species": "Frost Coat",
     "pokedexEntries": [
       "Adapted to frigid climates, it dense coat insulates from the cold while feeling icy to the touch. Not all Wormadam evolve further due to harsh conditions."
@@ -1266,6 +1334,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Frost Wing",
     "pokedexEntries": [
       "This form of Vivillon thrives in snowy tundras. When it flutters its wings, ice crystals scatter into the wind, dazzling adventurous Machop, and guiding them through blizzards."
@@ -1284,6 +1353,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["mothim"],
     "species": "Sand Coat",
     "pokedexEntries": [
       "Adapted to arid climates, its dense coat protects it from the predation and blends in with the sand—keeping it warm during the cold desert nights. Not all Wormadam evolve further due to harsh conditions."
@@ -1302,6 +1372,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Sand Wing",
     "pokedexEntries": [
       "This form of Mothim thrives in sweltering deserts. When ti flaps its wings, searing-hot sandstorms form around it. Legends speak of it guiding lost Machop through the desert."
@@ -1320,6 +1391,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["beautifly"],
     "species": "Verdant Coat",
     "pokedexEntries": [
       "Adapted to rainforests, meadows, and other lush environments—its dense coat camouflages it from dangerous bug-Pokémon, and the colourful flowers attract mates. Not all Wormadam evolve further due to harsh conditions."
@@ -1338,6 +1410,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Verdant Wing",
     "pokedexEntries": [
       "This form of Beautifly flourishes in environments rich with plant-life. It is the best pollinator amongst all bug-Pokémon, but has a more aggressive side when other Pokémon encroach its territory. Machop often find themselves lost in the dense jungle, only to be guided to safety by Beautifly. Other legends say that Beautifly brings upon the rainfall in the forests it inhabits."
@@ -1356,6 +1429,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["wailord"],
     "species": "Boiler Ball",
     "pokedexEntries": [
       "Wailmer are highly intelligent, and are often dismissed as harmless due to their charming smile and \"glasses\"—but their bodies are highly pressurised and their hydrothermal vents constantly release immense heat. When threatened, they unleash blasts of scalding steam and flames that can melt through machines with ease."
@@ -1374,6 +1448,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Dreadnought",
     "pokedexEntries": [
       "Its weight is so immense that when it surfaces or dives down, it creates waves that can sink ships around it. Its glowing ports are radiating with heat so intense that humans cannot stand to be withing 100 meters without protective gear. It boils the ocean around itself when activated.",
@@ -1393,6 +1468,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["persian"],
     "species": "Shrine",
     "pokedexEntries": [
       "It is often found lounging near ruins and temples. Though it appears lazy, it can sense the flow of spiritual energy and lashes out if anyone disrespects their sacred grounds."
@@ -1411,6 +1487,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Oracle",
     "pokedexEntries": [
       "This Persian was revered in ancient palaces for its ability to sense the future. Pharaohs trusted its piercing gaze to divine omens, and it would strike terror into intruders with its psychic powers."
@@ -1429,6 +1506,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Idol",
     "pokedexEntries": [
       "Mega Evolution energy hardens Persian's body into a hollow shell of gold. The gilded bodies of Mega Persian were once displayed in royal tombs. It is said the same malevolent spirits that inhabit Cofagrigus now dwell within their many eyes, lashing out as grave robbers who disturb their rest."
@@ -1447,6 +1525,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["corsola", "qwilfish", "octillery"],
     "species": "Bubble-bot",
     "pokedexEntries": [
       "Despite its menacing facial expression, this Pokémon is relatively friendly and used in hot tubs, jacuzzis, and aquariums to create bubbles and filter water! Some speculate that Pyukumuku does not enjoy doing this, however, and that a darkness lurks within their eyes.",
@@ -1466,6 +1545,7 @@
       "specialDefence": 125,
       "speed": 35
     },
+    "evolvesInto": [],
     "species": "Bubble Bunker",
     "pokedexEntries": [
       "The glowing rods on its limbs attract lightning, storing the charge to boost its power during storms. The rods also form barriers of bubble around itself to self-repair its armour when damaged.",
@@ -1485,6 +1565,7 @@
       "specialDefence": 115,
       "speed": 45
     },
+    "evolvesInto": [],
     "species": "Murky Mine",
     "pokedexEntries": [
       "This dangerous Pokémon is said to have been utilised and placed strategically during wars of the past alongside Wailord. Onces that were not used became rusted and corroded over time, resulting in the species we see now.",
@@ -1504,6 +1585,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Severe Scope",
     "pokedexEntries": [
       "Octillery's body is adapted to act as an assassination unit, built to kill any target. It is cold calculated, and immensely intelligent. The HUD display on its back is connected to its brain via a neural network—the most advanced brain of any Pokémon. This allows it to calculate perfectly accurate and deadly shots of energy from miles away.",
@@ -1523,6 +1605,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["cherrimOvercast"],
     "species": "",
     "pokedexEntries": []
   },
@@ -1539,6 +1622,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": [
       "When it goes long periods without sunlight, Cherrim becomes gloomy and frustrated—summoning rainstorms in its wake. The only thing that will cheer it up is a bright, sunny day."
@@ -1557,6 +1641,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -1573,6 +1658,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["marowak", "marowakAlola"],
     "species": "",
     "pokedexEntries": []
   },
@@ -1589,6 +1675,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": [
       "This variant of Marowak lives for the thrill of battles. It paints its mask and weapon, with each marking added representing a fallen tribe member.",
@@ -1608,6 +1695,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -1624,6 +1712,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["granbull"],
     "species": "",
     "pokedexEntries": []
   },
@@ -1640,6 +1729,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Punk Pooch",
     "pokedexEntries": [
       "It struts through alleys at night showing off its scars and challenging anyone who approaches it. Though it claims to love fighting, it trembles before every battle.",
@@ -1659,6 +1749,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["vespiquen", "beedrill"],
     "species": "Cryo-hive",
     "pokedexEntries": [
       "These Combee build their hive out of solid ice. Their venom glands have adapted to the cold, producing a bitter antifreeze toxin instead of honey. Their minds hum in perfect, joyless unison—acting like a robotic drone whose sole purpose is to serve the queen."
@@ -1677,6 +1768,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Malevolent Queen",
     "pokedexEntries": [
       "Vespiquen's body exudes a powerful neurotoxin that doubles as a pheromone. Those who inhale it become enamoured with her presence, obeying every command until their senses collapse. She no longer needs to issue orders aloud, her pheromones spread her will silently through the air."
@@ -1695,6 +1787,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Frost Lance",
     "pokedexEntries": [
       "Some Combee are capable or evolving into a soldier who can defend the hive with its massive ice stingers. While still creating venom, it is less potent than Vespiquen's. It uses deadly precision to freeze its prey if they succumb from the stab alone."
@@ -1713,6 +1806,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Venom Lance",
     "pokedexEntries": [
       "Mega Evolution intensifies Beedrill's venom production, liquifying it into a glowing compound that is as cold as liquid nitrogen. When injected, it crystallises the targets blood from within. No longer obeying the hive's orders, even Vespiquen fears this Pokémon—since she cannot control it any longer."
@@ -1731,6 +1825,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["herakuna"],
     "species": "Voracious Grub",
     "pokedexEntries": [
       "This Pokémon uses its sharp horn, stinger, and teeth to hunt and consume. It burrows and hides under the ground from bird Pokémon, only coming out to feast. It is said that its DNA holds potential for multiple evolutions despite sharing striking resembling to Pinsir."
@@ -1749,6 +1844,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["pinsir", "heracross"],
     "species": "Durable Cocoon",
     "pokedexEntries": [
       "This strange Pokémon has the potential to evolve into multiple Pokémon despite bearing a strong resemblance to Heracross. It does not have limbs or weapons like Pindle, but to make up for it it has a very durable exoskeleton. It can still feed with its large mouth, but prefers to take hits rather than dish them out."
@@ -1767,6 +1863,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -1783,6 +1880,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -1799,6 +1897,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -1815,6 +1914,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -1831,6 +1931,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["tauros", "cryogonal"],
     "species": "",
     "pokedexEntries": [
       "Wackitt's head is damaged due to repeated blows to the head. Exposed wire is said to release an electrical pulse capable of disabled all other machinery around itself. It quickly pops in and out of sight, laughing at its opponents as it constantly dodges attacks. Some scientists speculate it is capable of evolution, but this has never been officially documented."
@@ -1849,6 +1950,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": [
       "After sustaining countless impacts, Wackitt may reforge its body into a new mechanical shell. It charges with immense speed and power, wildly buckling any rider off who cannot match its erratic tempo and intense energy. When charging, sparks fly from the exposed wire on its tail and its lights flash red—making the already difficult endeavour of riding one even more dangerous."
@@ -1867,6 +1969,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Host",
     "pokedexEntries": [
       "Once a healthy Miltank, it now carries countless writhing Miltick larvae within its body. The symbiotic worms feed on her and her milk, keeping their alive despite perpetual weakness. When threatened, Miltank lets the Miltick secrete foul, acidic fluid that dissolved flesh. Despite its tired expression, it endures contently since the Miltick excrete a numbing agent to prevent her from feeling any pain."
@@ -1885,6 +1988,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["miltank"],
     "species": "",
     "pokedexEntries": [
       "Miltick is a creature that feeds on all sorts of Pokémon, but highly specialises in Miltank. It overtakes Miltank's whole body, using its milk glands to feed itself and dozens of its offspring. It is unknown how this \"evolution\" works, or if they simply evolve when they find a Miltank to take as host. They quite vulnerable without a host despite their unnerving appearance and gnashing mouths. The Miltick do not hurt the Miltank, but the host does become weak and unable to defend itself without Miltick's assistance."
@@ -1903,6 +2007,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["bouffalant", "mrMime", "blacephalon"],
     "species": "Shapeshifter",
     "pokedexEntries": [
       "It enthralls onlookers with its hypnotic spirals on a body that morphs into new shapes before. Said to embody the soul of performance itself, it thrives on emotional energy. Some become masked jesters, others become horned carnival beasts. At the height of their act, their eyes sparkle as if fireworks have been set off."
@@ -1921,6 +2026,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Circus Buffalo",
     "pokedexEntries": [
       "This Pokémon will use its hypnotic horns and patterns to dazzle and disorient the opponent before bashing them with force great enough to derail a train. It has chaotic personality, charging wildly at anything that comes near it for fun—and will often attack its trainer."
@@ -1939,6 +2045,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Masquerader",
     "pokedexEntries": [
       "It is said merely looking at it will drive you mad. Mr. Mime uses it's hypnotic joints and body movements to lure victims into a trance. It will then conjure invisible walls around its captive audience to prevent escape—forcing it to watch its performance until it has finished feeding on their fear. The toxic sludge that seeps from its hands and eyes in a byproduct of this feeding process—anyone touches by it will be left in a state of perpetual shock and horror."
@@ -1957,6 +2064,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -1973,6 +2081,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["dewgong"],
     "species": "Kelp Courier",
     "pokedexEntries": [
       "This regional Seel often plays the role of attendant in groups of its kind, using its leafy bow tie and algae moustache to express itself. It mimics human manners and gestures, making it oddly charismatic. It is polite even to the rudest or most aggressive Pokémon and trainers.",
@@ -1992,6 +2101,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Sovereign Seaweed",
     "pokedexEntries": [
       "Respected as the sovereign of shallow coasts and seagrass beds, this Dewgong is adorned in living algae by their Seel servants. Calm and diplomatic, it gently maintains harmony among sea creatures. The more well-maintained a Dewgong's beard is, the higher status it becomes amongst its kingdom.",
@@ -2011,6 +2121,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": [
       "It feeds on greed and envy. It lures victims with hypnotic lights that promise fortune. Those who succumb to temptation find themselves trapped in its endless game, their energy siphoned away to power itself. Each glimmer of desire it devours causes it to spin faster and glow brighter."
@@ -2029,6 +2140,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["herdier"],
     "species": "Polar Puppy",
     "pokedexEntries": [
       "This Pokémon has unmatched courage and an affectionate natures. Its dense fur keeps it warm even in subzero climates. Greedy poachers seek to harvest its coat for winter wear, but activists vehemently oppose this practice."
@@ -2047,6 +2159,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["stoutland"],
     "species": "Frosty Friend",
     "pokedexEntries": [
       "This loyal Pokémon will do anything for its trainer. It was bred to pull sleds and locate lost travelers and Pokémon during snowstorms. Even in the fiercest blizzards, it never loses its way."
@@ -2065,6 +2178,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Snowy Saviour",
     "pokedexEntries": [
       "This Pokémon perished while saving its trainer from a blizzard. Its spirit lingers in the snow, guiding other lost people and Pokémon to safety. The frost on its fur forms patterns that resemble the very storm that took its life—an eternal reminder of its final act of loyalty. Those who see its glowing purple eyes and fur in a storm will survive no matter the conditions, but can never recall details of how they survived."
@@ -2083,6 +2197,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["vaporeon", "jolteon", "flareon", "espeon", "umbreon", "leafeon", "glaceon", "sylveon"],
     "species": "",
     "pokedexEntries": []
   },
@@ -2099,6 +2214,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["suicune"],
     "species": "",
     "pokedexEntries": []
   },
@@ -2115,6 +2231,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["raikou"],
     "species": "",
     "pokedexEntries": []
   },
@@ -2131,6 +2248,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["entei"],
     "species": "",
     "pokedexEntries": []
   },
@@ -2147,6 +2265,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["raikou"],
     "species": "",
     "pokedexEntries": []
   },
@@ -2163,6 +2282,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["raikou"],
     "species": "",
     "pokedexEntries": []
   },
@@ -2179,6 +2299,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["entei"],
     "species": "",
     "pokedexEntries": []
   },
@@ -2195,6 +2316,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["suicune"],
     "species": "",
     "pokedexEntries": []
   },
@@ -2211,6 +2333,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["suicune"],
     "species": "",
     "pokedexEntries": []
   },
@@ -2227,6 +2350,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Lunar Spirit",
     "pokedexEntries": [
       "When Jolteon, Umbreon, or Espeon perish, Ho-oh's flames may grant them new life as Raikou. Said to embody the spirit of lightning, the moon, and the stars—it races across the sky, leaving trails of cosmic light and crackling thunder behind it."
@@ -2245,6 +2369,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Solar Spirit",
     "pokedexEntries": [
       "When Flareon or Leafeon perish, Ho-oh's flames may grant them new life as Entei. Said to embody the spirit of nature and the sun itself, it races across the earth cloaked with golden flames. Soil blooms with vibrant life in its wake."
@@ -2263,6 +2388,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Tidal Spirit",
     "pokedexEntries": [
       "When Vaporeon, Glaceon, Sylveon perish, Ho-oh's flames may grant them new life as Suicune. Said to embody the spirit of purity, water, and the north winds, it races across the ocean—leaving a magnificent trail of mist in its wake. Wherever it touches, the water it said to instantly purify and take on healing qualities."
@@ -2281,6 +2407,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["golem"],
     "species": "Crystal Confection",
     "pokedexEntries": [
       "If Geodude's diet is heavier in sugar crystals than dravite, amber, and other electrical ores, it will evolve into Doozian Graveler instead of Alolan Graveler. Its body is covered in dense layers of crystallised sugar that protects its body—especially its eyes. As it tumbles down hills these layers chip away, leaving glittering shards of sugar behind them. Children sometimes collect and eat these leftover fragments, which is dangerous since these shards are razor sharp and will easily cut skin unless thoroughly smoothed first."
@@ -2299,6 +2426,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Candy Core",
     "pokedexEntries": [
       "After repeated wear and tear, Graveler's shell flakes off in layers, exposing Golem underneath. Each layer reveals brighter and more vibrant colours, and Golem's eyes are now unshielded. Golem will have territorial battles by launching themselves at one another rolling at high speeds. These impacts crack their shells and unleash beautiful crystalline sparks in many colours. Whoever creates the most spectacular display wins the dispute."
@@ -2317,6 +2445,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["golemAlola"],
     "species": "",
     "pokedexEntries": []
   },
@@ -2333,6 +2462,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -2349,6 +2479,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["graveler", "gravelerAlola"],
     "species": "",
     "pokedexEntries": [
       "This gluttonous Geodude is constantly feeding on various minerals. It favours sugar and electrically charged crystals since they give it a happy, buzzy feeling inside. Depending where it lives and what it feeds on it will evolve into two very different forms of Graveler. It is a very easy-going Pokémon, but if you get in the way of its meal time, it will lash out with intensity."
@@ -2367,10 +2498,28 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": ["heatran"],
     "species": "",
     "pokedexEntries": [
       "Field researchers investigating seismic activity in Wela volcano Park's nearby cave systems reported witnessing a Heatran carrying two smaller Pokémon on her back. This was highly unexpected, as all previous research indicates that Heatran are solitary and do not get along with one another. When scientists approaches, the mother Heatran reacted violently. The smaller Pokémon did not attack, but perfectly mimicked her defensive posture. These researchers (who barely escaped) have dubbed these juveniles \"Georupt\". They are incredibly difficult to study due to the sheer rarity and temper of wild Heatran, but it is ground-breaking nonetheless."
     ]
+  },
+  "heatran": {
+    "name": "Heatran",
+    "form": null,
+    "types": ["fire", "steel"],
+    "abilities": [],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "evolvesInto": [],
+    "species": "",
+    "pokedexEntries": []
   },
   "pupulse": {
     "name": "Pupulse",
@@ -2385,6 +2534,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Heartbeat Cocoon",
     "pokedexEntries": [
       "Pupulse's body emit a soft, rhythmic glow that matches the pattern of its heartbeat. Its vital fluids contain potent healing properties, and it naturally generates a faint electric field that can be used to monitor the heart rates of people and Pokémon. Rarely, a Pupulse's evolutions grow so strong that intricate wings begin to form, signalling the final stage of growth. Medical teams keep this Pokémon and its evolutions as helpful technicians and assistants."
@@ -2403,6 +2553,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "IV Fluid",
     "pokedexEntries": [
       "Fluibeat's body is full of liquid that has incredible restorative qualities. It has a mild temper and goes with the flow. It administers its medicine from the syringe-like antennae on its head. Potions and other spray medicine were actually reverse-engineered from Fluibeat."
@@ -2421,6 +2572,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "X-ray",
     "pokedexEntries": [
       "Researchers discovered X-rays by studying Jolbeat's unique anatomy. Jolbeat's antennae function as defibrillators, shocking stopped heartbeats in emergencies. It has a shorter temper than Fluibeat, but is ultimately kind-hearted and helpful to medical teams."
@@ -2439,6 +2591,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Heartbeat Wing",
     "pokedexEntries": [
       "Vitabeat's 2 sets of wings contain thousands of microscopic vessels that pulse with its heartbeat, amplifying its healing capabilities. Medical teams have discovered that these wings feed energy into her several antennae. When these make even brief contact with injured Pokémon, they instantly become healed. It constantly releases a faint humming noise, soothing people and Pokémon alike. She still possesses the ability to harness healing fluids and faint electrical pulses, although not as acutely as Fluibeat and Jolbeat can."
@@ -2457,6 +2610,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Gooey Glutton",
     "pokedexEntries": [
       "Around campsites, tales are told of greedy Grimer rising from abandoned fire pits to drag off leftover snacks, driven by their insatiable appetite. These stories were originally created to keep campers diligent about leaving food out, deterring Ursaring from campsites, but every so often... trails of burning goo are found deep in the forest with no explanation."
@@ -2475,6 +2629,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Molten Monster",
     "pokedexEntries": [
       "This Pokémon's body is made of molten marshmallow and chocolate that never cools. While it might look tasty, be careful! If people or Pokémon touch it, they will never be able to wash it off—and will horribly burnt in the process."
@@ -2493,6 +2648,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Pocky Pal",
     "pokedexEntries": [
       "Wooper's brittle, branch-like gills are coated in a sweet, chocolatey mucus that attracts other Pokémon. Both people and Pokémon will snack on them, but Wooper doesn't seem to mind since it feels no pain and will regenerate them quickly. While it is eager to share and very personable, it loses all control over itself when given sugary food—becoming highly selfish."
@@ -2511,6 +2667,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Doughnut Dunce",
     "pokedexEntries": [
       "Quagsire is very stupid, but very sweet. It spends most of the day lounging around obliviously, sleeping, and eating—offering warm and squishy hugs to any who approach it. Thought empty-headed, Quagsire shows its angry side when something gets in the way of its eating time. It has a comforting presence, not only because it loves to give hugs, but because of the sweet smell it emits thanks to its frosting-like mucus."
@@ -2529,6 +2686,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Baby Brawler",
     "pokedexEntries": [
       "This primitive Pokémon stays close to its mother and siblings, protecting unborn Happiny eggs. Despite its smalls size, Happiny packs a very impressive punch and will test its strength against any intruders. Their skin highly durable and abrasive, capable of tanking most physical damage. Often, the mother Chansey has to come in to help against more formidable."
@@ -2547,6 +2705,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Primal Pouch",
     "pokedexEntries": [
       "Chansey's egg radiates a soothing warmth that can heal open wounds within minutes. She will use it to heal injured family members. However, the harsh environment it evolved in has made it extremely territorial. Chansey will lash out with crushing blows at anything that approaches her nesting grounds without permission! Those who earn its trust find it to be deeply caring, but overprotective."
@@ -2565,6 +2724,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Putrid Pouch",
     "pokedexEntries": [
       "If a Chansey loses her baby, bitterness and despair will corrupt her whole body—turning her inner fluids into a toxic sludge devoid of any healing properties it once had. The stench she emits if so foul that other Pokémon stay far away from it, warding off any foes. This has the downside of isolating her completely. While she no longers needs to nurture life, Blissey still guards he rotting egg out of instinct—living a sad, solitary existence until it is eventually consumed by its own sorrowful rot."
@@ -2583,6 +2743,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Plasma Fox",
     "pokedexEntries": [
       "Due to the strange ultra wormholes popping up around the region—Zorua has taken on a strange resemblance to the Pokémon Zeraora. It still possesses the ability to take on different appearances—but can now utilise its plasma organs inherited from Zeraora to power its attacks up further and move even faster than before."
@@ -2601,6 +2762,7 @@
       "specialDefence": 65,
       "speed": 143
     },
+    "evolvesInto": [],
     "species": "Plasma Predator",
     "pokedexEntries": [
       "Zoroark is far more fierce and malicious than Zeraora—using its illusory abilities in conjunction with intense electric energy to torment and disorient foes before attacking them. While not as lightning-fast as Zeraora, it has a cut-throat spirit and will use dirty tactics to gain the upper hand."
@@ -2619,6 +2781,7 @@
       "specialDefence": 65,
       "speed": 123
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -2635,6 +2798,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Origin Bird",
     "pokedexEntries": [
       "Avicero carries the dormant spark of 3 ancient forces—flame, frost, and lightning. The Legendary Birds origin was unknown by scientists for quite some time. After old Kantonian mythology was found revealing that the birds derived from a single pre-historic ancestor, scientists examined feather samples from the 3 birds to confirm they do in fact share common DNA. Avicero was discovered, and it believed to be this \"zero point\" species, the origin from where the elemental powers split into 3."
@@ -2653,6 +2817,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -2669,6 +2834,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -2685,6 +2851,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -2701,6 +2868,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Guardian Seed",
     "pokedexEntries": [
       "Tapu Bibi embodies the life force that connects the islands of Alola. Its shell, carved out of ancient petrified wood is very hard despite its organic origin. Its shell's sacred geometric marking match the Island Guardians. When Tapu Bibi hides inside it, they glow are said to synchronise with the tides, the weather, and even the growth of plants across the region.",
@@ -2722,6 +2890,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -2738,6 +2907,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -2754,6 +2924,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -2770,6 +2941,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -2786,6 +2958,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Villainous Viper",
     "pokedexEntries": [
       "Its tail rattle emits a rhythmic chime that lulls small prey into a daze. Ekans coaxes other Pokémon into giving up food or territory through subtle suggestion. It slithers across sweltering sands in search of victims, its movements nearly silent. Ancient texts record that certain desert warlords attempted to harness this Pokémon's powers—believing a fully trained Ekans could one day grant divine hypnotic control over all."
@@ -2804,6 +2977,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Sorcerer Serpent",
     "pokedexEntries": [
       "The facial marking on its hood mesmerises all who meet its gaze. Arbok can bend the wills of people and Pokémon, hypnotising them into doing its bidding. It tempts humans with promises of fortune and powers, its calm calculated facade falls—becoming enraged. When angered its hot breath becomes fiery and uncontrollable—burning everything around itself."
@@ -2822,6 +2996,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Wave Wisp",
     "pokedexEntries": [
       "This playful Pokémon pops in and out of sight, letting the ocean carry itself wherever it may drift. Sailors claim that when its spirals glow brightly, the harsh waves miraculously clear up around it. Mantyke is said to soothe frightened swimmers with its soft, luminous glow. Only a lucky few have ever been able to see one for themselves."
@@ -2840,6 +3015,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Storm Spirit",
     "pokedexEntries": [
       "Legends say this Pokémon carries the memories of every soul lost at sea. Its wings glow with swirling patterns that shift like the tides, guiding sailors safely through stormy seas. When it breaches the water, even the most violent waves calm beneath it. Coastal cities have worshipped it as a gentle guardian whose presence ensures safe passage for centuries."
@@ -2858,6 +3034,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Prismatic Pup",
     "pokedexEntries": [
       "This playful Pokémon's fur refracts light, and is warm and soothing to pet. Growlithe are naturally drawn to kind-hearted people. Their paws leave a shimmering glow behind wherever they step. According to legends, these pawprints are said to ward off misfortune."
@@ -2876,6 +3053,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Brilliant Beast",
     "pokedexEntries": [
       "Revered since ancient times as a celestial guardian, Arcanine is said to descend only when harmony is threatened. Its brilliant mane light the land, and it leaves a glorious trail as it runs. Myths claim its trail marks places blessed by divine protection."
@@ -2894,6 +3072,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Heart Scale",
     "pokedexEntries": [
       "This gentle yet hardy Pokémon highly protective of baby Nidoran hatchlings. Using her specialised scales, she has the ability to heal wounds and soothe pain. Despite what her warm nature may imply, her body covered in hard scales and spines—letting her hold her own against larger foes. This Pokémon will sacrifice everything for the ones it loves, even at risk of her own life and spirit."
@@ -2912,6 +3091,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Savage Spine",
     "pokedexEntries": [
       "This ruthless Pokémon is born into tightly-knit family groups—but male Nidoran rarely stay for long. As they mature their bodies harden into brutal spines and jagged armour—and an uncontrollable ferocity begins to burn within them. Their scar covered hide tell stories of countless battles. Unable to tolerate other Pokémon, and too aggressive to live amongst their own kin—they isolate themselves to solitary lives, picking fights with anything that crosses their path. They only tolerate other Nidoran when mating season arrives."
@@ -2930,6 +3110,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Heartbreak",
     "pokedexEntries": [
       "Nidoqueen is said to evolve from Nidorina who gave their lives to protect a loved one and failed, losing their loved ones in the process. The love that remains binds her spirit together, forming this spectral body clad in hardened scales fueled by grief. Thought wrought with sorrow, Nidoqueen is still gentle by nature—tending to injured, protecting the vulnerable, and healing others wih the little warmth she still carries... even if her own heart will be broken forever."
@@ -2948,6 +3129,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Scorching Spike",
     "pokedexEntries": [
       "Some Nidorino become so consumed by rage their bodies cannot contain it. When their fury burns past the point of pain, fear, or reasoning they ignite into Nidoking. Their molten spines radiate heat and their footsteps scorch the ground. Their mere presence warps the air around it... like a living furnace. Unlike Nidoqueen, there is no kindness left in them. An inferno rages in their heart, seeping out through their chest visually. They roam in solitude, driven by a need to fight anything and everything that crosses their paths."
@@ -2966,6 +3148,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Hatchling",
     "pokedexEntries": [
       "Nidoran are unique in that they hatch without a determined sex. It keeps its eggshell armour to protect itself until mature, tougher hide develops. Scientists do not fully understand what causes a Nidoran to develop into a male or female, but it is an inevitable part of their life cycle. Some theorise it is based on their socialisation, but other research suggests mundane things like their incubation temperature play a factor. Some unconventional scientists theorise about chemicals in the drinking water have become popular over the years."
@@ -2984,6 +3167,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": [
       "A very rare and withdrawn Pokémon once believed to be extinct, Lunare is said to appear only in remote areas under the light of a full moon. Its sudden appearances were long associated with misfortune. This superstition gave rise to a cruel practice: that the only way to ward off the \"bad luck\" of encountering one was to capture is and sever its foot to keep as a charm. Combined with its already elusive nature, this devastated its population and forced the remaining families into deeper hiding.",
@@ -3003,6 +3187,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -3019,6 +3204,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -3035,6 +3221,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Conductor Wing",
     "pokedexEntries": [
       "Spearow's body utilises metal plating to help it conduct and absorb electricity better. Over time, this changes its entire physiology! Those who consume enough electricity become surging thunderbirds, while those who expand on their metal armour evolve tough, steel-plated bodies with sword-like wings. Trainers say its destiny is decided by the environment it is raised in."
@@ -3053,6 +3240,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": [
       "In Alola, these Pokémon are much faster than normal. They were thought to be bringers of tropical storms by people in the past.",
@@ -3073,6 +3261,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -3089,6 +3278,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -3105,6 +3295,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Amber Fossil",
     "pokedexEntries": [
       "Revived from old amber, its body still carries trapped static energy from the fossilised resin it onces rested in. Lightning constantly dances across its cracked golden wings. Its jagged static-charged jaws can unleash devastating electrical bites that leave prey paralysed before they even realise they've been struck."
@@ -3123,6 +3314,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Volcanic Fossil",
     "pokedexEntries": [
       "Upon Mega Evolution, Aerodactyl is consumed by the wrath of extinction. Once preserved in amber, it is now reborn in blazing magma. Its body radiates unbearable heat. Every beat of its wings rains burning embers. Its molten fangs can melt stone on contact. It mercilessly annihilated anything in its path, as if determined to make the world feel the pain it once felt during extinction."
@@ -3141,6 +3333,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Tar Fossil",
     "pokedexEntries": [
       "This Pokémon's body is encased in petrified tar with only its fossilised bones exposed. The growths on its back are not wings, but heat-absorbing sails Druddigon used in the past to regulate its temperature before going extinct. Now—it's bone chilling cries echo throughout its territory, made even more horrific by miserable stench of rot and decay that accompanies it. Nearby plants wither as ancient toxins seep from its wretched hide."
@@ -3159,6 +3352,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Frozen Fossil",
     "pokedexEntries": [
       "Once an apex predator, this Pokémon went extinct as the Earth entered a prolonged ice age. Some Tyrantrum were preserved in ice during this period and recently revived. Now highly adapted to the frigid environment that caused its initial demise, its frozen teeth flash-freeze whatever they come into contact with. After, its immense bite force shatter the prey into countless shards of ice. Its diet consists of any and all tundra-dwelling Pokémon from mighty Mamoswine, weighty Walrein, beastly Beartic, study Sandslash, and everything in between. Its thunderous roars are said to chill the land itself, announcing a new reign of a fallen king with no rivals."
@@ -3177,6 +3371,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Primal Seed",
     "pokedexEntries": [
       "Primora is said to be a living fragment of the world's ancient landscapes. Its body is a tiny, fertile ecosystem with traces of water, ice, and plant-life. It is highly adaptable and its body undergoes significant changes as it grows—branching into an aquatic, terrestrial, or aerial Pokémon."
@@ -3195,6 +3390,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -3211,6 +3407,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -3227,6 +3424,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -3243,6 +3441,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Plasma Cell",
     "pokedexEntries": [
       "A failed biotech experiment designed to absorb ambient noise and convert it into power. It not releases bursts of EM interference when startled. Whismur's internal processors are underdeveloped to contain its energy. THe status discharge from its cries can cause technology nearby to malfunction. It's not certain where this Pokémon originated from, but come conspiracy theorists tie it into the dimensional research lab."
@@ -3261,6 +3460,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Overload",
     "pokedexEntries": [
       "Loudred absorbs sound and electricity and converts it using its specialised cells. When Loudred becomes excited or angered, it becomes a hazard to public safety; causing Pokémon Centres within a few miles to have power outages."
@@ -3279,6 +3479,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Cataclysm",
     "pokedexEntries": [
       "Many popular monster movies have been made centreing Dynamaxed Exploud terrorising major cities like Castelia and Saffron city. However, this Pokémon's danger is not purely cinematic—its mere presence is a danger to civilisation. When it roars, all technology within a 10 miles radius is completely shut down. Its breath crackles the air around it from status electricity."
@@ -3297,6 +3498,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Festive",
     "pokedexEntries": [
       "Electrike is a favourite amongst many for the positive energy it exudes on all those who see it. It is warm to the touch and loves to cuddles. Electrike spends its days searching for trinket to bring to its owner as gifts."
@@ -3315,6 +3517,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Glowpine",
     "pokedexEntries": [
       "When in danger, it sends out blinding flashes of light that confuse foes. During cold winter nights, packs of these Manectric can be seen from miles away. Ancient villages are said to have celebrated winter holidays by gathering near this Pokémon, believing its vibrant glow brought good fortune and a calm winter."
@@ -3333,6 +3536,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Frostpike",
     "pokedexEntries": [
       "The power Mega Evolution has turned this once cheerful Pokémon into a jagged, merciless predator of the tundra. Its icy spines can pierce solid rock and its once glowing body has been replaced by a frozen shimmer. It lashes out even at familiar trainers, requiring a strong bond to tame. However, those who manage to tame one say they can see a glimpse of joy in tis eyes in the heat of battle."
@@ -3351,6 +3555,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Pop Performer",
     "pokedexEntries": [
       "This Smoochum spends hours brushing its glittery hair and posing in the mirror with its fashionable clothing. The gemstones it adorns amplify its psychic power, allowing them to sense the mood of the crows and adapt their performance in real time. When it feels ignores, it sulks dramatically until it receives attention again."
@@ -3369,6 +3574,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Passion Performer",
     "pokedexEntries": [
       "Jynx burns with intense desire for the spotlight. Her voice heats the air around herself, and her fiery dance moves leave audiences breathless as her dress morphs into beautiful shapes. Her jewelry and gemstones harness her psychic powers, with the heart shaped gem glowing when she receives applause. However, she has a very short temper—critics often find themselves horribly burnt after giving bad reviews."
@@ -3387,6 +3593,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Pulse Performer",
     "pokedexEntries": [
       "Meloetta's voice syncs with her glowing neon hair to create hypnotic digital melodies that encapsulate her highly devoted fans. When it sings, the entire crowd moves in unison to the beat. It is believed her pulsing heart markings keep her in sync with her audience. If angered, she can cause blackouts for miles."
@@ -3405,6 +3612,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Prima Performer",
     "pokedexEntries": [
       "Meloetta expresses herself through graceful dance and gentle humming classical tunes. The air around her crystallises as she spins, leaving trails of frost shaped like ribbons. Every single move she makes calculated. She does not often make mistakes—but if she does, she becomes angry and will rapidly chill the ground around herself for miles. Any unfortunate enough to be standing on it are frozen in place."
@@ -3423,6 +3631,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Sweet Spore",
     "pokedexEntries": [
       "Vanillite is perpetually tired and unwell as a faint mould grows on its once tasty body. The fungus that inhabits its body is theorised to have a mind of its own, forming tiny, innocent looking smiles when it takes control. Some scientists even believe the fungus is a colony of microscopic Pokémon that work in unison. As it stands, Vanillite is still in control—but for how long?"
@@ -3441,6 +3650,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Frosty Fungus",
     "pokedexEntries": [
       "As the mould spreads, Vanillish becomes visibly distressed. It can feel the fungus creeping all around its body and even over its eyes, watching helplessly as it loses strength. The mold's smile is even more tangible now than before as it begins to win the battle for control."
@@ -3459,6 +3669,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Confection Infection",
     "pokedexEntries": [
       "One of Vanilluxe's heads have been fully overtaken by mould. It is calm, content, and vacant; almost child-like in nature. This head is only capable of laughing as if it is genuinely amused by everything. It is believed this is the mould's true nature, sedating the Pokémon so they have less will to fight the infection. The other head is still resisting, clinging on to any remaining bits of control it has left. The life cycle continues as spores expel from the pipe on their heads, drifting through the air and spreading to other Pokémon."
@@ -3477,6 +3688,7 @@
       "specialDefence": 105,
       "speed": 35
     },
+    "evolvesInto": [],
     "species": "Cryptic Cauldron",
     "pokedexEntries": [
       "Victreebrew's body has hardened into iron upon evolution. It is filled with a volatile, acidic concoction that never ceases bubbling. It slowly floats about, and carefully stirs its own brew with its tail to adjust the mixture. The ooze that spills out from its mouth can corrode nearly anything—yet its own body is never harmed... as if it is protected by a magical seal. It is said that if the acid does not kill you first, the gases it emits can drive you mad with visions of eldritch creatures from another dimension."
@@ -3495,6 +3707,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Paranormal Potion",
     "pokedexEntries": [
       "The fluid Spellsprout creates is mildly corrosive and toxic, but also has many magical properties. Many people have reports of unsettling visions when exposed to it. Some see visions of a black hole, void, or portals, while others see visions of monsters with many terrifying teeth and tentacles."
@@ -3513,6 +3726,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Ethereal Elixir",
     "pokedexEntries": [
       "This Pokémon is constantly bubbling and murmuring strange incantations to itself. The effect of its concoction is unpredictable—if one person ingests it they may simply fall ill or burn themselves... but another person may shapeshift entirely into a different form. Some may even sprout wicked wings or extradimensional eyes."
@@ -3531,6 +3745,7 @@
       "specialDefence": 90,
       "speed": 90
     },
+    "evolvesInto": [],
     "species": "Magical Maw",
     "pokedexEntries": [
       "Little is known about this enigmatic Pokémon. It is believed to be created when a Weepinspell's ritual catastrophically fails, tearing open a passage to another dimension. Witnesses to these rituals report visions of a far larger being beyond Carnivoid's form, a colossal mass of tentacles and a vast, gaping maw. Some researchers believe Carnivoid is only a partial manifestation of that entity, constrained into a smaller and more stable shape within this world."
@@ -3549,6 +3764,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Comet",
     "pokedexEntries": [
       "Taillow can be spotted gazing deeply into the night sky in large group. They hide during the day, and come out at night. When they flock, they blend in with the stars above—camouflaging them from both predators are prey."
@@ -3567,6 +3783,7 @@
       "specialDefence": 35,
       "speed": 145
     },
+    "evolvesInto": [],
     "species": "Apparition",
     "pokedexEntries": [
       "Swellow is in a constant state of motion. It moves with such speed that the ice on its body is constantly melting—creating trails of beautiful dust behind it. Some Swellow have a deeper, cosmic connection with space, and can evolve further beyond their current form."
@@ -3585,6 +3802,7 @@
       "specialDefence": 40,
       "speed": 160
     },
+    "evolvesInto": [],
     "species": "Perihelion",
     "pokedexEntries": [
       "Latios tears through the atmosphere at blinding speeds in a blaze of heat and frozen stardust. The force of its movement scorches and air around, leaving beautiful burning trails of light in its wake. One of its favoured methods of attack is charging at full speed into its does, striking with an impact powerful to shatter the ground beneath them."
@@ -3603,6 +3821,7 @@
       "specialDefence": 140,
       "speed": 130
     },
+    "evolvesInto": [],
     "species": "Aphelion",
     "pokedexEntries": [
       "Latias is quite elusive—only passing near Earth every 100 years. It floats gracefully through the cold, deep void of space. When soaring, it leaves behind a glorious trail of cosmic dust. Some say if you make wish when it appears, that a lucky few have their wishes come true."
@@ -3621,6 +3840,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Sundial",
     "pokedexEntries": [
       "Roggenrola is completely blind. It's \"eye\" shaped organ detects only sound and sunlight. The solar crystal atop its head absorbs sunlight and is incredibly hot to the touch. Ancient civilisations used it to help tell time because its body moves according to the sun's positioning."
@@ -3639,6 +3859,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Energy Ore",
     "pokedexEntries": [
       "Because its solar energy was too great to be contained, the energy leaked and formed orange crystals. It lies still for so long that moss grows on its body, almost like a plant growing in the sun. It requires a massive amount fo sunlight to evolve."
@@ -3657,6 +3878,7 @@
       "specialDefence": 90,
       "speed": 10
     },
+    "evolvesInto": [],
     "species": "Solar Crystal",
     "pokedexEntries": [
       "The blasts of energy it makes from sunbeams have terrifying power. However, it's not able to fire its blasts at night or on rainy days. Ancient civilisation used to worship this Pokémon for its terrifying power and ability to harness solar energy, using it to power everything from lights to cooking equipment."
@@ -3675,6 +3897,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Toaster Teddy",
     "pokedexEntries": [
       "Teddiursa radiates a gentle, dry heat and smells of grease, burnt toast, and smoke. It eagerly burns its own food using the heating coils on its belly and ears—it prefers its meals charred. The lever on the back of its head pops up when its hungry or excited—startling those nearby with its sudden ding and burst of heat. Teddiursa likes to give hugs—but becomes sad and embarrassed when it burns its trainer."
@@ -3693,6 +3916,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Barbeque Bear",
     "pokedexEntries": [
       "Ursaring possesses a terrifying appetite, reducing anything edible to burnt scraps using its body before devouring it. It sleeps during the day and is usually timid and non-confrontational, only becoming hungry and aggressive at night. WHen hunting in the dark, it appears as a walking inferno, identifiable only by the intense glow and the sound of deep growls mixed with the sound of burning fire. Its presence is said to haunt forests at night—a camper's worst nightmare."
@@ -3711,6 +3935,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -3727,6 +3952,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "fermentation",
     "pokedexEntries": [
       "A group of small worm Pokémon hollow out a deceased Bounsweet and live within it as a shared body. As they consume the fruit, it ferments and bubbles inside, producing thick, sugary juice and a pungent, sour aroma. The worms happily wriggle within, keeping the \"shell\" moving as if it were alive. One worm usually claims the head as its \"leader\", tending to be the most aggressive and confident of the group. Once the shell has been sapped of all its nutrients, the worms will move on to another host. Many people consider the potent juices produced by Bounsour a rare delicacy... but consuming more than a few drops will make one violently ill!"
@@ -3745,6 +3971,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -3761,6 +3988,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -3777,6 +4005,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -3793,6 +4022,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Zombie Fungus",
     "pokedexEntries": [
       "The bug host is drained of energy by the mushrooms on its back. They appear to do all the thinking. The bug is mostly dead, with the mushroom on its back having become the main body. If the mushroom comes off, the bug stops moving.",
@@ -3812,6 +4042,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Frost Flash",
     "pokedexEntries": [
       "Shinx generate a gentle electric pulse to keep themselves warm in the intense climates they inhabit, insulated by their dense fur coat. They travel in small groups under the watch of Luxray, carefully observing hunts to learn how to track prey across the tundra. They have specially adapted ears to hear faint footsteps for hundreds of feet—event in intense blizzards."
@@ -3830,6 +4061,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Snow Spark",
     "pokedexEntries": [
       "Luxio's wide, insulated paws allow it to sprint effortless across deep snow in complete silence. It stalks prey for hours across the frozen tundra, communicating with other Luxio through electric light flashes from its tail. Hunters say despite this, a Luxio is never spotted until it pounces. They still hunt in small packs when targeting larger prey such as Piloswine or Sawsbuck."
@@ -3848,6 +4080,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Frozen Gaze",
     "pokedexEntries": [
       "Every aspect of Luxray is adapted to hunting in snowy climates. Now efficient enough to be a solo hunter, Luxray can track prey for miles using its combined heat vision and X-ray vision. It is able to see prey buried in snow, hiding in caves, behind solid ice and stone, and more. Once Luxray has set its sights on a target it will always succeed in tracking it down. Its piercing gaze is said to freeze prey in place once they meet. If its gaze is said to freeze prey in place once they meet eyes. If its gaze does not stop them, it utilises intense electric shocks to stun its prey before finishing them off."
@@ -3866,6 +4099,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Ghastly Grin",
     "pokedexEntries": [
       "These playful tricksters delight in making people feel uneasy—footsteps behind them, shapes moving in the corner of their vision, etc. Glameow slip in and out of sight so quickly that witnesses swear they completely vanished. In the dark, only their glowing eyes, grin, and stripes remain visible—swaying hypnotically to confuse any who see it."
@@ -3884,6 +4118,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Sinister Smile",
     "pokedexEntries": [
       "Purugly use their hypnotic eye to disorient foes before lunging in for a crushing bite to finish the job. Despite their mischievous nature, they are also physically sturdy and can overpower opponents with strength alone. Purugly likes to play with their food. Once it sets its sights on a target, it will torment them with psychological illusions for hours before it gets bored and finally pounces."
@@ -3902,6 +4137,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Mind Minion",
     "pokedexEntries": [
       "Psyduck's hairs act as antennae, receiving hypnotic signals emitted from the gemstones in Golduck's crown. These constant psychic commands cause intense headaches, leaving Psyduck in a confused trance as they carry out their ruler's evil bidding. Some Psyduck are especially stubborn, but are swayed by being held down and forced to stare in Golduck's hypnotic eyes by their fellow Psyduck. At night, flocks of Psyduck guard Golduck's kingdom, and can be seen form a distance marching in unison, illuminated only by the glow of their eyes reflecting off of the ice and snow."
@@ -3920,6 +4156,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Mad Monarch",
     "pokedexEntries": [
       "Golduck has been driven mad with power sourced from its crown. Its powers have cursed it with sleeplessness, leaving it with deep shadows under its eyes. It it uncertain how much autonomy Golduck itself has—whether the crown is controlling it, or it is controlling the crown. Highly unstable, Golduck lash out against its underlings despite them following its every bidding. If they make even the slightest mistake, they are banished from the kingdom and left to fend for themselves in the harsh arctic tundra."
@@ -3938,6 +4175,7 @@
       "specialDefence": 114,
       "speed": 80
     },
+    "evolvesInto": [],
     "species": "Hot Spring Siphon",
     "pokedexEntries": [
       "Gorebyss is incredibly sensitive to water quality and temperature. Even the slightest impurities will render it ill. It inhabits cold mountain regions where pristine hot springs form. Using its long proboscis it siphons heat, water, and nutrients from the hydrothermal vents in the springs. Normally peaceful, Gorebyss drifts elegantly through the steaming waters. If angered, its body rapidly heats up and releases explosive blasts of boiling or freezing water like an erupting geyser."
@@ -3956,6 +4194,7 @@
       "specialDefence": 114,
       "speed": 80
     },
+    "evolvesInto": [],
     "species": "Deep Sea Serpent",
     "pokedexEntries": [
       "Unlike its sensitive counterpart Gorebyss, Huntail thrives in the harsh depths of the ocean. It lurks among turbulent hydrothermal vents where superheated chemicals and toxic gases pour into the water. Its body is glowing with molten light, and smoke constantly pours from its maw. Huntail hides within these vents with only its tail exposed. Using the eerie lure at the tip of its tail, it draws curious prey close before chomping down. If the prey is too large to finish in one bite, the horrible toxins embedded in its teeth will quickly weaken the victim before it can escape."
@@ -3974,6 +4213,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Hydrothermal",
     "pokedexEntries": [
       "Remoraid is highly adaptable and is capable of living in both fresh and salt water. It only requires heat energy from geothermal vents—which can be found in hot sprints or in the deep sea. The extreme heat causes its body to glow from within as it stores the energy in specialised organs that resemble vents with veins flowing through them. When threatened, it releases this build-up power in quick, explosive blasts."
@@ -3992,6 +4232,7 @@
       "specialDefence": 75,
       "speed": 75
     },
+    "evolvesInto": [],
     "species": "Pig Iron",
     "pokedexEntries": [
       "It stores heat within the orb on its head, formed from compressed coal and crude pig iron. Its superheated tail becomes flexible, allowing it to bounce and circulate heat through its body. Spoink gather in ore-rich caverns, absorbing minerals and carrying them back to their herd. Clumsy with their stubby arms, they act as eager assistants learning the basics of forging under the watchful guidance of Grumpig. It is theorised they can only evolve when Grumpig feels they are ready."
@@ -4010,6 +4251,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Blacksmith",
     "pokedexEntries": [
       "Grumpig are skilled craftsmen that define the minerals collected by Spoink into durable metal. The protective goggles they forge shield them from ash and heat, and they distribute these to Spoink as well! They are know to hoard rare metals and gold, proudly displaying their finest specimens like treasure. Cheerful yer prideful, they carefully train their assistants and will fiercely defend both their creations and their students from harm."
@@ -4028,6 +4270,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Frostbud",
     "pokedexEntries": [
       "By absorbing fertile soil, it can rapidly sprout leaves, even in the harshest of climates. Neighbouring plants die out when Chikorita feeds, as it absorbs all of the nutrients for itself."
@@ -4046,6 +4289,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Frostbloom",
     "pokedexEntries": [
       "The pods on its neck act as specialised storage organs, allowing it to stay healthy and flourish even in the coldest winters. When Spring comes, it will shed these pods, growing them again in the fall."
@@ -4064,6 +4308,7 @@
       "specialDefence": 105,
       "speed": 50
     },
+    "evolvesInto": [],
     "species": "Permafrost",
     "pokedexEntries": [
       "This Pokémon leaves a dense layer of frost on the ground with every step. Despite this, the soil grows richer over time where it has touched, emerging fertile and lively once it thaws in the Spring. Some Meganium can live for hundreds of years, roaming the lands, feasting only on plants and absorbing nutrients from the soil."
@@ -4082,6 +4327,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Snowy Spine",
     "pokedexEntries": [
       "It remains perfectly still among rocky slopes and riverbanks, blending into the terrain. Its powerful jaws can bring down prey over twice its size. Trainers truck by its bite often freeze before they can escape. Despite this, it hunts with a childlike innocence, driven purely by instinct."
@@ -4100,6 +4346,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Stone Stalker",
     "pokedexEntries": [
       "It hides among loose stones in freezing mountain streams for days, leaving only its spines exposed. When prey approaches, it lunges with sudden speed, clamping down before slipping back beneath the water. Croconaw are driven into poor feeding grounds by territorial Feraligatr, where they are forced to fight over what little scraps of territory remain."
@@ -4118,6 +4365,7 @@
       "specialDefence": 85,
       "speed": 70
     },
+    "evolvesInto": [],
     "species": "Summit Slayer",
     "pokedexEntries": [
       "Feraligatr is an absolute master of camouflage, blending in seamlessly with the mountain environment it inhabits. Even the most keen eyed Pokémon are fooled. It moves effortlessly across cliffs, through snow, and below the freezing waters—leaving most prey with nowhere to escape its grasp. It still prefers to hunt by lying still, waiting for unsuspecting prey to ambush, but if it fails it is more than capable of chasing. Entire mountain ranges are said to fall silent after a Feraligatr claims them as its hunting ground."
@@ -4136,6 +4384,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Cryo Core",
     "pokedexEntries": [
       "ITs body is very cold to the touch, but when threatened it vents intense flames from its back—shifting from frozen stillness to energised heat in seconds. Some people train them to maintain the temperature of their rooms. It has a calm, happy temperament but can become dangerous if irritated."
@@ -4154,6 +4403,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "Pressure Pulse",
     "pokedexEntries": [
       "It can regulate the temperature of small buildings with precision, keeping people and Pokémon stable and comfortable. It has a shorter fuse than Cyndaquil does, so if it is angered this delicate balance can quickly shift—causing immense spikes in temperature in seconds."
@@ -4172,10 +4422,47 @@
       "specialDefence": 98,
       "speed": 78
     },
+    "evolvesInto": [],
     "species": "Thermal Thrust",
     "pokedexEntries": [
       "Upon evolving, the energy within its body becomes too great to fully contain. It runs on a volatile mix of heat, cold, and electrical energy. When internal pressure builds, it releases violent blasts through the vents along its back. Entire cities have been left scorched, frozen, and drained of electricity when its power goes unchecked."
     ]
+  },
+  "foongus": {
+    "name": "Foongus",
+    "form": null,
+    "types": ["psychic", "steel"],
+    "abilities": ["neuroforce", "unnerve", "darkImmunity", "imposter"],
+    "stats": {
+      "hp": 0,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "evolvesInto": ["amoonguss"],
+    "species": "Mimicry",
+    "pokedexEntries": [
+      "It emits psychic signals from the lights beneath its brain helmet that distort perception, causing each observer to see something different. Its body subtly shifts to match these projections, though the forms are never perfectly stable. Its eye can read the expectations of nearby creatures, allowing it to mimic whatever would draw them closer before firing off concentrated laser beams."
+    ]
+  },
+  "amoonguss": {
+    "name": "Amoonguss",
+    "form": null,
+    "types": ["psychic", "steel"],
+    "abilities": ["strongJaw", "unnerve", "darkImmunity", "imposter"],
+    "stats": {
+      "hp": 111,
+      "attack": 0,
+      "defence": 0,
+      "specialAttack": 0,
+      "specialDefence": 0,
+      "speed": 0
+    },
+    "evolvesInto": ["foongus"],
+    "species": "Imposter",
+    "pokedexEntries": ["This Pokémon's massive brain, 3 eyes, and lights, release a symphony of psychic"]
   },
 
   "sandshrew": {
@@ -4191,6 +4478,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4207,6 +4495,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4223,6 +4512,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4239,6 +4529,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4255,6 +4546,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4271,6 +4563,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4287,6 +4580,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4303,6 +4597,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4319,6 +4614,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4335,6 +4631,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4351,6 +4648,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4367,6 +4665,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4383,6 +4682,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4399,6 +4699,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4415,6 +4716,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4431,6 +4733,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4447,6 +4750,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4463,6 +4767,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4479,6 +4784,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4495,6 +4801,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4511,6 +4818,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4527,6 +4835,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4543,6 +4852,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4559,6 +4869,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4575,6 +4886,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4591,6 +4903,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4607,6 +4920,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4623,6 +4937,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4639,6 +4954,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4655,6 +4971,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4671,6 +4988,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4687,6 +5005,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4703,6 +5022,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4719,6 +5039,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4735,6 +5056,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4751,6 +5073,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4767,6 +5090,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4783,6 +5107,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4799,6 +5124,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4815,6 +5141,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4831,6 +5158,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4847,6 +5175,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4863,6 +5192,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4879,6 +5209,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4895,6 +5226,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4911,6 +5243,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4927,6 +5260,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4943,6 +5277,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4959,6 +5294,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4975,6 +5311,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -4991,6 +5328,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -5007,6 +5345,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -5023,6 +5362,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -5039,6 +5379,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -5055,6 +5396,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -5071,6 +5413,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -5087,6 +5430,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -5103,6 +5447,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -5119,6 +5464,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -5135,6 +5481,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -5151,6 +5498,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -5167,6 +5515,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -5183,6 +5532,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -5199,6 +5549,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -5215,6 +5566,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -5231,6 +5583,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -5247,6 +5600,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -5263,6 +5617,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -5279,6 +5634,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -5295,6 +5651,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -5311,6 +5668,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -5327,6 +5685,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -5343,6 +5702,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -5359,6 +5719,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -5375,6 +5736,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -5391,6 +5753,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -5407,6 +5770,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   },
@@ -5423,6 +5787,7 @@
       "specialDefence": 0,
       "speed": 0
     },
+    "evolvesInto": [],
     "species": "",
     "pokedexEntries": []
   }

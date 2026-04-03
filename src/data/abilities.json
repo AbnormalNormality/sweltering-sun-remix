@@ -163,6 +163,10 @@
     "name": "Illusion",
     "description": ""
   },
+  "imposter": {
+    "name": "Imposter",
+    "description": ""
+  },
   "incinerate": {
     "name": "Incinerate",
     "description": ""

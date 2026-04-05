@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-SRC="/home/alia/Code/Data/Dooz"
+SRC="$HOME/Code/Archives/Dooz Data/0"
 DEST="$PWD/src/data"
 
 mkdir -p "$DEST"

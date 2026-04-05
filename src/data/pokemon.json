@@ -2197,7 +2197,16 @@
       "specialDefence": 0,
       "speed": 0
     },
-    "evolvesInto": ["vaporeon", "jolteon", "flareon", "espeon", "umbreon", "leafeon", "glaceon", "sylveon"],
+    "evolvesInto": [
+      "vaporeon",
+      "jolteon",
+      "flareon",
+      "espeon",
+      "umbreon",
+      "leafeon",
+      "glaceon",
+      "sylveon"
+    ],
     "species": "",
     "pokedexEntries": []
   },
@@ -3305,7 +3314,7 @@
     "name": "Aerodactyl",
     "form": "Mega",
     "types": ["rock", "fire"],
-    "abilities": ["levitate", "headstrong", "merciless", "flameBody"],
+    "abilities": ["levitate", "headstrong", "merciless", "flameBody", "incinerate"],
     "stats": {
       "hp": 0,
       "attack": 0,
@@ -4460,9 +4469,11 @@
       "specialDefence": 0,
       "speed": 0
     },
-    "evolvesInto": ["foongus"],
+    "evolvesInto": [],
     "species": "Imposter",
-    "pokedexEntries": ["This Pokémon's massive brain, 3 eyes, and lights, release a symphony of psychic"]
+    "pokedexEntries": [
+      "This Pokémon's massive brain, 3 eyes, and lights, release a symphony of psychic manipulation that can deceive any creature. Sometimes it prefers to lure by changing its appearance, but other times it will reveal its true form and overwhelm them. Its pulsating brain emits disorientating psychic waves. Its limb-like eye stalks can stretch to extreme lengths, while its torso can split into massive jaws, allowing it to consume prey far larger than itself."
+    ]
   },
 
   "sandshrew": {
